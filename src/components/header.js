@@ -5,6 +5,9 @@ import styles from "./header-css-modules.module.css";
 
 const Header = ({ siteTitle }) => (
   <header>
+    <div className={styles.social}>
+      <Link to="/chi-sono">Chi sono</Link>
+    </div>
     <div className={styles.header}>
       <h1 className={styles.headerTitle}>
         <Link to="/">

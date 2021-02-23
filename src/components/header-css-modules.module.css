@@ -1,8 +1,19 @@
-.header {
+header {
     max-width: 1200px;
-    margin: 40px auto;
-    text-align: center;
+    margin: 30px auto;
+}
+
+.social {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 20px;
+    padding-bottom: 20px;
+    text-align: end;
+}
+
+.header {
     border-bottom: 1px solid black;
+    text-align: center;
 }
 
 .headerTitle {
