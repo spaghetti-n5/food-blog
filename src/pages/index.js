@@ -1,11 +1,11 @@
-import React from "react"
+import React from "react";
 import { graphql, Link } from "gatsby";
 
 import SEO from "../components/seo";
-import Layout from "../components/layout"
-import Img from "gatsby-image"
+import Layout from "../components/layout";
+import Img from "gatsby-image";
 
-import styles from "./index-css-modules.module.css"
+import styles from "./index-css-modules.module.css";
 
 export default function Home({ data }) {
   console.log(data)
