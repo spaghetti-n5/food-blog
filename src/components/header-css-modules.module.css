@@ -19,3 +19,17 @@
     font-size: 23px;
     padding: 15px 0;
 }
+
+@media only screen and (max-width: 480px) {
+    .header {
+        margin: 20px 15px;
+    }
+    .headerTitle {
+        line-height: 30px;
+        font-size: 30px;
+    }
+
+    .headerSubTitle {
+        font-size: 16px;
+    }
+  }

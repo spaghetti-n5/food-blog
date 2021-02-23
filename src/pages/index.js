@@ -3,7 +3,6 @@ import { graphql, Link } from "gatsby";
 
 import SEO from "../components/seo";
 import Layout from "../components/layout"
-import Image from "../components/image"
 import Img from "gatsby-image"
 
 import styles from "./index-css-modules.module.css"
@@ -13,11 +12,6 @@ export default function Home({ data }) {
   return (
     <Layout>
       <SEO title="Home" />
-      <div>
-        <h1>Tutte le ricette</h1>
-        <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-          <Image />
-        </div>
         <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
         <div className={styles.thumbPostContainer}>
           {data.allMarkdownRemark.edges.map(({ node }) => {
@@ -34,7 +28,6 @@ export default function Home({ data }) {
                 </div>
           )})}
         </div>
-      </div>
     </Layout>
   )
 }

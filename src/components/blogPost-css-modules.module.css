@@ -17,3 +17,9 @@
     font-style: italic;
     padding-bottom: 12px;
 }
+
+@media only screen and (max-width: 480px) {
+    .postContainer {
+        margin: 20px auto;
+    }
+  }
