@@ -1,28 +1,28 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Img from "gatsby-image"
+import React from "react";
+import { graphql } from "gatsby";
+import Img from "gatsby-image";
+import Layout from "./layout"
 
-export default function Template({
+import styles from "./blogPost-css-modules.module.css";
+
+export default function BlogPost({
   data, // this prop will be injected by the GraphQL query below.
 }) {
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
-
-  let featuredImgFluid = frontmatter.coverImage.childImageSharp.fluid
-
-  console.log(frontmatter)
+  const featuredImgFluid = frontmatter.coverImage.childImageSharp.fluid
   return (
-    <div className="blog-post-container">
-      <div className="blog-post">
-        <h1>{frontmatter.title}</h1>
-        <h2>{frontmatter.date}</h2>
+    <Layout>
+      <div className={styles.postContainer}>
+        <h2 className={styles.postDate}>{frontmatter.date}</h2>
+        <h1 className={styles.postTitle}>{frontmatter.title}</h1>
         <Img fluid={featuredImgFluid} />
         <div
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
-    </div>
+    </Layout>
   )
 }
 
@@ -35,7 +35,7 @@ export const pageQuery = graphql`
         title
         coverImage {
           childImageSharp {
-            fluid(maxWidth: 800) {
+            fluid(maxWidth: 600) {
               ...GatsbyImageSharpFluid
               ...GatsbyImageSharpFluidLimitPresentationSize
             }

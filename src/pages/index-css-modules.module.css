@@ -1,0 +1,40 @@
+.thumbPostContainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.thumbPostWrap {
+    width: 32%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 5px;
+    transition: box-shadow .3s;
+}
+
+.thumbPostWrap:hover {
+    box-shadow: 0 0 11px rgba(33,33,33,.2); 
+  }
+
+.thumbPostTitle {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 12px 0;
+}
+
+.thumbPostDate {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-style: italic;
+    padding-top: 25px;
+    padding-bottom: 12px;
+}
+
+.thumbCategories {
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-style: italic;
+    padding: 10px 0;
+}
