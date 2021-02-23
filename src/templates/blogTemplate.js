@@ -27,12 +27,11 @@ export default function Template({
 }
 
 export const pageQuery = graphql`
-  query($slug: String!) {
-    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+  query($title: String!) {
+    markdownRemark(frontmatter: { title: { eq: $title } }) {
       html
       frontmatter {
         date(formatString: "DD MMMM YYYY")
-        slug
         title
         coverImage {
           childImageSharp {

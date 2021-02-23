@@ -1,7 +1,13 @@
 ---
-slug: "/crema-di-cavolfiore"
 title: "Crema di cavolfiore"
 date: "2019-11-03"
+categories: 
+  - "ricette-autunnali"
+  - "ricette-vegetariane"
+  - "zuppe"
+tags: 
+  - "cavolfiore"
+  - "zuppe"
 coverImage: "../images/DSC04746.jpg"
 ---
 Questa è una ricetta nata un po' per caso, stavo preparando dei tacos vegani e mi mancava un salsina per completare il piatto. Apro il frigo e trovo questo mezzo cavolfiore e penso, non ci starebbe male, e così nasce questa crema di cavolfiore.

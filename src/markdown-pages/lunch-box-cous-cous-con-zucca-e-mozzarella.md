@@ -1,6 +1,5 @@
 ---
-title: "Lunch box: cous cous con zucca e mozzarella"
-slug: "/lunch-box-cous-cous"
+title: "Lunch box cous cous con zucca e mozzarella"
 date: "2019-11-03"
 categories: 
   - "lunch-box"
