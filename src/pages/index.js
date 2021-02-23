@@ -8,7 +8,7 @@ import Img from "gatsby-image";
 import styles from "./index-css-modules.module.css";
 
 export default function Home({ data }) {
-  console.log(data)
+  console.log(data.allMarkdownRemark.edges)
   return (
     <Layout>
       <SEO title="Home" />
@@ -34,7 +34,7 @@ export default function Home({ data }) {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
       totalCount
       edges {
         node {
