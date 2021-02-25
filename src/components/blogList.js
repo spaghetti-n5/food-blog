@@ -7,16 +7,15 @@ import Img from "gatsby-image";
 
 import styles from "./blogList-css-modules.module.css";
 
-export default function Home({ data, pageContext }) {
+export default function BlogList({ data, pageContext }) {
   console.log(data.allMarkdownRemark.edges)
   console.log(pageContext)
 
   const { currentPage, numPages } = pageContext
   const isFirst = currentPage === 1
   const isLast = currentPage === numPages
-  const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
-  const nextPage = (currentPage + 1).toString()
-
+  const prevPage = currentPage - 1 === 1 ? '/' : `/`+ ((currentPage - 1).toString())
+  const nextPage = `/`+ ((currentPage + 1).toString())
   return (
     <Layout>
       <SEO title="Home" />
@@ -26,7 +25,7 @@ export default function Home({ data, pageContext }) {
             const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
             return (
                 <div key={node.id} className={styles.thumbPostWrap}>
-                    <Link to={postSlug}>
+                    <Link to={`/${postSlug}`}>
                       <Img fluid={node.frontmatter.coverImage.childImageSharp.fluid} style={{ height: "184.617px" }} />
                         <p className={styles.thumbPostDate}>{node.frontmatter.date}</p>
                         <h2 className={styles.thumbPostTitle}>{node.frontmatter.title}</h2>
