@@ -29,15 +29,7 @@ export default function BlogPost({
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
-      <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
+      <ul className={styles.navigationWrap}>
           <li>
             {previous && (
               <Link to={`/${previousPathSlug}`} rel="prev">
