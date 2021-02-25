@@ -5,10 +5,18 @@ import SEO from "../components/seo";
 import Layout from "../components/layout";
 import Img from "gatsby-image";
 
-import styles from "./index-css-modules.module.css";
+import styles from "./blogList-css-modules.module.css";
 
-export default function Home({ data }) {
+export default function Home({ data, pageContext }) {
   console.log(data.allMarkdownRemark.edges)
+  console.log(pageContext)
+
+  const { currentPage, numPages } = pageContext
+  const isFirst = currentPage === 1
+  const isLast = currentPage === numPages
+  const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
+  const nextPage = (currentPage + 1).toString()
+
   return (
     <Layout>
       <SEO title="Home" />
@@ -28,13 +36,57 @@ export default function Home({ data }) {
                 </div>
           )})}
         </div>
+        <ul
+          style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            justifyContent: 'space-between',
+            alignItems: 'center',
+            listStyle: 'none',
+            padding: 0,
+          }}
+        >
+          {!isFirst && (
+            <Link to={prevPage} rel="prev">
+              ← Previous Page
+            </Link>
+          )}
+          {Array.from({ length: numPages }, (_, i) => (
+            <li
+              key={`pagination-number${i + 1}`}
+              style={{
+                margin: 0,
+              }}
+            >
+              <Link
+                to={`/${i === 0 ? '' : i + 1}`}
+                style={{
+                  textDecoration: 'none',
+                  color: i + 1 === currentPage ? '#ffffff' : '',
+                  background: i + 1 === currentPage ? '#007acc' : '',
+                }}
+              >
+                {i + 1}
+              </Link>
+            </li>
+          ))}
+          {!isLast && (
+            <Link to={nextPage} rel="next">
+              Next Page →
+            </Link>
+          )}
+        </ul>
     </Layout>
   )
 }
 
 export const query = graphql`
-  query {
-    allMarkdownRemark(sort: {fields: frontmatter___date, order: DESC}) {
+  query($skip: Int!, $limit: Int!){
+    allMarkdownRemark(
+      sort: {fields: frontmatter___date, order: DESC},
+      limit: $limit
+      skip: $skip
+      ) {
       totalCount
       edges {
         node {
