@@ -18,8 +18,8 @@ export default function BlogList({ data, pageContext }) {
   const nextPage = `/`+ ((currentPage + 1).toString())
   return (
     <Layout>
-      <SEO title="Home" />
-        <h4>{data.allMarkdownRemark.totalCount} Posts</h4>
+      <SEO title="Posts" />
+        <h4>{data.allMarkdownRemark.totalCount} Ricette</h4>
         <div className={styles.thumbPostContainer}>
           {data.allMarkdownRemark.edges.map(({ node }) => {
             const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
@@ -35,34 +35,18 @@ export default function BlogList({ data, pageContext }) {
                 </div>
           )})}
         </div>
-        <ul
-          style={{
-            display: 'flex',
-            flexWrap: 'wrap',
-            justifyContent: 'space-between',
-            alignItems: 'center',
-            listStyle: 'none',
-            padding: 0,
-          }}
-        >
+        <ul className={styles.paginationWrap}>
           {!isFirst && (
             <Link to={prevPage} rel="prev">
-              ← Previous Page
+              ← Pagina precedente
             </Link>
           )}
           {Array.from({ length: numPages }, (_, i) => (
-            <li
-              key={`pagination-number${i + 1}`}
-              style={{
-                margin: 0,
-              }}
-            >
+            <li key={`pagination-number${i + 1}`}>
               <Link
                 to={`/${i === 0 ? '' : i + 1}`}
                 style={{
-                  textDecoration: 'none',
-                  color: i + 1 === currentPage ? '#ffffff' : '',
-                  background: i + 1 === currentPage ? '#007acc' : '',
+                  fontWeight: i + 1 === currentPage ? 'bold' : 'normal',
                 }}
               >
                 {i + 1}
@@ -71,7 +55,7 @@ export default function BlogList({ data, pageContext }) {
           ))}
           {!isLast && (
             <Link to={nextPage} rel="next">
-              Next Page →
+              Pagina successiva →
             </Link>
           )}
         </ul>
