@@ -46,13 +46,17 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     })
 
     // Create blog posts pages.
-    result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+    result.data.allMarkdownRemark.edges.forEach(({ node }, index) => {
       const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
+      const next = index === result.data.allMarkdownRemark.edges.length - 1 ? null : result.data.allMarkdownRemark.edges[index + 1].node
+      const previous = index === 0 ? null : result.data.allMarkdownRemark.edges[index - 1].node
       createPage({
         path: postSlug,
         component: blogPostTemplate,
         context: {
           title: node.frontmatter.title,
+          previous,
+          next,
         },
       })
     })
