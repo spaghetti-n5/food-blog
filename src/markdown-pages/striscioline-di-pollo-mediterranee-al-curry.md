@@ -1,6 +1,6 @@
 ---
 title: "Striscioline di pollo speziate"
-slug: "striscioline-di-pollo-mediterranee-al-curry"
+slug: "striscioline-di-pollo-speziate"
 date: "2017-06-07"
 categories: 
   - "secondi-piatti"

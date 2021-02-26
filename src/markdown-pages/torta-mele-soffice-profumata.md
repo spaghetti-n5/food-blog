@@ -1,6 +1,6 @@
 ---
 title: "Torta di mele soffice e profumata"
-slug: "torta-mele-soffice-profumata"
+slug: "torta-di-mele-soffice-e-profumata"
 date: "2017-11-05"
 categories: 
   - "dolci"

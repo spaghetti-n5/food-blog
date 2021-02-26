@@ -1,6 +1,6 @@
 ---
-title: "Baccalà alla Vicentina"
-slug: "baccala-alla-vicentina"
+title: "Baccalá alla Vicentina"
+slug: "baccalá-alla-vicentina"
 date: "2018-05-16"
 categories: 
   - "secondi-piatti"

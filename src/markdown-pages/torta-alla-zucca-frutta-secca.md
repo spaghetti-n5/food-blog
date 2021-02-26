@@ -1,6 +1,6 @@
 ---
 title: "Torta alla zucca e frutta secca"
-slug: "torta-alla-zucca-frutta-secca"
+slug: "torta-alla-zucca-e-frutta-secca"
 date: "2017-11-27"
 categories: 
   - "dolci"

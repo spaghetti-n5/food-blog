@@ -1,6 +1,6 @@
 ---
 title: "Ravioli con gamberi e mozzarella di bufala"
-slug: "ravioli-gamberi-mozzarella-bufala"
+slug: "ravioli-con-gamberi-e-mozzarella-di-bufala"
 date: "2017-07-26"
 categories: 
   - "primi-piatti"

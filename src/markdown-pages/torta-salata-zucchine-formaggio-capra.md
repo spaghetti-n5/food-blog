@@ -1,6 +1,6 @@
 ---
 title: "Torta salata di zucchine e formaggio di capra"
-slug: "torta-salata-zucchine-formaggio-capra"
+slug: "torta-salata-di-zucchine-e-formaggio-di-capra"
 date: "2017-08-06"
 categories: 
   - "antipasti-ed-aperitivi"

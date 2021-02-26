@@ -1,6 +1,6 @@
 ---
 title: "Verdure e tofu in salsa agrodolce thai"
-slug: "verdure-tofu-salsa-agrodolce-thai"
+slug: "verdure-e-tofu-in-salsa-agrodolce-thai"
 date: "2017-08-11"
 categories: 
   - "cucina-thailandese"

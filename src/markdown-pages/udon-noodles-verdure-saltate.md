@@ -1,6 +1,6 @@
 ---
 title: "Udon noodles con verdure saltate"
-slug: "udon-noodles-verdure-saltate"
+slug: "udon-noodles-con-verdure-saltate"
 date: "2017-08-07"
 categories: 
   - "cucine-del-mondo"

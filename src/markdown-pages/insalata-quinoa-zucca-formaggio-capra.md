@@ -1,6 +1,6 @@
 ---
 title: "Insalata di quinoa, zucca e formaggio di capra"
-slug: "insalata-quinoa-zucca-formaggio-capra"
+slug: "insalata-di-quinoa,-zucca-e-formaggio-di-capra"
 date: "2017-09-09"
 categories: 
   - "antipasti-ed-aperitivi"

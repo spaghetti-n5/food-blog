@@ -1,6 +1,6 @@
 ---
 title: "Polpette vegetariane con funghi e patate"
-slug: "polpette-vegetariane-funghi-patate"
+slug: "polpette-vegetariane-con-funghi-e-patate"
 date: "2017-11-01"
 categories: 
   - "antipasti-ed-aperitivi"

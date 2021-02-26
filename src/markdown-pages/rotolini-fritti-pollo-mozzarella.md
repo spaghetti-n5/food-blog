@@ -1,6 +1,6 @@
 ---
 title: "Rotolini fritti di pollo e mozzarella"
-slug: "rotolini-fritti-pollo-mozzarella"
+slug: "rotolini-fritti-di-pollo-e-mozzarella"
 date: "2017-06-07"
 categories: 
   - "antipasti-ed-aperitivi"

@@ -1,6 +1,6 @@
 ---
 title: "Rotolini di pane con prosciutto e formaggio"
-slug: "rotolini-pane-prosciutto-formaggio"
+slug: "rotolini-di-pane-con-prosciutto-e-formaggio"
 date: "2017-06-07"
 categories: 
   - "antipasti-ed-aperitivi"

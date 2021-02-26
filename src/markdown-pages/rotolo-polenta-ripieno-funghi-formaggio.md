@@ -1,6 +1,6 @@
 ---
 title: "Rotolo di polenta ripieno di funghi e formaggio"
-slug: "rotolo-polenta-ripieno-funghi-formaggio"
+slug: "rotolo-di-polenta-ripieno-di-funghi-e-formaggio"
 date: "2017-09-17"
 categories: 
   - "antipasti-ed-aperitivi"

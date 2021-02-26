@@ -1,6 +1,6 @@
 ---
 title: "Tagliatelle di zucca con mascarpone e salvia"
-slug: "tagliatelle-zucca-mascarpone-salvia"
+slug: "tagliatelle-di-zucca-con-mascarpone-e-salvia"
 date: "2017-11-12"
 categories: 
   - "primi-piatti"

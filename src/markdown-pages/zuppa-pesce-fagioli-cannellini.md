@@ -1,6 +1,6 @@
 ---
 title: "Zuppa di pesce e fagioli cannellini"
-slug: "zuppa-pesce-fagioli-cannellini"
+slug: "zuppa-di-pesce-e-fagioli-cannellini"
 date: "2017-11-27"
 categories: 
   - "primi-piatti"

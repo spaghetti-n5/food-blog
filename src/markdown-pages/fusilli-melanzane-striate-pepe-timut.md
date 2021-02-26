@@ -1,6 +1,6 @@
 ---
 title: "Fusilli con melanzane striate e pepe di Timut"
-slug: "fusilli-melanzane-striate-pepe-timut"
+slug: "fusilli-con-melanzane-striate-e-pepe-di-timut"
 date: "2018-05-22"
 categories: 
   - "primi-piatti"

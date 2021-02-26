@@ -1,6 +1,6 @@
 ---
 title: "Mille foglie di patate, zucchine e sogliola"
-slug: "mille-foglie-patate-zucchine-sogliola"
+slug: "mille-foglie-di-patate,-zucchine-e-sogliola"
 date: "2017-08-06"
 categories: 
   - "antipasti-ed-aperitivi"

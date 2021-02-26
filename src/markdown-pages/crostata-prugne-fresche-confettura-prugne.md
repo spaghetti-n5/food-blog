@@ -1,6 +1,6 @@
 ---
 title: "Crostata con prugne fresche e confettura di prugne"
-slug: "crostata-prugne-fresche-confettura-prugne"
+slug: "crostata-con-prugne-fresche-e-confettura-di-prugne"
 date: "2018-05-22"
 categories: 
   - "dolci"

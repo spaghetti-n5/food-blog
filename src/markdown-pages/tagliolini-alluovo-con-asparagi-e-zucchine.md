@@ -1,6 +1,6 @@
 ---
 title: "Tagliolini all'uovo con asparagi, zucchine e guanciale"
-slug: "tagliolini-alluovo-con-asparagi-e-zucchine"
+slug: "tagliolini-all'uovo-con-asparagi,-zucchine-e-guanciale"
 date: "2017-05-07"
 categories: 
   - "primi-piatti"

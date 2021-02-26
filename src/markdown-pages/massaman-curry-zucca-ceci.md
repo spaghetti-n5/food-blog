@@ -1,6 +1,6 @@
 ---
 title: "Massaman curry con zucca e ceci"
-slug: "massaman-curry-zucca-ceci"
+slug: "massaman-curry-con-zucca-e-ceci"
 date: "2017-09-23"
 categories: 
   - "cucina-thailandese"

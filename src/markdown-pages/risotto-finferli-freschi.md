@@ -1,6 +1,6 @@
 ---
 title: "Risotto con finferli freschi"
-slug: "risotto-finferli-freschi"
+slug: "risotto-con-finferli-freschi"
 date: "2017-11-19"
 categories: 
   - "primi-piatti"
