@@ -54,7 +54,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { title: { eq: $title } }) {
       html
       frontmatter {
-        date(formatString: "DD MMMM YYYY")
+        date(formatString: "DD MMMM YYYY" locale: "it")
         title
         coverImage {
           childImageSharp {
