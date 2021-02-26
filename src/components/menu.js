@@ -4,7 +4,7 @@ import styles from "./menu-css-modules.module.css";
 
 const Menu = () => (
     <div className={styles.menu}>
-        <Link className={styles.menuLink} to="/antipasti-aperitivi">Antipasti e aperitivi</Link>
+        <Link className={styles.menuLink} to="/antipasti-ed-aperitivi">Antipasti ed aperitivi</Link>
         <Link className={styles.menuLink} to="/primi-piatti">Primi piatti</Link>
         <Link className={styles.menuLink} to="/secondi-piatti">Secondi piatti</Link>
         <Link className={styles.menuLink} to="/dolci">Dolci</Link>
@@ -13,4 +13,4 @@ const Menu = () => (
     </div>
 )
 
-export default Menu
+export default Menu;

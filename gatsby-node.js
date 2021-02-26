@@ -30,7 +30,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   
     // Create blog post list pages
     const posts = result.data.allMarkdownRemark.edges
-    const postsPerPage = 3;
+    const postsPerPage = 9;
     const numPages = Math.ceil(posts.length / postsPerPage)
     Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
@@ -65,11 +65,11 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     // create filter page "antipasti-ed-aperitivi"
     result.data.allMarkdownRemark.edges.forEach(() => {
       createPage({
-        path: '/antipasti-aperitivi',
+        path: '/antipasti-ed-aperitivi',
         component: filterPageTemplate,
         context: {
           categories: 'antipasti-ed-aperitivi',
-          categoryTitle: 'Antipasti e aperitivi',
+          categoryTitle: 'Antipasti ed aperitivi',
         },
       })
     })
