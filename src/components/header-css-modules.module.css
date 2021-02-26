@@ -1,6 +1,7 @@
 header {
     max-width: 1200px;
     margin: 30px auto;
+    padding: 0px 15px;
 }
 
 .social {
@@ -13,7 +14,6 @@ header {
 }
 
 .header {
-    border-bottom: 1px solid black;
     text-align: center;
 }
 
@@ -42,7 +42,7 @@ header {
     }
 
     .header {
-        margin: 20px 15px;
+        margin: 20px 0;
     }
     .headerTitle {
         line-height: 30px;

@@ -3,8 +3,8 @@ import { Link } from "gatsby";
 import styles from "./menu-css-modules.module.css";
 
 const Menu = () => (
-    <div className={styles.social}>
-      <Link to="/chi-sono">Chi sono</Link>
+    <div className={styles.menu}>
+      <Link className={styles.menuLink} to="/ricette-vegetariane">Ricette vegetariane</Link>
     </div>
 )
 
