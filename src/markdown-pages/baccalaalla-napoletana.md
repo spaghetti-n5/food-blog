@@ -1,5 +1,6 @@
 ---
 title: "Baccalà alla napoletana"
+slug: "baccalà-alla-napoletana"
 date: "2017-03-19"
 categories: 
   - "secondi-piatti"
@@ -23,8 +24,6 @@ coverImage: "../images/baccala-napoletana.jpg"
 - Olive nere
 - Capperi sotto sale
 
- 
-
 **Preparazione:** 
 
 Tagliare i filetti di baccalà, già ammollati e sciacquati, in pezzi alti circa due o tre dita. Sgocciolare bene i pezzi ed asciugarli con un panno o carta assorbente.
@@ -34,3 +33,4 @@ Infarinare leggermente i pezzi di baccalà, metteteli quindi a rosolare in padel
 Nella stessa padella in cui avete dorato i pezzi di baccalà, fate soffriggere l'aglio, aggiungete i pomodori in scatola, regolate di sale, zucchero per l'acidità e peperoncino. Fate cuocere il pomodoro pochi minuti e, quando è un po' ritirato, aggiungere il baccalà, le olive nere e i capperi sotto sale precedentemente sciacquati e strizzati.
 
 Lasciate cuocere per una decina di minuti a fuoco dolce e servite con una bruschetta croccante.
+

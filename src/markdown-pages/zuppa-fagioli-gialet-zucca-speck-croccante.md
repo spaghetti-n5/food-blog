@@ -1,5 +1,6 @@
 ---
 title: "Zuppa con fagioli gialet, zucca e speck croccante"
+slug: "zuppa-con-fagioli-gialet,-zucca-e-speck-croccante"
 date: "2017-11-13"
 categories: 
   - "primi-piatti"
@@ -43,3 +44,4 @@ Lasciate cuocere lentamente per una decina di minuti mescolando bene così si in
 In un pentolino antiaderente ben caldo facciamo diventare croccante lo speck e una volta pronto lo mettiamo ad asciugare sulla carta assorbente.
 
 Servite la zuppa ben calda con speck lo speck croccante spezzettato ed una macinata di pepe nero. Una zuppa fantastica per le serate invernali.
+

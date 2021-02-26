@@ -1,5 +1,6 @@
 ---
 title: "Pasta choux (bignè)"
+slug: "pasta-choux-(bignè)"
 date: "2017-04-19"
 categories: 
   - "dolci"
@@ -34,3 +35,4 @@ Adesso andiamo a modellare la pasta con un sac-a-pochè dotato di bocchetta lisc
 Cuocete i bignè in forno statico preriscaldato per 15 minuti a 180 - 220° evitando di aprire il forno durante la cottura. Trascorsi i primi 15 minuti abbassate la temperatura a 150° e cuocete la pasta choux per altri 5 - 7 minuti.
 
 Ora spegnete il forno e lasciate all'interno i bignè con lo sportello leggermente aperto (mettete tra lo sportello e il forno un cucchiaio di legno) finché si siano completamente raffreddati. Adesso i bignè sono pronti per essere farciti.
+

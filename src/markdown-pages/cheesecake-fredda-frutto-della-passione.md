@@ -1,5 +1,6 @@
 ---
 title: "Cheesecake fredda con frutto della passione"
+slug: "cheesecake-fredda-con-frutto-della-passione"
 date: "2017-10-15"
 categories: 
   - "dolci"
@@ -47,3 +48,4 @@ Quando la gelatina si sarà raffreddata, aggiungetela delicatamente al composto 
 Servite la vostra cheesecake accompagnata dal succo del frutto della passione che le conferirà una nota fresca ed esotica.
 
 Qui trovate tutte le ricette di cheesecake che ho provato fino ad ora [https://cucinadalnord.it/tag/cheesecake/](https://cucinadalnord.it/tag/cheesecake/)
+

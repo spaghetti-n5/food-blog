@@ -1,5 +1,6 @@
 ---
 title: "Frittelle di fiori di acacia"
+slug: "frittelle-di-fiori-di-acacia"
 date: "2018-05-17"
 categories: 
   - "dolci"
@@ -40,3 +41,4 @@ Nelle campagne del Veneto (dove è anche nota con diversi nomi dialettali: cassi
 Con una frusta sbattete l'uovo con lo zucchero ed il sale, aggiungete lo yogurt, il succo e la scorza di limone. Aggiungete la farina ed il lievito setacciati e mescolate il tutto fino ad ottenere una pastella omogenea e collosa. Aggiungete ora i fiori di acacia, che avrete precedentemente separato dal grappolo, e mescolate bene.
 
 Friggete piccole quantità di pastella, porzionando le frittelle con l'aiuto di due cucchiai, a temperatura controllata e poche alla volta, così non assorbiranno olio e la cottura risulterà omogenea. A piacere spolverizzate le frittelle di acacia con dello zucchero a velo.
+

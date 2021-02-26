@@ -1,5 +1,6 @@
 ---
 title: "Tacos messicani con carne macinata"
+slug: "tacos-messicani-con-carne-macinata"
 date: "2017-06-19"
 categories: 
   - "cucina-messicana"
@@ -44,3 +45,4 @@ Aggiungete la carne macinata e tostatela inizialmente a fuoco vivace rompendola 
 Preparate ora a parte la salsa a freddo: tagliate la cipolla rossa a metà e affettatela molto finemente e lasciatela da parte in acqua fredda per almeno 10 minuti in modo che perda il gusto forte. Mettete in una ciotola il pomodoro tagliato a cubetti, la polpa dell'avocado schiacciata con una forchetta, la cipolla scolata dalla sua acqua e foglie di coriandolo fresco. Aggiungete sale, pepe nero, abbondante tabasco verde e rosso ed olio di oliva.
 
 Scaldate la piadina del tacos in una padella calda, dopo averla leggermente inumidita con dell'acqua, semplicemente passando la mano bagnata su entrambi i lati della piadina. Assemblate i vostri tacos aggiungendo la carne e abbondante salsa! Buon appetito!
+

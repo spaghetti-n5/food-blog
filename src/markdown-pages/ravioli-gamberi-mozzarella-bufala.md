@@ -1,5 +1,6 @@
 ---
 title: "Ravioli con gamberi e mozzarella di bufala"
+slug: "ravioli-gamberi-mozzarella-bufala"
 date: "2017-07-26"
 categories: 
   - "primi-piatti"
@@ -47,3 +48,4 @@ Tagliate il finocchio e cubetti e cuocetene la metà in una padella con una noce
 Stendete la pasta in strisce molto sottili, se usate la nonna papera al numero 7, e posizionate qualche cubetto di mozzarella e qualche pezzetto di gambero al centro della pasta a distanza regolare. Bagnate i lati della pasta con dell'acqua e ripiegate un lembo della pasta sopra all'altro facendo attenzione ad eliminare tutta l'aria all'interno. Sigillateli bene e tagliateli a mezza luna con l'aiuto di un coppa pasta.
 
 Tuffate i ravioli in acqua bollente salata per 2 minuti e trasferiteli poi nella padella della salsa. Fateli insaporire per un paio di minuti e aggiungete infine qualche pistillo di zafferano. Adagiate i ravioli in un piatto e guarnite con dei cubetti di finocchio croccante, qualche ciuffetto di barba di finocchio, un po' di scorza di limone ed una macinata di pepe bianco.
+

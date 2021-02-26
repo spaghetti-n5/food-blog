@@ -1,5 +1,6 @@
 ---
 title: "Torta di carote"
+slug: "torta-di-carote"
 date: "2017-07-17"
 categories: 
   - "dolci"
@@ -40,3 +41,4 @@ Fate cuocere in forno statico preriscaldato a 170° per 35 minuti, verificate la
 Lasciatela raffreddare completamente la torta nello stampo, sformatela e buon appetito!
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/07/Torta-di-carote1.jpg)
+

@@ -1,5 +1,6 @@
 ---
 title: "Come cucinare i funghi chiodini"
+slug: "come-cucinare-i-funghi-chiodini"
 date: "2017-11-05"
 categories: 
   - "preparazioni-di-base"
@@ -33,3 +34,4 @@ Si puliscono i funghi dal terriccio e dai gambi legnosi e si tagliano per lungo 
 A parte in un tegame con olio e poco scalogno mettiamo i funghi lessati (mai troppi, nel tegame 5-6 cm così cuoceranno meglio rimanendo asciutti e non viscidi) saliamo e aggiungiamo uno spicchio di aglio cercando di tenerlo sempre sopra così non si attaccherà al fondo. Vanno cotti a fuoco lento aggiungendo all'occorrenza dell'olio per due ore rimestando spesso. Quando rilasceranno l'olio bello limpido saranno pronti.
 
 Tanta pazienza sarà ricompensata, a piacere si può aggiungere del prezzemolo tritato.
+

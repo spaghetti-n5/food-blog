@@ -1,5 +1,6 @@
 ---
 title: "Cubotti al cioccolato bianco e mandorle"
+slug: "cubotti-al-cioccolato-bianco-e-mandorle"
 date: "2017-07-09"
 categories: 
   - "dolci"
@@ -36,3 +37,4 @@ In una ciotola aggiungete lo zucchero profumato al limone, il sale, le uova ed i
 Aggiungete quindi la farina ed il lievito setacciati e le mandorle, incorporate bene tutti gli ingredienti; se il composto dovesse risultare troppo denso, aggiungete un goccio di latte.
 
 Versate il composto in una pirofila ricoperta di carta da forno ed infornate per 40 – 45 minuti a 180°C. Per controllare che la torta sia cotta, infilate al centro uno stuzzicadenti, quando lo estraete dovrà risultare secco. Lasciate raffreddare la torta e tagliatela a cubotti.
+

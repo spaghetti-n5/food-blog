@@ -1,5 +1,6 @@
 ---
 title: "Porridge con banane caramellate"
+slug: "porridge-con-banane-caramellate"
 date: "2019-11-01"
 categories: 
   - "colazione"
@@ -54,3 +55,4 @@ Tritate a pezzi grossi la barretta di frutta secca al miele, pulite e affettate 
 Servite tutto ben caldo e buon appetito!!!  
 
 A parte preparate del miele, nel caso abbiate voglia di un po’ di dolcezza in più! :)
+

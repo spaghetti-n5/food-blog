@@ -1,5 +1,6 @@
 ---
 title: "Cubotti cioccolato e nocciole"
+slug: "cubotti-cioccolato-e-nocciole"
 date: "2017-06-21"
 categories: 
   - "dolci"
@@ -38,3 +39,4 @@ Aggiungete quindi la farina, il cacao ed il lievito setacciati incorporando bene
 A parte montate a neve ferma gli albumi con un pizzico di sale ed incorporateli al composto di cioccolato mescolando dal basso verso l’alto.
 
 Versate il composto in una pirofila ricoperta di carta da forno ed infornate per 40 – 45 minuti a 180°C. Per controllare che la torta sia cotta, infilate al centro uno stuzzicadenti, quando lo estraete dovrà risultare secco. Lasciate raffreddare la torta e tagliatela a cubotti.
+

@@ -1,5 +1,6 @@
 ---
 title: "Focaccia all'olio extravergine di oliva"
+slug: "focaccia-all'olio-extravergine-di-oliva"
 date: "2017-07-13"
 categories: 
   - "impasti"
@@ -32,3 +33,4 @@ Rovesciate l'impasto su una placca coperta con carta da forno e stendetelo delic
 Lasciate lievitare ancora per 1⁄2 ora, poi con un pennello da cucina bagnate la superficie con una miscela di acqua e olio, spargete grani di sale grosso e aghi di rosmarino. Infornate la focaccia nel forno preriscaldato a 180° per 20 minuti.
 
 Sarà cotta quando la superficie sarà dorata e il fondo alzandolo sarà cotto. Ci sarà uno splendido profumo di pane se avremo usato delle ottime farine.
+

@@ -1,5 +1,6 @@
 ---
 title: "Babaganoush di melanzane"
+slug: "babaganoush-di-melanzane"
 date: "2017-07-26"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -37,3 +38,4 @@ Per ottenere un sentore di aglio ma non eccessivo, non inseritelo all'interno de
 Un aspetto caratteristico del babaganoush è il suo sentore di affumicato caratteristico delle melanzane, potete enfatizzarlo grattugiato all'interno mezza bacca di cardamomo nero.
 
 Servite il babaganoush con abbondante olio extra vergine di oliva e del pane pita.
+

@@ -1,5 +1,6 @@
 ---
 title: "Fantasia di verdure al forno"
+slug: "fantasia-di-verdure-al-forno"
 date: "2017-07-12"
 categories: 
   - "ricette-estive"
@@ -31,3 +32,4 @@ Lavate e tagliate le verdure: le zucchine a fette con taglio obliquo così le fe
 ![](https://cucinadalnord.it/wp-content/uploads/2017/07/verdure.jpg)
 
 Infornate a 180° per 15 minuti circa. Prima di portare le vostre verdure a tavola cospargetele con un altro po’ di erbe aromatiche, così sprigioneranno tutto il loro profumo.
+

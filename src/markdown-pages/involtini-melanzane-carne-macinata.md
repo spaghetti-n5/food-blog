@@ -1,5 +1,6 @@
 ---
 title: "Involtini di melanzane e carne macinata"
+slug: "involtini-di-melanzane-e-carne-macinata"
 date: "2018-05-23"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -39,3 +40,4 @@ A parte condite la carne macinata con le erbette miste tritate (timo limonato e 
 Arrotolate una fettina di melanzana attorno ad ogni polpettina, disponete le rosette in una pirofila da forno, cospargete la superficie con il restante formaggio grana ed infornate coperte a 180°C per 15 minuti; gratinate successivamente per un paio di minuti.
 
 Componete il piatto disponendo una base di salsa di pomodorini, qualche fetta di mozzarella, 3 - 4 involtini di melanzane e qualche foglia di basilico.
+

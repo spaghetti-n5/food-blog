@@ -1,5 +1,6 @@
 ---
 title: "Quesadillas con funghi champignon"
+slug: "quesadillas-con-funghi-champignon"
 date: "2017-08-27"
 categories: 
   - "cucina-messicana"
@@ -63,3 +64,4 @@ Stendete ora il vostro impasto con un mattarello cercando di ottenere una forma 
 Disponete uno strato di formaggio su una metà della quesadilla, aggiungete il ripieno di funghi ed altro formaggio, un po' di prezzemolo fresco e richiudetela a metà; farcitela con tanto formaggio! Ponete nuovamente la quesadilla sulla padella calda, questa volta non troppo perché dovrete fare in modo che il formaggio si sciolga bene senza che si bruci, su un lato e sull'altro. Servite le vostre quesadillas tagliate a triangoli con la salsa guacamole.
 
 ![Quesadillas messicana con formaggio e funghi champignon, accompagnati da salsa guacamole](https://cucinadalnord.it/wp-content/uploads/2017/08/Quesadillas-con-champignon3.jpg)
+

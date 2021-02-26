@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi ai fiori di zucca con mazzancolle"
+slug: "gnocchi-ai-fiori-zucca-mazzancolle"
 date: "2017-07-09"
 categories: 
   - "gnocchi"
@@ -39,3 +40,4 @@ Soffriggete in una padella con un goccio di olio lo spicchio d’aglio, il peper
 Nella stessa padella aggiungete i pomodorini tagliati a meta e soffriggete con un pizzico di sale.
 
 Tuffate gli gnocchi in acqua bollente salata e non appena verranno a galla, trasferiteli nella pentola con i pomodorini e lasciateli insaporire con un po' di acqua di cottura. Infine aggiungete i crostacei e rimescolate il tutto.
+

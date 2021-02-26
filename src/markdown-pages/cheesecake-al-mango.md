@@ -1,5 +1,6 @@
 ---
 title: "Cheesecake al mango"
+slug: "cheesecake-al-mango"
 date: "2018-05-17"
 categories: 
   - "cucina-americana"
@@ -44,3 +45,4 @@ Versate il composto all'interno della vostra tortiera, coprite con la pellicola 
 Servite la cheesecake con fette di mango fresco o con una salsa di mango frullato e zucchero.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2018/05/cheesecakeMango2.jpg)
+

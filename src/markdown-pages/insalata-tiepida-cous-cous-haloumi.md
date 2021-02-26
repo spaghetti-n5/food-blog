@@ -1,5 +1,6 @@
 ---
 title: "Insalata tiepida con cous cous e haloumi"
+slug: "insalata-tiepida-cous-cous-haloumi"
 date: "2017-09-02"
 categories: 
   - "ricette-estive"
@@ -50,3 +51,4 @@ Tagliate le zucchine e la cipolla a fette sottili, i funghi champignon a metà e
 Grigliate il formaggio con la padella leggermente meno calda in modo che il formaggio si sciolga leggermente, quando e pronto tagliatelo a fette diagonali.
 
 Componete il piatto disponendo il cous cous alla base, sopra le verdure ed il formaggio grigliati, infine i pomodorini a cubetti e spruzzate la superficie con il pesto di prezzemolo, finite il tutto con una macinata di pepe nero.
+

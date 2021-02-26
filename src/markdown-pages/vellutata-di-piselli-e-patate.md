@@ -1,5 +1,6 @@
 ---
 title: "Vellutata di piselli e patate"
+slug: "vellutata-di-piselli-e-patate"
 date: "2019-11-29"
 categories: 
   - "primi-piatti"
@@ -39,3 +40,4 @@ Ora aggiungete i cubetti di formaggio grana (li uso come sostituti del brodo veg
 Lasciate cuocere a fuoco lento per 40 minuti. Le verdure saranno ora cotte, eliminate la curcuma ed il parmigiano e regolatelo di sale. Frullate il tutto con un minipimer e servite la vellutata di piselli e patate ben calda.
 
 Qui trovate un'altra vellutata perfetta per le giornate invernali [https://cucinadalnord.it/vellutata-di-patate-porri-zucchine-curcuma/](https://cucinadalnord.it/vellutata-di-patate-porri-zucchine-curcuma/)
+

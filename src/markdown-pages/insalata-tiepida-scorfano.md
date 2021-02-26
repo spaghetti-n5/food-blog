@@ -1,5 +1,6 @@
 ---
 title: "Insalata tiepida di scorfano"
+slug: "insalata-tiepida-di-scorfano"
 date: "2017-09-01"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -39,3 +40,4 @@ I pomodori vanno sbollentati interi per qualche minuto e privati della buccia. S
 Prepariamo ora il pesce, eliminate attentamente tutte le spine e tagliatelo sempre a cubetti regolari. Scaldate una padella antiaderente con 2 cucchiai di olio extravergine di oliva ed uno spicchio d' aglio schiacciato, aggiungete i cubetti di scorfano e cuocete a fuoco vivace per 5 minuti salando e pepando.
 
 Aggiungete il pesce alle verdure e condite il tutto con una citronette fatta mescolando a parte olio extravergine di oliva, succo di limone, sale, pepe ed un cucchiaio di prezzemolo tritato.
+

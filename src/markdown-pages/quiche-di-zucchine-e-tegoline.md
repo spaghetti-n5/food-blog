@@ -1,5 +1,6 @@
 ---
 title: "Quiche di zucchine e tegoline"
+slug: "quiche-di-zucchine-e-tegoline"
 date: "2018-05-29"
 categories: 
   - "ricette-estive"
@@ -48,3 +49,4 @@ In una ciotola sbattete un uovo, aggiungete il latte, 3 cucchiai circa di formag
 Stendete la pasta sfoglia su una tortiera, bucherellate il fondo con una forchetta, disponete ordinatamente le zucchine, le tegoline, la mozzarella a cubetti. Versate il composto di uova e formaggio sopra le verdure, sistemate le fette di scamorza e terminate con una spolverata di formaggio grana grattugiato (circa 1 cucchiaio) ed una macinata di pepe.
 
 Infornate la quiche per 30-35 minuti a 200°C.
+

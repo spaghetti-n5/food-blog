@@ -1,5 +1,6 @@
 ---
 title: "Fusilli integrali con feta e peperoni rossi"
+slug: "ffusilli-integrali-con-feta-e-peperoni-rossi"
 date: "2017-08-11"
 categories: 
   - "primi-piatti"
@@ -42,3 +43,4 @@ Tagliate la feta a cubetti o sbriciolatela semplicemente con le mani.
 In una ciotola aggiungete la pasta raffreddata, la feta, le olive nere ed infine le verdure. Mescolate bene il tutto con un filo di olio extravergine di oliva saporito a crudo.
 
 Servite i vostro fusilli integrali leggermente tiepidi con qualche fogliolina di menta fresca e basilico spezzettati ed una bella macinata di pepe nero.
+

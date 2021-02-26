@@ -1,5 +1,6 @@
 ---
 title: "Curry Thailandese Panang vegano"
+slug: "curry-thailandese-panang-vegano"
 date: "2019-11-14"
 categories: 
   - "cucina-thailandese"
@@ -50,3 +51,4 @@ Non appena il latte di cocco prende il bollore, procedete alla cottura delle ver
 Lasciate sobbollire per 10 minuti a fuoco medio-alto e successivamente a fuoco basso per 5 minuti circa o fino a quando le verdure risulteranno cotte ma ancora al dente e la pasta di curry diventa lucida e dovrete poter notare che l’olio naturale intrinseco della pasta di curry si sia separato creando delle goccioline rosse.
 
 Servite ben caldo con il riso jasmine, buon appetito!
+

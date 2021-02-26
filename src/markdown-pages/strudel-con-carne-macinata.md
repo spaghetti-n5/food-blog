@@ -1,5 +1,6 @@
 ---
 title: "Strudel di macinato e verdure"
+slug: "strudel-con-carne-macinata"
 date: "2017-05-10"
 categories: 
   - "ricette-autunnali"
@@ -48,3 +49,4 @@ Per realizzare una chiusura della pasta sfoglia differente ed originale, tagliat
 Spennellate con l'uovo sbattuto e spargeteci sopra i semi di sesamo. Infornate a 200°C per i primi 20 minuti e poi a 150°C per circa 30 minuti. Lasciate leggermente intiepidire e preparate le fette aiutandovi con un coltello a seghetto.
 
 ![Strudel di pasta sfoglia ripieno di macinato, speck e verdure](https://cucinadalnord.it/wp-content/uploads/2017/05/strudel1.jpg)
+

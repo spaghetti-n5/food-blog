@@ -1,5 +1,6 @@
 ---
 title: "Ravioli gorgonzola e pere"
+slug: "ravioli-gorgonzola-e-pere"
 date: "2017-06-21"
 categories: 
   - "primi-piatti"
@@ -37,3 +38,4 @@ Stendete la pasta in strisce molto sottili, se usate la nonna papera al numero 7
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/ravioli-gorgonzola-e-pere1.jpg)
 
 Tuffate i ravioli in acqua bollente salata per 2 minuti, trasferiteli ora in una padella in cui avrete scaldato due noci di burro. Lasciate i ravioli umidi aiutandovi con l'acqua di cattura, aggiungete il formaggio grana grattugiato e mescolate fino a creare una cremina. Servite con una macinata di pepe nero e delle noci tritate.
+

@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di polenta con gorgonzola e finferli"
+slug: "gnocchi-di-polenta-con-gorgonzola-e-finferli"
 date: "2017-09-02"
 categories: 
   - "gnocchi"
@@ -47,3 +48,4 @@ Pulite e lavate velocemente i funghi, tuffateli in acqua bollente per 5 minuti e
 Sciogliete a parte il gorgonzola con 2 cucchiai d'acqua in una padella.
 
 Tuffate gli gnocchi in acqua bollente salata e non appena salgono a galla, scolateli e tuffateli nella padella con il gorgonzola; aggiungete i funghi, qualche fogliolina di prezzemolo, il parmigiano a piacere, mescolate il tutto e servite ben caldi.
+

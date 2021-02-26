@@ -1,5 +1,6 @@
 ---
 title: "Zuppa di pesce e fagioli cannellini"
+slug: "zuppa-pesce-fagioli-cannellini"
 date: "2017-11-27"
 categories: 
   - "primi-piatti"
@@ -45,3 +46,4 @@ In una pentola antiaderente calda cuocete le mazzancolle e gli scampi, una volta
 Cuocete i pomodorini tagliati a metà con un po' di sale e d'olio in forno, finché saranno cotti ma ancora ben sodi. Tuffate infine i maltagliati nella pentola con i fagioli e portate a cottura.
 
 Componete il piatto versando alla base la crema di fagioli e pasta, sopra il pesce misto con un bel giro di olio all'aglio e rosmarino e completando con delle fette di pane tostato.
+

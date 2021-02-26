@@ -1,5 +1,6 @@
 ---
 title: "Patatas bravas"
+slug: "patatas-bravas"
 date: "2017-06-06"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -38,3 +39,4 @@ La salsa aioli anche chiamata in spagnolo ajoaceite, è una salsa tipica della p
 **Procedimento:**
 
 Sbucciate le patate e tagliatele a cubetti, tuffatele in acqua bollente salata per 10 minuti. Passati i 10 minuti scolatele bene e mettete nel frattempo a scaldare l'olio. Friggete le patate ad immersione finché risultino dorate, scolatele bene ed eliminate l'olio in eccesso con della carta assorbente. Aggiustatele di sale e disponetele nel piatto di servizio, spolverate con la paprica dolce, aggiungete in tabasco rosso e in centro la salsa aioli o maionese.
+

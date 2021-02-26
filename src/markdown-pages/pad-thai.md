@@ -1,5 +1,6 @@
 ---
 title: "Pad thai Thailandese"
+slug: "pad-thai-thailandese"
 date: "2017-07-02"
 categories: 
   - "cucina-thailandese"
@@ -49,3 +50,4 @@ Mettete in un wok 2 cucchiai di olio di semi, aggiungete lo spicchio di aglio sc
 Aggiungete i germogli di soia e la salsa, continuate mescolando a fuoco alto facendo in modo che i noodles risultino leggermente tostati, quindi togliete tutto dal fuoco.
 
 Scaldate un altro cucchiaio di olio di semi nel wok e aggiungete un uovo, lasciate che si cucini la parte inferiore ed iniziate a romperlo con il mestolo. Riaggiungete i noodles, rimescolate bene e servite con arachidi sbriciolati, foglie di coriandolo fresco ed una spruzzata di lime.
+

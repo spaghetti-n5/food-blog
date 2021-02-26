@@ -1,5 +1,6 @@
 ---
 title: "Muffin ai mirtilli"
+slug: "muffin-ai-mirtilli"
 date: "2017-10-05"
 categories: 
   - "dolci"
@@ -36,3 +37,4 @@ Mettete in una ciotola le uova, sbattete leggermente, quindi aggiungete il succo
 Versate il composto liquido su quello secco, amalgamate velocemente con una spatola, aggiungete i mirtilli e riempite gli stampini. Non lavorate troppo l’impasto altrimenti i muffin risulteranno troppo compatti; il composto deve risultare abbastanza denso, nel caso fosse troppo liquido, aggiungeteci un po’ di farina. Infornate per 20 minuti a 180°C.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/10/Muffin-ai-mirtilli2.jpg)
+

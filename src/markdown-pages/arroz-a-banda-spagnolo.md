@@ -1,5 +1,6 @@
 ---
 title: "Arroz a banda spagnolo"
+slug: "arroz-a-banda-spagnolo"
 date: "2017-06-17"
 categories: 
   - "cucina-spagnola"
@@ -42,3 +43,4 @@ Tagliate la cipolla e l'aglio a piccoli cubetti ed aggiungeteli alla paella con 
 Ora abbassate il fuoco al minimo e lasciate cucinare per 6 minuti. Per gli ultimi 2 minuti, alzate nuovamente il fuoco e lasciate che si formi sul fondo una bella crosticina caramellata e saporita. Il tempo totale di cottura del riso è 18 minuti.
 
 Chiudete ora il fuoco, coprite la paella con un foglio di quotidiano e lasciate riposare per 5 minuti. Buon appetito!!!
+

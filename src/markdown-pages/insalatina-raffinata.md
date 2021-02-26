@@ -1,5 +1,6 @@
 ---
 title: "Insalatina raffinata"
+slug: "insalatina-raffinata"
 date: "2017-06-24"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -37,3 +38,4 @@ Tagliate la zucca a cubetti, passatela nel pan grattato e friggetela in abbondan
 Tagliate l'avocado a cubetti e la mela a fettine. Preparate un'emulsione con sale, limone, olio e pepe.
 
 Disponete la valeriana alla base del piatto, aggiungete la mela, l'avocado e la zucca a cubetti e sopra il gambero con qualche fettina di mosciame di tonno rosso e versate qualche cucchiaio di emulsione.
+

@@ -1,5 +1,6 @@
 ---
 title: "Verdure ripiene al forno"
+slug: "verdure-ripiene-al-forno"
 date: "2017-07-31"
 categories: 
   - "ricette-estive"
@@ -43,3 +44,4 @@ Riempite ora le zucchine, i peperoni ed i pomodori con il ripieno e disponeteli 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/07/Verdure-ripiene-al-forno1.jpg)
 
 Spolverizzate la superficie delle verdure con del pangrattato, un po' di parmigiano ed un giro d' olio; cuocere in forno a 180°C per una ventina di minuti.
+

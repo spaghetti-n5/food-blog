@@ -1,5 +1,6 @@
 ---
 title: "Lunch box cous cous con zucca e mozzarella"
+slug: "lunch-box-cous-cous-con-zucca-e-mozzarella"
 date: "2019-11-03"
 categories: 
   - "lunch-box"
@@ -48,3 +49,4 @@ In un altro pentolino scaldate i vostri funghi chiodini con un goccio di olio e 
 Prepariamo ora il cous cous, seguiamo le indicazioni riportate nel pacchetto e aggiungiamo ai 100g di cous cous la relativa quantità d'cqua. Dopo 5 minuti sgranatelo con una forchetta e disponetelo sul piatto.
 
 Sopra al cous cous servite la zucca, i funghi chiodini e la mozzarella a fette. Se vi piace potete versarci sopra un filo di olio piccante o del pepe rosa macinato.
+

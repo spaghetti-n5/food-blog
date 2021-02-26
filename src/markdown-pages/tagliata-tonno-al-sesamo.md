@@ -1,5 +1,6 @@
 ---
 title: "Tagliata di tonno al sesamo"
+slug: "tagliata-tonno-al-sesamo"
 date: "2017-07-09"
 categories: 
   - "ricette-estive"
@@ -38,3 +39,4 @@ Prima di tutto preparate l'insalatina: in una ciotola aggiungete la valeriana, l
 In un piatto versate i semi di sesamo bianco, passate le fette di tonno sui semi per impanarli da entrambi i lati in modo più uniforme possibile. Scaldate una padella antiaderente e solo quando sarà ben calda, adagiate i filetti di tonno impanati e cuocete a fuoco alto per 1 minuto, poi girateli con una spatola e proseguite la cottura ancora per un altro minuto.
 
 Così scottato il tonno risulterà crudo all’interno ma se gradite potete prolungare la cottura in base al vostro gusto. Tagliate il tonno a fette larghe circa 1 cm e servitele con l'insalatina fresca.
+

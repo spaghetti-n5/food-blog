@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di melanzane con pomodorini"
+slug: "gnocchi-di-melanzane-pomodorini"
 date: "2017-07-13"
 categories: 
   - "gnocchi"
@@ -39,3 +40,4 @@ Su una spianatoia mettiamo metà della farina e aggiungiamo mano a mano che impa
 Preparate il sugo di pomodoro: soffriggete uno spicchio d'aglio e un po' di peperoncino con un goccio olio extravergine di oliva, aggiungete successivamente i pomodorini tagliati, basteranno pochi minuti a fuoco vivace, infine aggiustate di sale.
 
 Gli gnocchi vanno cotti in acqua salata e lasciateli cuocere per 2 minuti, dopo che saranno venuti a galla. Ripassate gli gnocchi nella padella con il sugo per qualche minuto. Servite con pecorino grattugiato a listarelle, basilico e le bucce di melanzane essiccate. Gli gnocchetti avranno un buon profumo e gusto di basilico.
+

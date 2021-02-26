@@ -1,5 +1,6 @@
 ---
 title: "Crespelle primavera"
+slug: "crespelle-primavera"
 date: "2017-06-21"
 categories: 
   - "primi-piatti"
@@ -36,3 +37,4 @@ Tagliate i peperoni, privati della buccia, e le zucchine a piccoli cubetti e cuo
 Spalmate un cucchiaio besciamella sulle crespelle, aggiungete una fettina di mozzarella, un cucchiaio di verdure, un po' di formaggio. Chiudetele a bauletto (ripiegate prima due estremità opposte e poi arrotolatele) in modo che la mozzarella non fuoriesca.
 
 Adagiate le crespelle in una pirofila imburrata, ricopritele con un velo di besciamella, le verdure rimaste, dei fiocchetti di burro e un po' di formaggio grattugiato. Cuocete in forno a 220°C per 20 minuti e guarnitele con foglioline di basilico fresco.
+

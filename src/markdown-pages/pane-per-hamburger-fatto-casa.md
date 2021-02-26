@@ -1,5 +1,6 @@
 ---
 title: "Pane per hamburger fatto in casa"
+slug: "pane-per-hamburger-fatto-in-casa"
 date: "2017-05-07"
 categories: 
   - "cucina-americana"
@@ -47,3 +48,4 @@ Trasferite i vari paninetti su una teglia ricoperta da carta forno, spolverizzat
 ![](http://176.9.41.35:8000/wp-content/uploads/2017/05/pane-hamburger1.jpg)
 
 Infornate il vostro pane da hamburger per 15 - 17 minuti a 190°C. Lasciate raffreddare completamente prima di tagliarli e farcirli con il vostro hamburger!
+

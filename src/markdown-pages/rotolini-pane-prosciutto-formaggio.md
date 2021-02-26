@@ -1,5 +1,6 @@
 ---
 title: "Rotolini di pane con prosciutto e formaggio"
+slug: "rotolini-pane-prosciutto-formaggio"
 date: "2017-06-07"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -35,3 +36,4 @@ Prendete una fetta di pane e assottigliatela con il mattarello, ricopritela con 
 Preparate il sugo affettando sottilmente lo scalogno e stufatelo con un goccio di olio, aggiungete il pomodoro ciliegino tagliato a pezzetti, sale, pepe, peperoncino due foglie di basilico. Lasciate sobbolire e dopo 10 minuti il sugo sarà pronto.
 
 Togliete i rotolini dalla pellicola, passateli nella farina, poi nell'uovo e infine nel pangrattato, friggete ad immersione finché risultino belli dorati. Serviteli ben caldi accompagnati dal sugo di pomodoro.
+

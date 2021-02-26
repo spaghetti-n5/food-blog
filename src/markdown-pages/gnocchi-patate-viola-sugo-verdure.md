@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di patate viola con sugo di verdure"
+slug: "gnocchi-di-patate-viola-con-sugo-di-verdure"
 date: "2017-10-31"
 categories: 
   - "gnocchi"
@@ -47,3 +48,4 @@ In una padella larga soffriggete uno scalogno tritato e la carota, salate e succ
 Cuocete gli gnocchi in abbondante acqua salata, quando verranno a galla trasferiteli nella padella con un goccio di acqua di cottura e mescolate il tutto per insaporire. A piacere aggiungete un formaggio a scaglie, io ho scelto il classico formaggio grana, e mantecate bene gli gnocchi.
 
 Servite i vostri gnocchi con qualche fettina di patata lessata ripassata e basilico fresco.
+

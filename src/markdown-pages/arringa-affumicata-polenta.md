@@ -1,5 +1,6 @@
 ---
 title: "Arringa affumicata con polenta"
+slug: "arringa-affumicata-con-polenta"
 date: "2018-05-16"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -34,3 +35,4 @@ Adagiate la arringa in una pirofila, condite con abbondante olio extra vergine d
 Servite i filetti di renga con una polentina morbida o fette di polenta abbrustolita.
 
 Potete conservare le arringhe, in un recipiente ben chiuso coperte di olio di oliva, per una settimana, ed il loro gusto migliorerà con il passare dei giorni.
+

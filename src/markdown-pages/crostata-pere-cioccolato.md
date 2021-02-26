@@ -1,5 +1,6 @@
 ---
 title: "Crostata di pere e cioccolato"
+slug: "crostata-di-pere-e-cioccolato"
 date: "2017-09-09"
 categories: 
   - "dolci"
@@ -67,3 +68,4 @@ Stirate la pasta frolla con un mattarello, aiutandovi con un foglio di carta for
 Aggiungete la crema al cioccolato e livellatela bene. Inserite ora le pere nella crema al cioccolato alternando le pere cotte e quelle crude.
 
 Infornate in forno preriscaldato per 50 minuti a 160 °C.
+

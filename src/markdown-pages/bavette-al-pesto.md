@@ -1,5 +1,6 @@
 ---
 title: "Bavette al pesto"
+slug: "bavette-al-pesto"
 date: "2017-06-29"
 categories: 
   - "primi-piatti"
@@ -37,3 +38,4 @@ Per ottenere un sentore di aglio ma non eccessivo, schiacciatelo e strofinatelo 
 Inserite nel frullatore le foglie di basilico, i pinoli ed i grani di sale grosso, frullate a scatti per non scaldare eccessivamente le foglie versando gradualmente l'olio a filo. Il pesto dovrà risultare bello oleoso e di colore verde intenso.
 
 Tuffate la pasta in abbondante acqua salata, arrivata a cottura scolatela in una ciotola. Aggiungete il parmigiano ed il pecorino ed amalgamate il tutto con un goccio di acqua di cottura. Aggiungete infine il pesto, rigirate il tutto e buon appetito!
+

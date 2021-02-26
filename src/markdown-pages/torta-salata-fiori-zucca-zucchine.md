@@ -1,5 +1,6 @@
 ---
 title: "Torta salata con fiori di zucca e zucchine"
+slug: "torta-salata-con-fiori-di-zucca-e-zucchine"
 date: "2017-07-07"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -40,3 +41,4 @@ Affettate la zucchina molto finemente con una mandolina e mettetele in una cioto
 Stendete ora la sfoglia su una tortiera, bucherellate il fondo con una forchetta e adagiate uno strato di zucchine crude. Aggiungete successivamente lo stracchino a fiocchetti, un po' di pecorino grattugiato ed i fiori di zucca aperti a raggera. Spolverizzate la superficie con il pecorino, aggiungete i pistacchi sminuzzati e qualche noce di burro. Infornate a 180 C per 35 - 40 minuti.
 
 Appena togliete la torta dal forno, aggiungete delle foglioline di maggiorana, con il calore emaneranno un profumo buonissimo.
+

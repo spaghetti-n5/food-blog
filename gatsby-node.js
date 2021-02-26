@@ -15,6 +15,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
             node {
               frontmatter {
                 title
+                slug
               }
             }
           }
@@ -41,23 +42,22 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           skip: i * postsPerPage,
           numPages,
           currentPage: i+1,
-          try: i,
         },
       })
     })
 
     // Create blog posts pages.
     result.data.allMarkdownRemark.edges.forEach(({ node }, index) => {
-      const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
       const next = index === result.data.allMarkdownRemark.edges.length - 1 ? null : result.data.allMarkdownRemark.edges[index + 1].node
       const previous = index === 0 ? null : result.data.allMarkdownRemark.edges[index - 1].node
       createPage({
-        path: postSlug,
+        path: node.frontmatter.slug,
         component: blogPostTemplate,
         context: {
           title: node.frontmatter.title,
           previous,
           next,
+          slug: node.frontmatter.slug,
         },
       })
     })

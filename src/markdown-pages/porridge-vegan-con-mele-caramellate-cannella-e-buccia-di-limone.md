@@ -1,5 +1,6 @@
 ---
 title: "Porridge vegan con mele caramellate, cannella e buccia di limone"
+slug: "porridge-vegan-con-mele-caramellate,-cannella-e-buccia-di-limone"
 date: "2019-11-01"
 categories: 
   - "colazione"
@@ -39,3 +40,4 @@ In un pentolino aggiungete i fiocchi di cereali, la cannella, il cucchiaino di z
 Successivamente aggiungete nel pentolino mezza mela a cubetti, 1 cucchiaino di zucchero muscovado e la buccia di mezzo limone, cuocete per qualche minuti rendendo il tutto ben caramellato, quindi servitela sopra il porridge.
 
 Aggiungete anche la mezza mela rimasta e il kiwi a fette, completate con un po’ di sciroppo di agave. Servite il vostro porridge ben caldo e buon appetito!!!
+

@@ -1,5 +1,6 @@
 ---
 title: "Torta alla zucca e frutta secca"
+slug: "torta-alla-zucca-frutta-secca"
 date: "2017-11-27"
 categories: 
   - "dolci"
@@ -43,3 +44,4 @@ Sbattete con una frusta elettrica le uova con lo zucchero ed il sale e aggiunget
 Versate il composto nella tortiera e spolverate la superficie con 2 cucchiai di zucchero semolato. Infornate per 1 ora e mezza a 140°C, fate comunuque la prova dello stecchino. è un dolce molto umido per questo avrà bisogno di un lungo tempo di cottura a bassa temperatura. Lasciate raffreddare la vostra torta di zucca e buon appetito!
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/11/torta-alla-zucca1.jpg)
+

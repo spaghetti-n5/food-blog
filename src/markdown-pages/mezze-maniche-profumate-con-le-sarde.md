@@ -1,5 +1,6 @@
 ---
 title: "Mezze maniche profumate con le sarde"
+slug: "mezze-maniche-profumate-con-le-sarde"
 date: "2017-06-07"
 categories: 
   - "primi-piatti"
@@ -34,3 +35,4 @@ Soffriggete uno scalogno tagliato sottilissimo ed uno spicchio di aglio schiacci
 Buttate le mezze maniche in abbondante acqua salata, scolatele al dente e tuffatele nel sugo, continuate la cottura della pasta in padella con l'aiuto dell'acqua di cottura. Tostate le mandorle e lasciatele da parte.
 
 Servite le mezze maniche ben calde con una grattugiata di zeste di arancia e una manciata di mandorle tostate.
+

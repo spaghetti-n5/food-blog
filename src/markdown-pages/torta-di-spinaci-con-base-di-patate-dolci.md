@@ -1,5 +1,6 @@
 ---
 title: "Torta di spinaci con base di patate dolci"
+slug: "torta-di-spinaci-con-base-di-patate-dolci"
 date: "2018-05-05"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -40,3 +41,4 @@ Pelate le patate dolci ed affettatele sottili con una mandolina, sciacquatele e 
 Foderate la tortiera con la carta da forno, disponete le patate ricoprendo tutta la base ed i bordi e salate leggermente. Disponete gli spinaci omogeneamente su tutta la base, aggiungete la feta sbriciolata, la mozzarella ed i pinoli. Completate il tutto con una macinata di pepe nero.
 
 Infornate per circa 35 minuti a 180°C!
+

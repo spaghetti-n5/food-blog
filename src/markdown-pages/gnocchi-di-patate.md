@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di patate"
+slug: "gnocchi-di-patate"
 date: "2017-05-03"
 categories: 
   - "gnocchi"
@@ -28,3 +29,4 @@ Mettetele ora su una spianatoia, aggiungete il sale e la farina. Lasciate raffre
 Preparate con l'impasto dei filoncini rotondi di un centimetro di diametro, tagliateli a pezzetti ed infarinateli bene. Potete rigarli facendoli passare sui rebbi della forchetta oppure lasciarli semplicemente lisci. Sistemateli su un vassoio infarinato e copriteli con un canovaccio così non si seccano.
 
 Cuocete infine gli gnocchi in abbondante acqua salata, appena vengono a galla sono pronti per essere conditi.
+

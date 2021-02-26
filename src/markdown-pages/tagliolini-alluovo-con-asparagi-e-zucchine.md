@@ -1,5 +1,6 @@
 ---
 title: "Tagliolini all'uovo con asparagi, zucchine e guanciale"
+slug: "tagliolini-alluovo-con-asparagi-e-zucchine"
 date: "2017-05-07"
 categories: 
   - "primi-piatti"
@@ -43,3 +44,4 @@ Tagliate il guanciale a striscioline e mettetelo in una padella antiaderente sen
 Tirate la pasta come più vi piace (io ho realizzato dei tagliolini molto sottili) e cucinatela in abbondante acqua salata, se volete con l'aiuto di un goccio di olio. Scolate la pasta dopo pochi secondi e amalgamatela alla crema di asparagi aiutandovi con l'acqua di cottura.
 
 Impiattate la pasta, aggiungete le zucchine e il guanciale croccanti, una bella macinata di pepe nero e della scorza di limone.
+

@@ -1,5 +1,6 @@
 ---
 title: "Khachapuri"
+slug: "khachapuri"
 date: "2017-04-05"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -54,3 +55,4 @@ Infornate in forno preriscaldato a 230° per 15 minuti. A questo punto rimuovete
 Una volta in tavola, potete mescolare l'uovo e il formaggio insieme con una forchetta oppure lasciare i sapori separati.
 
 L'importante è rompere il pezzo di pane dalla crosta e immergerlo nel formaggio filante!
+

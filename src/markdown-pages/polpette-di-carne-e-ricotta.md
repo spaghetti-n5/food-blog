@@ -1,5 +1,6 @@
 ---
 title: "Polpette di macinato e ricotta"
+slug: "polpette-di-carne-e-ricotta"
 date: "2017-04-30"
 categories: 
   - "secondi-piatti"
@@ -30,3 +31,4 @@ coverImage: "../images/polpette-di-macinato.jpg"
 Mettete in una terrina la carne, le verdure, la ricotta, il parmigiano, il prezzemolo, un uovo, sale e pepe. Impastate con una forchetta e aggiungete del pane grattugiato. Lasciate riposare il composto in frigorifero per 15 minuti.
 
 Realizzate ora delle polpette non troppo grandi e passatele nel pangrattato. Friggete le polpette ad immersione in olio di semi per pochi minuti.
+

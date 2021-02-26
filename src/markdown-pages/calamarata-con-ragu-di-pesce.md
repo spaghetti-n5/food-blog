@@ -1,5 +1,6 @@
 ---
-title: "Calamarata con ragù di pesce"
+title: "Calamarata con ragú di pesce"
+slug: "calamarata-con-ragú-di-pesce"
 date: "2017-06-28"
 categories: 
   - "primi-piatti"
@@ -32,3 +33,4 @@ Buttate prima di tutto la pasta in acqua bollente salata, la calamarata avrà bi
 In una padella soffriggete con un goccio di olio lo scalogno tritato, l'aglio schiacciato privato del germe interno ed il peperoncino sbriciolato. Aggiungete metà dei pomodorini tagliati in quattro, regolate l'acidità con lo zucchero e lasciate ridurre. Aggiungete e tostate bene il pesce misto, salate, quindi sfumate con il vino bianco e lasciate evaporare bene tutto l'alcool. Togliete ora i gamberetti, le cozze e le vongole e lasciateli a parte in una ciotola coperti.
 
 5 minuti prima del termine di cottura della pasta, trasferitela nella padella con il ragù di pesce e aggiungete i restanti pomodorini tagliati in 4 ed il pesce che avete lasciato da parte. Continuate la cottura in padella in modo da insaporire bene la pasta, aggiungendone poco alla volta l'acqua di cottura. Aggiungete il basilico fresco e servite con un filo di olio extravergine di oliva.
+

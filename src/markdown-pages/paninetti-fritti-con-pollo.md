@@ -1,5 +1,6 @@
 ---
 title: "Paninetti fritti con pollo"
+slug: "paninetti-fritti-con-pollo"
 date: "2017-04-26"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -37,3 +38,4 @@ Sciogliere il lievito nel latte tiepido aggiungere un pizzico di zucchero, la fa
  
 
 Vanno infine tagliati e riempiti con il pollo e l'insalatina; sono ottimi anche con il roast beef e i sottaceti o con l'arrosto avanzato del giorno prima.
+

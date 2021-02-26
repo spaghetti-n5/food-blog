@@ -1,5 +1,6 @@
 ---
 title: "Tagliatelle al nero di seppia con sugo di triglie"
+slug: "tagliatelle-al-nero-di-seppia-con-sugo-di-triglie"
 date: "2018-02-21"
 categories: 
   - "primi-piatti"
@@ -57,3 +58,4 @@ In una padella scaldate un goccio di olio di oliva, quando sarà ben caldo aggiu
 Tuffate le tagliatelle in acqua bollente salata, scolatele dopo 2 minuti e trasferitele nella padella con il sugo di pomodorini. Amalgamate bene il tutto con l'aggiunta di acqua di cottura nel caso fosse necessario.
 
 Servite quindi le vostre tagliatelle ben calde con sopra il filetto di triglia croccante.
+

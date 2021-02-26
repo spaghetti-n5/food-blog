@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di rape rosse con gorgonzola"
+slug: "gnocchi-di-rape-rosse-con-gorgonzola"
 date: "2017-06-26"
 categories: 
   - "gnocchi"
@@ -35,3 +36,4 @@ Iniziate ad aggiungere la farina incorporandola alle patate e alle rape fino a c
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/gnocchi-con-rape1.jpg)
 
 Sciogliete il gorgonzola a pezzetti con un goccio di latte, salate leggermente e pepate. Tuffate gli gnocchi in abbondante acqua salata, appena verranno a galla scolateli e aggiungeteli alla salsa di gorgonzola, mescolate il tutto bene finché la salsa si addensa e lacca gli gnocchi. Servite con abbondante pepe nero macinato al momento e qualche noce tritata.
+

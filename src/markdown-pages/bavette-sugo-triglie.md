@@ -1,5 +1,6 @@
 ---
 title: "Bavette con sugo di triglie"
+slug: "bavette-con-sugo-di-triglie"
 date: "2018-02-28"
 categories: 
   - "primi-piatti"
@@ -43,3 +44,4 @@ In una padella scaldate un goccio di olio di oliva, quando sarà ben caldo aggiu
 Tuffate le bavette in acqua bollente salata, scolatele 2 minuti prima che siano cotte e trasferitele nella padella con il sugo di pomodoro. Amalgamate bene il tutto con l’aggiunta di acqua di cottura nel caso fosse necessario.
 
 Servite quindi le vostre bavette ben calde con sopra il filetto di triglia croccante e qualche foglia di basilico fresco.
+

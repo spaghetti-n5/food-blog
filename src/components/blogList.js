@@ -22,10 +22,9 @@ export default function BlogList({ data, pageContext }) {
         <h4>{data.allMarkdownRemark.totalCount} Ricette</h4>
         <div className={styles.thumbPostContainer}>
           {data.allMarkdownRemark.edges.map(({ node }) => {
-            const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
             return (
                 <div key={node.id} className={styles.thumbPostWrap}>
-                    <Link to={`/${postSlug}`}>
+                    <Link to={`/${node.frontmatter.slug}`}>
                       <Img fluid={node.frontmatter.coverImage.childImageSharp.fluid} style={{ height: "184.617px" }} />
                         <p className={styles.thumbPostDate}>{node.frontmatter.date}</p>
                         <h2 className={styles.thumbPostTitle}>{node.frontmatter.title}</h2>
@@ -76,6 +75,7 @@ export const query = graphql`
           id
           frontmatter {
             title
+            slug
             date(formatString: "DD MMMM YYYY", locale: "it")
             categories
             coverImage {

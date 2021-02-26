@@ -1,5 +1,6 @@
 ---
 title: "Confettura di pomodori verdi"
+slug: "confettura-di-pomodori-verdi"
 date: "2018-05-22"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -55,3 +56,4 @@ Lavate i pomodori verdi e tagliateli a piccoli pezzi. Mettiamoli in una pentola 
 Aiutandoci con un mestolo versate la conserva bollente nei barattoli sterilizzati lasciando 1 cm di spazio dal bordo e chiudete bene. Con il calore si creerà il sottovuoto e premendo il tappo con le dita non si sentirà il classico click-clack. Potrete così conservare la vostra marmellata per 3 mesi.
 
 Prima di utilizzare la confettura sarà necessario che riposi per un paio di settimane; una volta aperta conservate la marmellata in frigo.
+

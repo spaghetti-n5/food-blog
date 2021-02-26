@@ -1,5 +1,6 @@
 ---
 title: "Polpettone ripieno di salsiccia, prosciutto e formaggio"
+slug: "polpettone-ripieno-di-salsiccia,-prosciutto-e-formaggio"
 date: "2017-05-10"
 categories: 
   - "ricette-autunnali"
@@ -43,3 +44,4 @@ Ammollate il pane raffermo tagliato a tocchetti, poi strizzatelo e mettetelo in 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/05/polpettone4.jpg)
 
 Potete cuocere il polpettone in forno con un po' d'olio e un po' d'acqua oppure in pentola, prestando molta attenzione che non si bruci, con un bicchiere di vino ed infine con il brodo vegetale o semplice acqua calda. Dopo circa 40 minuti il polpettone sarà pronto, lasciatelo riposare per 10 minuti prima di servirlo a fette.
+

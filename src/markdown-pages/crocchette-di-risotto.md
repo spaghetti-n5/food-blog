@@ -1,5 +1,6 @@
 ---
 title: "Crocchette di risotto"
+slug: "crocchette-di-risotto"
 date: "2017-06-07"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -32,3 +33,4 @@ Non ho messo le quantità precise, essendo un piatto di recupero, dipenderà dal
 **Procedimento:**
 
 Mettete una pallina di risotto nelle mani bagnate, create una conca ed inseriteci un dadino di mozzarella ed il prosciutto e richiudete. Fate una doppia impanatura: uovo, pane grattato, ancora uovo e poi di nuovo pane grattato. Friggete le crocchette in olio di semi profondo e caldo, saranno buonissime calde perché la mozzarella fonderà e farà il filo.
+

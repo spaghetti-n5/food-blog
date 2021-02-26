@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi di zucca e patate al burro e salvia"
+slug: "gnocchi-di-zucca-e-patate-al-burro-e-salvia"
 date: "2017-11-12"
 categories: 
   - "gnocchi"
@@ -46,3 +47,4 @@ Unite ora in una ciotola la polpa di zucca, le patate, sale q.b e noce moscata. 
 In una padella ampia sciogliete il burro con un po' d'acqua di cottura degli gnocchi e aggiungete le foglie di salvia ad insaporire.
 
 Tuffate gli gnocchi in abbondante acqua salata e quando verranno a galla scolateli nella padella, mescolate bene il tutto affinche la superficie caramelli un po'. Risulteranno cosi molto morbidi all'interno con una lieve crosticina esterna. Spolverate la superficie con il formaggio grana grattuggiato e aggiungete a piacere, una volta impiattati, le lamelle di ricotta affumicata.
+

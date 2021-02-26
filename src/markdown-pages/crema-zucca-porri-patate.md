@@ -1,5 +1,6 @@
 ---
 title: "Crema di zucca, porri e patate"
+slug: "crema-di-zucca,-porri-e-patate"
 date: "2017-11-19"
 categories: 
   - "primi-piatti"
@@ -41,3 +42,4 @@ In una casseruola scaldate un goccio di olio di oliva, aggiungete il porro e cuo
 A parte preparate i crostini di pane croccante: scaldate un goccio di olio in una padella ed aggiungete il pane tagliato a cubetti e tostatelo in modo che risulti croccante; a piacere potete insaporirlo con un aglio schiacciato o del rosmarino. Togliete i crostini e lasciateli da parte; nella stessa padella versate un goccio di olio di oliva e cuocete i funghi a fiamma vivace, salate e lasciateli da parte.
 
 Servite la vostra crema ben calda accompagnata dai crostini croccanti ed i funghi, completate con una macinata di pepe nero.
+

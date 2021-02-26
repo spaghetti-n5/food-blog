@@ -1,5 +1,6 @@
 ---
 title: "Torta di mele soffice e profumata"
+slug: "torta-mele-soffice-profumata"
 date: "2017-11-05"
 categories: 
   - "dolci"
@@ -42,3 +43,4 @@ Cuocete a 180° in forno cado per circa 50 minuti, fate sempre la prova stecchin
 ![](https://cucinadalnord.it/wp-content/uploads/2017/11/torta-di-mele1.jpg)
 
 ![Torta di mele soffice e profumata](https://cucinadalnord.it/wp-content/uploads/2017/11/Torta-di-mele.jpg)
+

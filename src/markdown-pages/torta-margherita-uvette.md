@@ -1,5 +1,6 @@
 ---
 title: "Torta margherita con uvette"
+slug: "torta-margherita-con-uvette"
 date: "2017-09-24"
 categories: 
   - "dolci"
@@ -39,3 +40,4 @@ Imburrate una tortiera con cerchio apribile del diametro di 22 cm ed infarinatel
 Fate cuocere in forno preriscaldato a 170° per 35 - 40 minuti, verificate la cottura con uno stecchino, infilandolo al centro della torta: se, estraendolo, risulterà umido allora la torta necessiterà ancora di qualche minuto di cottura, in caso contrario sarà pronta.
 
 Lasciatela raffreddare completamente la torta nello stampo, sformatela e buon appetito!
+

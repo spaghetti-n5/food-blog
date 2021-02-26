@@ -1,5 +1,6 @@
 ---
 title: "Spiedini di manzo agli aromi"
+slug: "spiedini-di-manzo-agli-aromi"
 date: "2017-06-23"
 categories: 
   - "secondi-piatti"
@@ -31,3 +32,4 @@ Tagliate la carne a cubetti regolari e lasciamoli marinare per un paio d'ore in 
 Mettete gli stuzzicadenti in acqua per una decina di minuti così non si bruceranno in cottura; successivamente infilate in ogni stuzzicadenti 4 cubetti di carne.
 
 Cuocete gli spiedini in una pentola antiaderente ben calda girandoli quando saranno ben caramellati, infine aggiustate di sale e pepe. Il tempo di cottura dipende dai gusti, io preferisco il manzo ben rosato e morbido all'interno.
+

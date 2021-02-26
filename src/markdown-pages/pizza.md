@@ -1,5 +1,6 @@
 ---
 title: "Pizza"
+slug: "pizza"
 date: "2017-06-28"
 categories: 
   - "impasti"
@@ -48,3 +49,4 @@ Preriscaldate il forno a 220°C, non utilizzo una temperatura molto elevata per 
 Condite la salsa di pomodoro con sale, zucchero per bilanciarne l'acidità e olio extravergine di oliva. Disponete un sottile strato di pomodoro sopra la pizza ed infornate per 10 minuti o fino a che il pomodoro risulti cotto e abbia perso parte della sua acqua.
 
 Togliete la pizza dal forno, aggiungete l'origano secco, qualche foglia di basilico, la mozzarella e gli ingredienti che preferite (io ho aggiunto gorgonzola), infornate nuovamente la pizza fino a quando tutta la mozzarella abbiamo preso il bollore e quindi tutti i liquidi siano evaporati. Ora lasciate riposare la pizza fuori dal forno per 5 minuti in modo che si compatti bene e sia più facile da tagliare.
+

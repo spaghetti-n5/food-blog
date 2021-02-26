@@ -1,5 +1,6 @@
 ---
 title: "Lasagnetta croccante"
+slug: "lasagnetta-croccante"
 date: "2017-04-06"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -44,3 +45,4 @@ Tagliate ora le zucchine in lunghezza abbastanza sottile e grigliatele, conditel
 Passati i 30 minuti, stendiamo le palline prima con l'aiuto di un mattarello e poi con le mani, fino ad ottenere una sfoglia sottilissima. La disponiamo ora su una padella calda e le lasciamo cucinare un paio di minuti per lato. Una volta tolte dal fuoco, le tagliamo ottenendo una forma quadrangolare e le condiamo con sale rosa, rosmarino e olio.
 
 Ora componiamo la lasagnetta: mettiamo una prima sfoglia croccante, poi le zucchine, il salmone ed infine l'avocado; poi una seconda sfoglia croccante con zucchine, salmone e avocado ed infine chiudiamo la lasagnetta con l'ultima sfoglia croccante.
+

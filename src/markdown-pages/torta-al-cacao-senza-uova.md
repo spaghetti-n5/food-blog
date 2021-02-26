@@ -1,5 +1,6 @@
 ---
 title: "Torta al cacao senza uova"
+slug: "torta-al-cacao-senza-uova"
 date: "2017-09-02"
 categories: 
   - "dolci"
@@ -54,3 +55,4 @@ Potete servire la torta semplicemente così cosparsa di zucchero a velo o potete
 Con un seghetto dividete la torta in due parti. Preparate in una ciotolina una crema veloce mescolando mezza confezione di formaggio spalmabile, circa un cucchiaio di zucchero a velo (regolate a piacere la dolcezza) ed un goccio di latte per ammorbidirne la consistenza ed ottenere un composto cremoso. Spalmate uno strato di crema sulla base della torta e successivamente uno strato di marmellata di fragole, quindi richiudete la torta con l'altra meta e servite!
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/09/Torta-al-cacao-senza-uova2-1.jpg)
+

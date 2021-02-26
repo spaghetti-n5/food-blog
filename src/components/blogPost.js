@@ -9,14 +9,11 @@ export default function BlogPost({
   data, // this prop will be injected by the GraphQL query below.
   pageContext,
 }) {
-  console.log(pageContext)
+  console.log("pageContextBlogPost", pageContext)
   const { previous, next } = pageContext;
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   const featuredImgFluid = frontmatter.coverImage.childImageSharp.fluid
-
-  const nextPathSlug = next && next.frontmatter.title.toLowerCase().replace(/\s/g, '-');
-  const previousPathSlug = previous && previous.frontmatter.title.toLowerCase().replace(/\s/g, '-');
 
   return (
     <Layout>
@@ -32,14 +29,14 @@ export default function BlogPost({
       <ul className={styles.navigationWrap}>
           <li>
             {previous && (
-              <Link to={`/${previousPathSlug}`} rel="prev">
+              <Link to={`/${previous.frontmatter.slug}`} rel="prev">
                 ← {previous.frontmatter.title}
               </Link>
             )}
           </li>
           <li>
             {next && (
-              <Link to={`/${nextPathSlug}`} rel="next">
+              <Link to={`/${next.frontmatter.slug}`} rel="next">
                 {next.frontmatter.title} →
               </Link>
             )}
@@ -50,12 +47,13 @@ export default function BlogPost({
 }
 
 export const pageQuery = graphql`
-  query($title: String!) {
-    markdownRemark(frontmatter: { title: { eq: $title } }) {
+  query($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
       html
       frontmatter {
         date(formatString: "DD MMMM YYYY" locale: "it")
         title
+        slug
         coverImage {
           childImageSharp {
             fluid(maxWidth: 600) {

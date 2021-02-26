@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi con ragù di anatra"
+slug: "gnocchi-con-ragù-di-anatra"
 date: "2017-09-23"
 categories: 
   - "primi-piatti"
@@ -44,3 +45,4 @@ Tagliate a cubetti piccoli la carota, il sedano e la cipolla e soffriggetele con
 Aggiungete successivamente la carne, la foglia di alloro intera, il rosmarino e la salvia sminuzzati, la cannella ed un chiodo di garofano. Lasciate rosolare bene il tutto a fuoco vivace, successivamente sfumate il fondo con 1⁄2 bicchiere di vino bianco secco facendo attenzione a versare il vino sul fondo della pentola e non direttamente sulla carne, altrimenti l’alcool non evaporerà completamente. Lasciate evaporare l’alcool molto bene a fiamma vivace, successivamente abbassate la fiamma e aggiungete 1/2 bicchiere di acqua calda e il succo dell'arancia. Aggiustate di sale e pepe e lasciate cuocere a fuoco lento finché l'olio salirà in superficie vicino ai bordi. Infine aggiungo solitamente una noce di burro che mi servirà per rendere il ragù più morbido e legato. Otterrete cosi un ragù profumato e leggero dove il gusto dell'anatra resterà intatto.
 
 Questo ragù di anatra è un ottimo sugo per condire i vostri gnocchi di patate o delle tagliatelle fatte in casa (vedi ricetta [Tagliatelle all'uovo](https://cucinadalnord.it/pasta-uovo-fatta-in-casa/)).
+

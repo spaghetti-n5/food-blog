@@ -1,5 +1,6 @@
 ---
 title: "Profiteroles al cioccolato"
+slug: "profiteroles-al-cioccolato"
 date: "2017-04-19"
 categories: 
   - "dolci"
@@ -35,3 +36,4 @@ Realizzate 30 bignè seguendo la ricetta della [Pasta choux (bignè)](https://cu
 Mettete in un pentolino 200 ml di panna e il cioccolato, fate sciogliere lentamente e zuccherate a piacere. Montate a neve soda i restanti 200 ml di panna con dello zucchero a velo.
 
 Mettete la panna in un sac-a-pochè e riempite i bignè. Iniziate a posizionare i bignè farciti a forma di torre. Una volta completata rovesciatevi il cioccolato fuso, lasciate raffreddare e buon appetito!
+

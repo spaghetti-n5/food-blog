@@ -1,5 +1,6 @@
 ---
 title: "Tiramisù"
+slug: "tiramisù"
 date: "2017-04-05"
 categories: 
   - "dolci"
@@ -48,3 +49,4 @@ Spolverizzate quindi la superficie con del cacao amaro in polvere setacciato.
 ![](https://cucinadalnord.it/wp-content/uploads/2017/04/tiramisu.jpg)
 
 Buon appetito!
+

@@ -1,5 +1,6 @@
 ---
 title: "Empanadilla spagnola"
+slug: "empanadilla-spagnola"
 date: "2017-05-11"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -58,3 +59,4 @@ Al centro disponetevi una bella cucchiaiata di pisto, richiudete a mezzaluna e s
 ![](https://cucinadalnord.it/wp-content/uploads/2017/05/empanadilla1.jpg)
 
 Spennellate la superficie con l'uovo sbattuto ed infornate per 25 - 30 minuti a 200°C finché risultino belle dorate.
+

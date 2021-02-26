@@ -1,5 +1,6 @@
 ---
 title: "Cheesecake cotta al limone"
+slug: "cheesecake-cotta-al-limone"
 date: "2017-06-17"
 categories: 
   - "cucina-americana"
@@ -61,3 +62,4 @@ Quando la cheesecake si sarà raffreddata, ricoprite la superficie con un sottil
  
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/cheesecake2.jpg)
+

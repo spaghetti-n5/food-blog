@@ -1,5 +1,6 @@
 ---
 title: "Cheeseburger fatto in casa"
+slug: "cheeseburger-fatto-in-casa"
 date: "2017-09-17"
 categories: 
   - "cucina-americana"
@@ -73,3 +74,4 @@ Potete cucinare la carne su una bistecchiera, una padella o ancora meglio sul ba
 Quando il vostro pane sarà pronto e raffreddato, tagliatelo a metà lasciando la base leggermente più alta, e mettetelo sulla bistecchiera in cui avete cotto la carne sul lato interno e lasciatelo scaldare e grigliare per 2 minuti circa. Potete utilizzare le salse che più vi piacciono, io consiglio di spalmare la base con uno strato di senape e la parte sopra con ketchup. Componete ora il vostro cheeseburger, l'alternanza degli strati è molto importante! Disponete sulla base del pane la foglia di lattuga, qualche fetta di pomodoro, l'hamburger con il formaggio, i cetriolini e il bacon, quindi chiudete il tutto. Servite il vostro cheeseburger con le patatine fritte cotte al forno.
 
 ![Cheeseburger di carne di manzo e pane fatto in casa](https://cucinadalnord.it/wp-content/uploads/2017/09/Cheeseburger1.jpg)
+

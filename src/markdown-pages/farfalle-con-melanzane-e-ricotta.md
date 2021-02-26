@@ -1,5 +1,6 @@
 ---
 title: "Farfalle con melanzane e ricotta"
+slug: "farfalle-con-melanzane-e-ricotta"
 date: "2017-06-17"
 categories: 
   - "primi-piatti"
@@ -39,3 +40,4 @@ In un’altra pentola fate soffriggere uno scalogno con goccio di olio, aggiunge
 In una ciotola stemperate la ricotta aiutandovi con l’acqua di cottura della pasta fino ad ottenere una salsina liquida e vellutata, aggiustate di sale e pepe.
 
 Portate a cottura la pasta, scolatela direttamente nella ciotola con la ricotta e le melanzane, mescolate bene e aggiungete altra acqua di cottura nel caso la salsa risultasse troppo densa. Impiattate la pasta aggiungendoci sopra il pomodoro, le melanzane a cubetti e fritte e due foglie di basilico.
+

@@ -1,5 +1,6 @@
 ---
 title: "Muffin agli amaretti ed arancia"
+slug: "muffin-agli-amaretti-ed-arancia"
 date: "2018-02-12"
 categories: 
   - "dolci"
@@ -52,3 +53,4 @@ Mettete in una ciotola le uova, sbattete leggermente, quindi aggiungete un cucch
 Versate il composto liquido su quello secco, amalgamate velocemente con una spatola e riempite gli stampini. Non lavorate troppo l’impasto altrimenti i muffin risulteranno troppo compatti; il composto deve risultare abbastanza denso, nel caso fosse troppo liquido, aggiungeteci un po’ di farina. Infornate per 18 – 20 minuti a 180°C.
 
 In un pentolino scaldate il succo di arancia con lo zucchero, fate sobbollire e lasciate da parte a raffreddare. Una volta che i vostri muffins saranno pronti e raffreddati, bucherellateli con uno stuzzicadenti e versateci sopra la bagna di arancia.
+

@@ -1,5 +1,6 @@
 ---
 title: "Lasagna al ragù"
+slug: "lasagna-al-ragù"
 date: "2017-06-06"
 categories: 
   - "primi-piatti"
@@ -51,3 +52,4 @@ Preparate la besciamella, dovrà risultare densa e consistente. Sciogliete in un
 Preparate la pasta all'uovo fatta in casa seguendo la ricetta: [Pasta all'uovo fatta in casa](https://cucinadalnord.it/pasta-uovo-fatta-in-casa/) Dopo aver lasciato riposare l'impasto per 30 minuti, stirate la pasta realizzando delle sfoglie sottili (con la nonna papera il numero 5) e lasciatele da parte.
 
 Assemblate ora la lasagna. Disponete sul fondo della pirofila un po' di besciamella, ora aggiungete uno strato di pasta (si cucinerà durante la cottura in forno), uno strato di ragù, la besciamella ed il parmigiano grattugiato. Ripetete l'operazione 3 volte disponendo la pasta, il ragù, la besciamella e il formaggio grana. Terminate la stratificazione con abbondante formaggio grana. Infornate a 200-220 °C per 30 minuti: fino a quando tutta la lasagna risulti belle bollente e sulla superficie si sia formata una crosticina dorata. Lasciate riposare fuori dal forno per qualche minuto in modo che la lasagna si ricompatti bene.
+

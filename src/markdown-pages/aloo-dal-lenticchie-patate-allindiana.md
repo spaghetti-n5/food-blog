@@ -1,5 +1,6 @@
 ---
 title: "Aloo Dahl, lenticchie e patate all'indiana"
+slug: "aloo-dahl,-lenticchie-e-patate-all'indiana"
 date: "2018-02-05"
 categories: 
   - "cucine-del-mondo"
@@ -62,3 +63,4 @@ Affettate lo zenzero molto finemente e poi a bastoncini, lasciatelo da parte per
 Inziamo ora con la preparazione del Dahl. Tagliate la cipolla grossolanamente, tritate l'aglio, lavate le lenticchie sotto acqua corrente. Pelate e lavate le patate, tagliatele quindi a cubetti regolare di 1-2 cm. Lavate gli spianci e tagliate il pomodoro in cubetti. Scaldate in una pentola dell'olio di semi, cuocete la cipolla a fuoco dolce insieme all'aglio tritato finchè risulteranno morbidi. Aggiungete ora le varie spezie facendo attenzione a non bruciarle: la cannella, il peperoncino sbriciolato, il cumino, la curcuma, il curry rosso, paprica dolce e l'origano secco. Scaldate e tostate leggermente le spezie, salate abbondantemente, quindi aggiungete del brodo vegetale bollente, circa 0.6 l, e successivamente le lenticchie e le patate. Lasciate cuocere a fuoco dolce per 15 minuti, poi chiudete il fuoco, aggiungete gli spinaci freschi e lasciate riposare.
 
 Servite il Dahl con i bastoncini di zenzero, una macinata d ipepe di sichuan ed il riso in due ciotole separate. Buon appetito!
+

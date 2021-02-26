@@ -1,5 +1,6 @@
 ---
 title: "Curry verde thailandese vegetariano"
+slug: "curry-verde-thailandese-vegetariano"
 date: "2017-06-23"
 categories: 
   - "cucina-thailandese"
@@ -65,3 +66,4 @@ Le verdure dovranno risultare cotte ma ancora al dente e la pasta di curry dovr√
 Ultimata la cottura aggiungete un cucchiaio di zucchero, 2 cucchiai di salsa di pesce e abbondante lime. Servite ben caldo con foglie di coriandolo fresco e riso.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/curry2.jpg)
+

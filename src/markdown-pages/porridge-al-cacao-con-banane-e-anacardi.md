@@ -1,5 +1,6 @@
 ---
 title: "Porridge al cacao con banane e anacardi"
+slug: "porridge-al-cacao-con-banane-e-anacardi"
 date: "2019-11-15"
 categories: 
   - "colazione"
@@ -37,3 +38,4 @@ Servite il porridge nella vostra tazza da colazione.
 Successivamente mettete nel pentolino la banana affettata spolverata di zucchero muscovado, cuocete per qualche minuti rendendo il tutto morbido e caramellato, quindi servitela sopra il porridge con qualche anacardo.
 
 Servite il vostro porridge al cacao ben caldo e buon appetito!!!
+

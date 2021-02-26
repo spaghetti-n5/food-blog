@@ -1,5 +1,6 @@
 ---
 title: "Torta salata con tonno e cipolla"
+slug: "torta-salata-con-tonno-e-cipolla"
 date: "2017-09-05"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -39,3 +40,4 @@ Affettate la cipolla molto finemente con l’aiuto di una mandolina e scottatela
 Mettete in una terrina la cipolla, il tonno sgocciolato e sbriciolato e condite il tutto con olio extravergine di oliva, sale e pepe e lasciate riposare da parte.
 
 Stendete la sfoglia in una tortiera, bucherellate il fondo e ricoprite con uno strato di formaggio, successivamente aggiungete il tonno e la cipolla ed infine guarnite con le olive ed i pomodorini a fette. Cuocete in forno caldo per circa 35 - 40 minuti a 180 °C.
+

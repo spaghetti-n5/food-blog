@@ -1,5 +1,6 @@
 ---
 title: "Salmone alla piastra con quinoa"
+slug: "salmone-alla-piastra-con-quinoa"
 date: "2018-05-31"
 categories: 
   - "ricette-estive"
@@ -45,3 +46,4 @@ Cuocete la chinoa in acqua bollente come indicato nella confezione, circa 15 min
 Scaldate una padella antiaderente con un filo di olio di oliva e del sale, quando la padella sarà ben calda, adagiate il salmone con la parte della pelle verso il basso e salate leggermente la superficie del salmone. Cuocete per 5 minuti a fuoco alto, girate il salmone con la pelle verso l'alto e cuocete a fiamma bassa per 1 - 2 minuti.
 
 Servite con qualche goccia di pesto di prezzemolo.
+

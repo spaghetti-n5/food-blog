@@ -1,5 +1,6 @@
 ---
 title: "Gamberi Thailandesi al tamarindo"
+slug: "gamberi-thailandesi-al-tamarindo"
 date: "2018-07-01"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -55,3 +56,4 @@ Abbassate ora la fiamma ed aggiungete nel wok con l'olio insaporito dai gamberi 
 Quando la salsa si sarà ben addesata, aggiungete i gamberi ed i peperoncini verdi e rossi tagliati a rondelle. Glassate bene i gamberi e portatelo a cottura.
 
 Servite i vostri gamberi thailandesi al tamarindo ben caldi sopra un letto di insalata iceberg affettata e copriteli con la salsa.
+

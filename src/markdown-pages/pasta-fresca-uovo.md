@@ -1,5 +1,6 @@
 ---
 title: "Pasta fresca all'uovo"
+slug: "pasta-fresca-uovo"
 date: "2017-05-07"
 categories: 
   - "impasti"
@@ -30,3 +31,4 @@ Procedete disponendo la farina setacciata a fontana, nel centro aggiungete le 2 
 Ad esempio delle tagliatelle:
 
 ![Tagliatelle all'uovo fatte in casa](https://cucinadalnord.it/wp-content/uploads/2017/05/Tagliatelle-alluovo.jpg)
+

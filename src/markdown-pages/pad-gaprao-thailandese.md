@@ -1,5 +1,6 @@
 ---
 title: "Pad Gaprao thailandese"
+slug: "pad-gaprao-thailandese"
 date: "2017-07-02"
 categories: 
   - "cucina-thailandese"
@@ -62,3 +63,4 @@ Servite la carne con il riso accanto.
 Si può realizzare questo piatto anche con carne di pollo, tagliando a piccoli cubetti un petto, e seguendo lo stesso procedimento.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/Padkaprao1.jpg)
+

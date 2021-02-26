@@ -1,5 +1,6 @@
 ---
 title: "Mille foglie di patate, zucchine e sogliola"
+slug: "mille-foglie-patate-zucchine-sogliola"
 date: "2017-08-06"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -33,3 +34,4 @@ Tagliate le patate molto sottili e cucinatele in una padella con un goccio di ol
 Intervallate ora in un piatto le fettine di patate croccanti, le zucchine e un pezzetto di filetto di sogliola, continuate ad intervallare gli ingredienti fino a completamento. Terminate il piatto con un goccio di olio di oliva, delle foglie di basilico fresco ed una macinata di pepe nero.
 
 Se volete potete completare il piatto con del pesto leggero di basilico, olio, pepe e sale.
+

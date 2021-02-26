@@ -1,5 +1,6 @@
 ---
 title: "Rotolo di polenta ripieno di funghi e formaggio"
+slug: "rotolo-polenta-ripieno-funghi-formaggio"
 date: "2017-09-17"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -37,3 +38,4 @@ Disponete i funghi ed il formaggio sopra lo strato di polenta lasciando un centi
 Mettete in forno il vostro rotolo di polenta in una pirofila ricoperta con carta da forno per 15 - 20 minuti. Gratinate leggermente e togliete dal forno, lasciate raffreddare per almeno 5 minuti così riuscirete a tagliare delle belle fette.
 
 Nel frattempo in un tegamino sciogliete dell'ottimo burro e lo versatelo sul rotolo di polenta affettato con una generosa spolverata di formaggio grana.
+

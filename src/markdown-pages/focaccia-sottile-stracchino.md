@@ -1,5 +1,6 @@
 ---
 title: "Focaccia sottile allo stracchino"
+slug: "focaccia-sottile-allo-stracchino"
 date: "2017-07-31"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -35,3 +36,4 @@ Dividete poi l' impasto in tre parti: 2/3 serviranno per la base, 1/3 per la cop
 Ricoprite la base con fiocchetti di stracchino e una grattugiata di pepe nero e richiudetela con l'altro strato di pasta sottile. Fate dei buchetti sulla superficie della focaccia con i rebbi della forchetta e spennellatela con una miscela di olio extravergine di oliva ed acqua, a piacere potete cospargerla di aghi di rosmarino.
 
 É una focaccia semplice in cui la qualità dei prodotti farà la differenza, quindi scegliete un'ottima farina bio, un buon olio extravergine di oliva ed uno stacchino cremoso e saporito.
+

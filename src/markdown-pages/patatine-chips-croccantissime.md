@@ -1,5 +1,6 @@
 ---
 title: "Patatine chips croccantissime"
+slug: "patatine-chips-croccantissime"
 date: "2017-11-05"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -34,3 +35,4 @@ Scaldate in una friggitrice l'olio di semi di arachidi, quando sara ben caldo ag
 Queste chips sono buone tiepide ed ottime anche fredde.
 
 ![Chips croccanti di patate](https://cucinadalnord.it/wp-content/uploads/2017/11/chips1.jpg)
+

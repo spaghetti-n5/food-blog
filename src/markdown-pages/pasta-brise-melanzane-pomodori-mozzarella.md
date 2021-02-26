@@ -1,5 +1,6 @@
 ---
 title: "Pasta brisè con melanzane, pomodori e mozzarella"
+slug: "pasta-brisè-con-melanzane,-pomodori-e-mozzarella"
 date: "2017-07-17"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -56,3 +57,4 @@ Con l’aiuto del mattarello stirate la sfoglia fino ad ottenere uno spessore di
 Coprite il fondo con uno strato di melanzane, successivamente uno strato di fette di mozzarella, alcune fettine di pomodoro fresco, delle cucchiaiate di sugo di pomodoro e una spolverata di pecorino. Ripetete il procedimento disponendo le melanzane, la mozzarella ed il pecorino. Infornate la vostra torta in forno preriscaldato a 200°C per circa 40 - 45 minuti.
 
 Una volta cotta lasciatela raffreddare leggermente fuori dal forno in modo che si compatti bene; cospargete infine con basilico fresco.
+

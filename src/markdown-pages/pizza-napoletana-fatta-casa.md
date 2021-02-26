@@ -1,5 +1,6 @@
 ---
 title: "Pizza Napoletana fatta in casa"
+slug: "pizza-napoletana-fatta-in-casa"
 date: "2017-12-05"
 categories: 
   - "preparazioni-di-base"
@@ -43,3 +44,4 @@ Dopo 5 minuti trasferite la pizza su una teglia da forno, possibilmente già cal
 Lasciate cuocere per circa 3-5 minuti o finchè la mozzarella inizi a formare delle bollicine e la superficie risulti non acquosa.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/12/pizzaNapoletana.jpg)
+

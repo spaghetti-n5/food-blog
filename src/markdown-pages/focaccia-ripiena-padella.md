@@ -1,5 +1,6 @@
 ---
 title: "Focaccia ripiena in padella"
+slug: "focaccia-ripiena-in-padella"
 date: "2017-05-09"
 categories: 
   - "impasti"
@@ -53,3 +54,4 @@ Disponete la padella sul fuoco con coperchio, sarà necessario un fuoco abbastan
 Una volta cotta rigirate la focaccia in un piatto ed aspettate qualche minuto prima di tagliarla. Buon appetito!!!!!
 
 ![](http://176.9.41.35:8000/wp-content/uploads/2017/05/focaccia-ripiena2.jpg)
+

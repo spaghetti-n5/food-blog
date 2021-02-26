@@ -1,5 +1,6 @@
 ---
 title: "Baccalà alla Vicentina"
+slug: "baccala-alla-vicentina"
 date: "2018-05-16"
 categories: 
   - "secondi-piatti"
@@ -45,3 +46,4 @@ Il baccalà andrà cotto lentamente per 4 -5 ore, a fuoco dolce, e coperto, cos�
 Un trucchetto: adagiando un foglio di carta da forno a contatto con il latte e successivamente il coperchio, il baccalà rimarrà morbido e gustoso.
 
 Servite il baccalà alla vicentina con polenta bianca o gialla, a piacere.
+

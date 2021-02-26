@@ -1,5 +1,6 @@
 ---
 title: "Rose di pasta sfoglia con ricotta e funghi"
+slug: "rose-di-pasta-sfoglia-con-ricotta-e-funghi"
 date: "2017-10-20"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -38,3 +39,4 @@ In una ciotola lavorare la ricotta con 2 cucchiai di formaggio grana grattugiato
 Tagliate la pasta sfoglia rettangolare in 7 quadrati della stessa dimensione. Inserite i vari quadrati di pasta sfoglia in uno stampo da muffin ricoperti da carta da forno. Inserite il composto all'interno dei pirottini dei muffin, spolverate con il restante formaggio grana grattugiato ed informare per circa 20 minuti a 180 °C.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/10/Rosedipastasfoglia.jpg)
+

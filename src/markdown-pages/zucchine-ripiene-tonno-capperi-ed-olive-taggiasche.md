@@ -1,5 +1,6 @@
 ---
 title: "Zucchine ripiene di tonno, capperi ed olive taggiasche"
+slug: "zucchine-ripiene-di-tonno,-capperi-ed-olive-taggiasche"
 date: "2018-01-15"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -41,3 +42,4 @@ Preparate il ripieno in una ciotola: aggiungete la polpa ben strizzata delle zuc
 Farcite le zucchine con il vostro ripieno e spolverate la superficie con formaggio grana grattugiato e del pan grattato.
 
 Cuocete in forno a 180 gradi per 15 minuti, terminate la cottura in funzione grill per altri 5 minuti.
+

@@ -1,5 +1,6 @@
 ---
 title: "Pasticcio con fiori di zucca e zucchine"
+slug: "pasticcio-con-fiori-di-zucca-e-zucchine"
 date: "2017-06-28"
 categories: 
   - "primi-piatti"
@@ -50,3 +51,4 @@ Imburrate una pirofila e componete la lasagna (3 strati): disponete uno strato d
 Completate l'ultimo strato con la crema di ricotta, la buccia verde delle zucchine tagliata a cubetti, un paio di striscioline di fiori di zucca, una spolverata di parmigiano e qualche noce di burro. Ricordatevi di bucare la lasagna così evaporerà e non so gonfierà come una palla.
 
 Infornate a 180 °C per una ventina di minuti, poi in funzione gratinatura per ottenere una bella crosticina.
+

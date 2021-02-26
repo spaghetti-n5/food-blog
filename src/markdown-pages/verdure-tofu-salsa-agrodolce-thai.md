@@ -1,5 +1,6 @@
 ---
 title: "Verdure e tofu in salsa agrodolce thai"
+slug: "verdure-tofu-salsa-agrodolce-thai"
 date: "2017-08-11"
 categories: 
   - "cucina-thailandese"
@@ -52,3 +53,4 @@ Mescolate prima di tutto gli ingredienti della salsa in una ciotola a parte.
 Tagliate il tofu a cubotti abbastanza grandi e friggeteli ad immersione o con abbondante olio di semi in una padella a parte o direttamente nel wok. Quando risulterà dorato, scolatelo bene e lasciatelo da parte.
 
 Scaldate nuovamente il wok con un cucchiaio di olio di semi ed un aglio schiacciato o tritato (come preferite) ed aggiungete tutte le verdure insieme. Saltatele a fuoco vivace per 2 minuti, aggiungete il tofu e versate la salsa. Continuate a saltare le verdure per circa 5 minuti a fuoco vivace, il pomodoro inizierà a disfarsi andando a formare una salsina acidula. Quando l'acqua del pomodoro sarà evaporata ma le verdure ancora belle croccanti sarà pronto! Servite le verdure con un paio di anacardi, un po' di cipollotto fresco affettato se lo gradite e riso jasmine.
+

@@ -1,5 +1,6 @@
 ---
 title: "Muffin due sapori"
+slug: "muffin-due-sapori"
 date: "2017-06-24"
 categories: 
   - "dolci"
@@ -56,3 +57,4 @@ L'idea è che quando andrete a mangiare un boccone di muffin potrete assaporane 
 Andate a disporre nello stampo da muffin un cucchiaio del composto di cacao e successivamente un cucchiaio di composto al limone.
 
 Infornate per 20 – 25 minuti a 180°C.
+

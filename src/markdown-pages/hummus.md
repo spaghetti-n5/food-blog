@@ -1,5 +1,6 @@
 ---
 title: "Hummus"
+slug: "hummus"
 date: "2017-08-06"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -31,3 +32,4 @@ L'hummus è una salsa tipica della cucina mediorientale a base di pasta di ceci 
 **Procedimento:**
 
 Per ottenere un sentore di aglio ma non eccessivo, non inseritelo all’interno della salsa ma schiacciatelo e strofinatelo solo sulle pareti del frullatore. Nel frullatore aggiungete quindi la i ceci, la thaina, il succo di limone e salate a piacimento. Frullate il tutto fino ad ottenere una consistenza morbida e cremosa. Disponete l'hummus in un piatto con della paprica dolce e abbondante olio extravergine di oliva.
+

@@ -1,5 +1,6 @@
 ---
 title: "Summer rolls vietnamiti"
+slug: "summer-rolls-vietnamiti"
 date: "2017-06-25"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -37,3 +38,4 @@ Prendete un foglio di riso e disponetelo in un piatto fondo con dell'acqua fredd
 Farcite gli involtini disponendo alla base le foglie di menta rivolte verso il basso, sopra il mix di verdure e vermicelli ed inferiormente tre metà di gamberi sempre rivolte verso il basso. Iniziate ad arrotolate delicatamente gli involtini prima dalla parte delle verdure, quindi richiudetene i lembi esterni, e continuate ad arrotolare ben stretto. Il procedimento potrebbe risultare la prima volta un po' complicato e potreste bucare il foglio di riso ma successivamente inizierete a capirne le consistenze e ad arrotolarli con più facilità.
 
 Coprite gli involtini con della carta trasparente fino al momento del servizio. Servite con una salsa a vostro gusto, io preferisco la salsa di chili agrodolce.
+

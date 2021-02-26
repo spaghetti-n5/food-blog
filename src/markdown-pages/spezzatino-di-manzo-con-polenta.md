@@ -1,5 +1,6 @@
 ---
 title: "Spezzatino di manzo con polenta"
+slug: "spezzatino-di-manzo-con-polenta"
 date: "2017-06-06"
 categories: 
   - "secondi-piatti"
@@ -41,3 +42,4 @@ Triturate la cipolla, il sedano, il rosmarino e la salvia e tagliate la carota a
 Preparate ora la polenta: portate a bollore due litri d'acqua con un cucchiaio di sale grosso, aggiungete quindi a pioggia la farina, mescolate il tutto con una frusta ed aggiungete un cucchiaio di olio d'oliva. La polenta dovrà cuocere per 40-50 minuti a fuoco basso e coperta; dovrete rimescolarla di tanto in tanto e quando sarà pronta il suo profumo invaderà tutta la cucina.
 
 Servite lo spezzatino con una bella cucchiaiata di polenta.
+

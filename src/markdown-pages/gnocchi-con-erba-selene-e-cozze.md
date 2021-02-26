@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi con erba Selene e cozze"
+slug: "gnocchi-con-erba-selene-e-cozze"
 date: "2018-05-13"
 categories: 
   - "gnocchi"
@@ -56,3 +57,4 @@ Aggiungete infine i pomodorini, le cozze e servite!
  
 
 ![gnocchi con erba selene o sciopeti o carletti e cozze](https://cucinadalnord.it/wp-content/uploads/2018/05/gnocchiSciope.jpg)
+

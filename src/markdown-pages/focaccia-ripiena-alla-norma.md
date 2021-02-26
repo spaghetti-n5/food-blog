@@ -1,5 +1,6 @@
 ---
 title: "Focaccia ripiena alla norma"
+slug: "focaccia-ripiena-alla-norma"
 date: "2018-05-25"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -54,3 +55,4 @@ Riprendete l'impasto e dividetelo: i 2/3 li utilizzerete per la base ed 1/3 per 
 Stendete ora l'impasto rimanente in uno strato più sottile ed adagiatelo sopra al ripieno, sigillatene bene i bordi e bucherellate la superficie con una forchetta. Infine spennellate la superficie con olio extravergine di oliva ed infornate in forno caldo a 200°C per 30 minuti. Una volta cotta, il fondo della vostra focaccia sarà ben dorato e la superficie croccante.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2018/05/focaccia_norma2.jpg)
+

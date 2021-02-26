@@ -1,5 +1,6 @@
 ---
 title: "Pane fatto in casa con farina di mais"
+slug: "pane-fatto-in-casa-con-farina-di-mais"
 date: "2017-11-28"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -38,3 +39,4 @@ Quando l’impasto sarà raddoppiato di volume, appiattitelo delicatamente con l
 Lasciate lievitare nuovamente l’impasto coperto per un'ora o per un minimo di 30 minuti. Cuocete in forno caldo a 200° per 45 minuti inserendo alla base del forno una pirofila con poca acqua, così il pane risulterà ben soffice. Una volta pronto sfornate il vostro pane al mais e lasciatelo raffreddare.
 
 ![pane con farina di mais](https://cucinadalnord.it/wp-content/uploads/2017/11/panemais1.jpg)
+

@@ -1,5 +1,6 @@
 ---
 title: "Rosette di zucchine con purea di piselli"
+slug: "rosette-di-zucchine-con-purea-di-piselli"
 date: "2018-05-23"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -44,3 +45,4 @@ A parte condite la carne macinata con le erbette miste tritate, sale, pepe e for
 Arrotolate una fettina di zucchina attorno ad ogni polpettina, disponete le rosette in una pirofila da forno ed infornate a 180°C per 15 minuti.
 
 Componete il piatto disponendo una base di crema di piselli, un cucchiaio di piselli interi, le rosette di carne e zucchine ed infine qualche foglia di menta fresca.
+

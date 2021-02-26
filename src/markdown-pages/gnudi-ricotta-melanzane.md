@@ -1,5 +1,6 @@
 ---
 title: "Gnudi di ricotta e melanzane"
+slug: "gnudi-di-ricotta-e-melanzane"
 date: "2017-08-06"
 categories: 
   - "primi-piatti"
@@ -46,3 +47,4 @@ Preparate un sugo veloce di pomodorini ciliegini, potete semplicemente utilizzar
 Mettete a bollire l'acqua, salatela ed iniziate a tuffare gli gnudi: preparate gli gnudi con l'aiuto di due cucchiai formando delle quenelle. Non appena salgono a galla saranno cotti.
 
 Disponete sul piatto la salsa di pomodoro, aggiungete gli gnudi ben scolati dall'acqua di cottura e rifinite il piatto con delle scaglie di formaggio grana, pepe nero macinato, pinoli tostati, qualche foglia di basilico ed un goccio di olio extravergine di oliva.
+

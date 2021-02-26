@@ -1,5 +1,6 @@
 ---
 title: "Malfatti ricotta e spinaci"
+slug: "malfatti-ricotta-e-spinaci"
 date: "2017-03-19"
 categories: 
   - "tapas"
@@ -27,3 +28,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam congue urna libe
 Duis vel facilisis magna. Sed vel porttitor enim, in tincidunt massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse congue elit nec viverra pretium. Morbi in ligula ligula. Aenean bibendum, leo eu lobortis tempus, velit tortor efficitur eros, eu porttitor ligula nunc sit amet nisl. Quisque placerat dui ex, ut venenatis diam venenatis at. Pellentesque ut massa urna. Ut sit amet nisl efficitur, elementum felis varius, semper eros. Suspendisse magna felis, ullamcorper nec lacus vel, blandit pellentesque sapien. Donec aliquam blandit nulla in faucibus. Nulla at dapibus dui, in ultrices turpis. Aenean ex nulla, auctor non pretium vitae, efficitur et metus.
 
 Nullam semper interdum euismod. Donec gravida, massa sit amet sodales placerat, arcu sapien lobortis ex, eu lacinia felis ipsum vel nunc. In ornare, dolor posuere suscipit dignissim, nisl orci cursus ipsum, eget eleifend justo magna a ante. Vivamus ultricies, diam quis ultrices rhoncus, tortor eros convallis augue, at pharetra quam sem eget velit. Maecenas a massa vel elit posuere finibus. Vestibulum vitae suscipit nunc, ut lobortis augue. Fusce a sapien semper, tincidunt nibh ut, lacinia elit. Aenean varius ultrices metus. Aenean vel tortor quis quam euismod blandit.
+

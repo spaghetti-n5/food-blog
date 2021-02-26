@@ -1,5 +1,6 @@
 ---
 title: "Bigoli in salsa"
+slug: "bigoli-in-salsa"
 date: "2018-05-16"
 categories: 
   - "primi-piatti"
@@ -35,3 +36,4 @@ Preparate un soffritto con mezza cipolla bianca tagliata a velo ed abbondante ol
 Cuocete i bigoli in abbondante acqua poco salata (state attenti al sale) ben al dente; scolate la pasta all'interno del sugo ed amalgamate bene con un po' di acqua di cottura.
 
 Servite i vostri bigoli in salsa con un bel giro d'olio di oliva.
+

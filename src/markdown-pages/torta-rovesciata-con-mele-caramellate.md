@@ -1,5 +1,6 @@
 ---
 title: "Torta rovesciata con mele caramellate"
+slug: "torta-rovesciata-con-mele-caramellate"
 date: "2018-03-08"
 categories: 
   - "dolci"
@@ -59,3 +60,4 @@ Versate subito il caramello ancora bollente nella tortiera, disponete le mele a 
 Sfornate la torta e lasciate che si raffreddi leggermente per una decina di minuti; passate un coltello da burro lungo il bordo, togliete la cerniera della torta e con attenzione capovolgetela con l'aiuto di un piatto.
 
 Potete servire questa torta tiepida con una pallina di gelato alla vaniglia o al fiordilatte, o semplicemente da sola tiepida o a temperatura ambiente. Buon appetito!
+

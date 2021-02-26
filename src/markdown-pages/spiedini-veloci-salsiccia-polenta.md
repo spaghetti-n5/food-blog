@@ -1,5 +1,6 @@
 ---
 title: "Spiedini veloci di salsiccia e polenta"
+slug: "spiedini-veloci-di-salsiccia-e-polenta"
 date: "2017-11-14"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -33,3 +34,4 @@ Innanzitutto mettete a bagno gli spiedini di legno in acqua tiepida così in for
 Tagliate la polenta fredda a cubetti di 1 cm e le salsicce a pezzetti uguali senza togliere il budello. Infilate gli spiedini alternando un cubetto di salsiccia ed uno di polenta terminando con un pezzetto di polenta così lo spiedino rimarrà ben compatto.
 
 Adagiate gli spiedini su una teglia da forno ricoperta da carta da forno e cuoceteli a 160° finchè ben dorati girandoli e spennellando la polenta con un po' di burro fuso. Aggiungte anche qualche fogliolina di salvia che conferirà allo spiedino un buon profumo.
+

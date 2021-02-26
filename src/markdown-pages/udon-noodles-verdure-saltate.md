@@ -1,5 +1,6 @@
 ---
 title: "Udon noodles con verdure saltate"
+slug: "udon-noodles-verdure-saltate"
 date: "2017-08-07"
 categories: 
   - "cucine-del-mondo"
@@ -57,3 +58,4 @@ In una ciotolina a parte preparate la salsa aggiungendo tutti gli ingredienti e 
 Scaldate bene un wok con un goccio di olio di semi, aggiungete un aglio intero schiacciato e dopo qualche secondo anche tutte le verdure insieme. Saltatele a fuoco vivace per qualche minuto, quindi aggiungete gli udon noodles e continuate a saltare il tutto. Aggiungete infine la salsa e mescolate velocemente per qualche secondo.
 
 Avrete ottenuto così un piatto molto sano e soprattutto velocissimo con sapori che riportano alla cucina cinese.
+

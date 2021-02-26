@@ -1,5 +1,6 @@
 ---
 title: "Risotto con finferli freschi"
+slug: "risotto-finferli-freschi"
 date: "2017-11-19"
 categories: 
   - "primi-piatti"
@@ -39,3 +40,4 @@ In una casseruola versate un goccio di olio di oliva ed uno spicchio di aglio in
 Aggiungete ora nella stessa casseruola il riso e fatelo tostare per qualche minuto, aggiungete un pizzico di sale e successivamente circa una tazza di brodo vegetale caldo. Riaggiungete i funghi e mescolate il tutto. Portate a cottura il riso (circa 18 minuti) aggiungendo il brodo poco alla volta solo quando il precedente sarà riassorbito dal riso e continuando a mescolare.
 
 Quando il riso è arrivato a cottura, passate alla mantecatura: togliete la casseruola dal fuoco, aggiungete il formaggio grana ed il burro ben freddo, mescolate velocemente e chiudete. Lasciate riposare un paio di minuti, togliete il coperchio e mescolate bene il tutto. Servite il vostro risotto fumante con una macinata di pepe nero.
+

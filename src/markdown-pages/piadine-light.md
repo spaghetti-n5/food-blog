@@ -1,5 +1,6 @@
 ---
 title: "Piadine light"
+slug: "piadine-light"
 date: "2017-03-19"
 categories: 
   - "impasti"
@@ -30,3 +31,4 @@ Dividete l'impasto in 3 parti e preparate, lavorando ogni impasto, 3 palline di 
 Stendete le 3 palline con un mattarello, fino ad ottenere una sfoglia sottile di forma circolare. Cucinate quindi le piadine in una padella antiaderente ben calda qualche minuto per lato, finché risultino colorate con le caratteristiche macchine bruciacchiate della piadina romagnola.
 
 Farcitele con quello che più vi piace!
+

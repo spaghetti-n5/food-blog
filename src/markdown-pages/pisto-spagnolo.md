@@ -1,5 +1,6 @@
 ---
 title: "Pisto spagnolo"
+slug: "pisto-spagnolo"
 date: "2017-03-19"
 categories: 
   - "cucina-spagnola"
@@ -26,3 +27,4 @@ coverImage: "../images/pisto.jpg"
 In una padella scaldate l'olio e soffriggete  i cubetti di peperone verde per qualche minuto, poi aggiungete l'aglio tagliato a fettine sottili e portate avanti la cottura fino a quando il peperone sia cotto ma con una consistenza ancora soda. Aggiungete il pomodoro in scatola, regolate di sale e zucchero, e lasciate addensare la salsa.
 
 Si può mangiare sopra una fetta di pane tostato, come accompagnamento di carne o pesce, o per la famosa ricetta golosa della [Empanadilla spagnola](https://cucinadalnord.it/empanadilla-spagnola/).
+

@@ -1,5 +1,6 @@
 ---
 title: "Gnocchi fantasia"
+slug: "gnocchi-fantasia"
 date: "2017-06-23"
 categories: 
   - "gnocchi"
@@ -41,3 +42,4 @@ Ora passiamo alla preparazione del sugo. In una larga padella soffriggete uno sc
 Ora farcite gli gnocchi: con la mano infarinata, prendete uno gnocco a forma di cilindro e schiacciatelo con il pollice, nella fossetta che si è formata mettete un cucchiaino di zucchine e chiudete per bene pizzicando con le dita e passandoli nella farina. Seguite lo stesso procedimento inserendo all'interno un cubetto di mozzarella. Lasciate alcuni degli gnocchi semplici senza ripieno. La porzione ideale è di 5 gnocchetti con la mozzarella, 5 con le zucchine e una decina semplici, risulterà così un piatto divertente e leggero da mangiare.
 
 Tuffate in acqua bollente salata prima gli gnocchi semplici, poi quelli ripieni di zucchine ed infine quelli con la mozzarella, che trasferirete mano a mano appena verranno a galla nella padella con il sugo di pomodorini. Aggiungete il parmigiano grattugiato e create una golosa cremina aiutandovi con due cucchiai di acqua di cottura. Servite con foglie di basilico fresco.
+

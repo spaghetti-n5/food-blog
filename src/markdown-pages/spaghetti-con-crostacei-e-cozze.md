@@ -1,5 +1,6 @@
 ---
 title: "Spaghetti con crostacei e cozze"
+slug: "spaghetti-con-crostacei-e-cozze"
 date: "2017-06-17"
 categories: 
   - "primi-piatti"
@@ -39,3 +40,4 @@ Preparate il fumetto di pesce: tostate l'altra parte degli scarti di crostacei c
 In una larga padella preparate la base del sugo: soffriggete uno spicchio d'aglio intero schiacciato con un goccio di olio di oliva, uno scalogno e un peperoncino secco. Aggiungete i crostacei, tostateli su tutti i lati per pochi minuti e riponeteli in un recipiente che dovrete coprire con la pellicola così rimarranno umidi e morbidi. Adesso passiamo alla preparazione delle cozze: scaldate un goccino di olio in una pentola alta, aggiungete un aglio intero schiacciato, e aggiungete le cozze, coprite con il coperchio per pochi minuti finché si apriranno. Trasferite anche le cozze, filtrate dal liquido, in un recipiente coperto con pellicola trasparente. Aggiungete questo liquido saporito e salino alla padella con i crostacei, aggiungete i pomodorini tagliati in quattro e regolate di sale.
 
 Cuocete gli spaghetti nel brodo, che avete preparato precedentemente. A metà cottura trasferite gli spaghetti nella padella e portateli a cottura aggiungendo il fumetto di pesce. Quando la pasta sarà quasi cotta aggiungete i crostacei e i molluschi che avete lasciato da parte. A cottura ultimate impiattate con un giro di olio di oliva e prezzemolo fresco.
+

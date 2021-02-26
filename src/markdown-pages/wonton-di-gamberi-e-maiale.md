@@ -1,5 +1,6 @@
 ---
 title: "Wonton con maiale e gamberi"
+slug: "wonton-con-maiale-e-gamberi"
 date: "2017-06-24"
 categories: 
   - "cucina-cinese"
@@ -35,3 +36,4 @@ Prendete un foglio di pasta per wonton nella mano ed aggiungete un cucchiaino di
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/wonton.jpg)
 
 Potete utilizzare questi wonton in una zuppa, al vapore o fritti in olio di semi.
+

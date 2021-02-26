@@ -1,5 +1,6 @@
 ---
 title: "Paella valenciana"
+slug: "paella-valenciana"
 date: "2017-06-27"
 categories: 
   - "cucina-spagnola"
@@ -52,3 +53,4 @@ Cucinate a fuoco alto per 10 minuti, poi abbassate il fuoco per altri 5 minuti; 
 Disponete sopra al riso dei rametti di rosmarino, coprite con carta di giornale e lasciate riposare per 5 minuti.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/06/paella3.jpg)
+

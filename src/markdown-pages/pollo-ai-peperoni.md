@@ -1,5 +1,6 @@
 ---
 title: "Pollo ai peperoni"
+slug: "pollo-ai-peperoni"
 date: "2017-07-13"
 categories: 
   - "secondi-piatti"
@@ -33,3 +34,4 @@ Tagliate il petto di pollo a striscioline, i peperoni a falde e poi a quadri, i 
 Scaldiamo una pentola antiaderente con un goccio di olio, aggiungete il mix di pollo e verdure ed un cucchiaio di farina, mescolate il tutto; quando la carne sarà ben tostata e caramellata aggiungete il succo di mezzo limone ed il tabasco. Portate avanti la cottura per una decina di minuti.
 
 In dieci minuti avrete preparato un piatto perfetto per l’estate: un pollo saporito con verdure al dente.
+

@@ -1,5 +1,6 @@
 ---
 title: "Crostata con prugne fresche e confettura di prugne"
+slug: "crostata-prugne-fresche-confettura-prugne"
 date: "2018-05-22"
 categories: 
   - "dolci"
@@ -43,3 +44,4 @@ Prendete ora il panetto di pasta dal congelatore ed aiutandovi con una grattugia
 Spolverizzate la superficie della crostata di prugne fresche con un cucchiaio di zucchero di canna ed una manciata di pinoli. Cuocete in forno caldo a 180° per 45 minuti circa.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2018/05/crostata_prugne1.jpg)
+

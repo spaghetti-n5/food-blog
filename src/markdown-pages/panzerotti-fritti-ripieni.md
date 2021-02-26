@@ -1,5 +1,6 @@
 ---
 title: "Panzerotti fritti ripieni"
+slug: "panzerotti-fritti-ripieni"
 date: "2017-09-05"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -46,3 +47,4 @@ Quando l’impasto sarà raddoppiato di volume, stendetelo con il mattarello del
 Riempite i dischetti con prosciutto cotto e formaggio fresco, oppure con della passata di pomodoro condita con olio e basilico e mozzarella ben asciutta, oppure con funghi e formaggio o con quello che più vi piace. Ripiegate i dischetti a metà sigillando bene i bordi premendo con i rebbi di una forchetta.
 
 Friggete in abbondante olio di semi per qualche minuto.
+

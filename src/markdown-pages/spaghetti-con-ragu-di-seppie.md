@@ -1,10 +1,12 @@
 ---
-title: "Spaghetti con ragù di seppie"
+title: "Spaghetti con ragú di seppie"
+slug: "spaghetti-con-ragú-di-seppie"
 date: "2017-06-23"
 categories: 
   - "primi-piatti"
 tags: 
   - "seppie"
+coverImage: "../images/Spezzatino.jpg"
 ---
 
 **Ingredienti per 4 persone:**
@@ -30,3 +32,4 @@ Pulite e lavate bene le seppie, tagliatele a piccoli cubetti e lasciatele da par
 Preparate ora il ragù di seppie: soffriggete lo scalogno tritato con un po' d'olio in una padella ed aggiungete le seppie a fuoco vivace finché saranno cotte, circa 10 minuti, quindi lasciatele da parte in una ciotola coperta con pellicola trasparente.
 
 Cuocete gli spaghetti in abbondante salata e terminate la cottura della pasta con dell'acqua di cottura nella stessa padella in cui avete cucinato le seppie. Aggiungete i pomodorini tagliati in quattro ed il ragù seppie. A fuoco spento mantecate con un cucchiaio scarso di parmigiano ed un filo d'olio. Provare per credere!
+

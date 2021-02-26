@@ -1,5 +1,6 @@
 ---
 title: "Miso Ramen vegetariana"
+slug: "miso-ramen-vegetariana"
 date: "2018-02-14"
 categories: 
   - "cucina-cinese"
@@ -55,3 +56,4 @@ Prepariamo ora l'uovo barzotto: in un pentolino fate arrivate ad ebollizione l'a
 In una casseruola aggiungete l'olio di sesamo, l'aglio, lo zenzero e lo scalogno: potete aggiungere questi ingredienti grattuggiati finemente oppure io li metto interi così sarà più facile toglierli al momento del sevizio senza necessità di filtrare il brodo. Aggiungete successivamente l'olio piccante ed i semi di sesamo pestati e fate insaporire bene. Aggiungete quindi il brodo, i funghi schitake tagliati a fette, i funghi occhio di Giuda e due alghe nori. Portate ad ebollizione, chiudete il fuoco ed aggiungete la pasta di miso avendo cura di dissolverla bene aiutandovi con un setaccia farina.
 
 In un altro pentolino cuocete i Ramen noodles in acqua bollente per 2 minuti, scolateli ed aggiungeteli direttamente nelle ciotole di servizio. Servite il brodo ben caldo, aggiungete un'alga nori e mezzo uovo per persona.
+

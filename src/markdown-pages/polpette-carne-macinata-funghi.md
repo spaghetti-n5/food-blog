@@ -1,5 +1,6 @@
 ---
 title: "Polpette di carne macinata e funghi"
+slug: "polpette-di-carne-macinata-e-funghi"
 date: "2017-11-01"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -35,3 +36,4 @@ Delle polpettine fritte gustose e facili da preparare con funghi chiodini e carn
 In una ciotola aggiungete i funghi ed il prezzemolo tritati, la carne macinata, il formaggio grana, un uovo ed iniziate ad impastare. Aggiugete il pane grattugiato e mescolate il tutto fino ad ottenere un impasto lavorabile. Lasciate riposare in frigo per una mezz’ora.
 
 Formate ora delle polpettine regolari, passatele nell’uovo sbattuto e poi nel pan grattato. Friggete ad immersione in olio profondo a fuoco medio finchè non risulteranno ben croccanti. Potete servire queste polpettine autunnali accompagnate ad un purè di patate.
+

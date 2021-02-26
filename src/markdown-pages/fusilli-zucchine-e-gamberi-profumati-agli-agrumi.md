@@ -1,5 +1,6 @@
 ---
 title: "Fusilli zucchine e gamberi profumati agli agrumi"
+slug: "fusilli-zucchine-e-gamberi-profumati-agli-agrumi"
 date: "2017-05-02"
 categories: 
   - "primi-piatti"
@@ -40,3 +41,4 @@ In questo fondo piuttosto liquido aggiungete le zucchine che avrete precedenteme
 Togliete ora l'aglio e scolate la pasta a cottura non ultimata nella padella e amalgamate bene il tutto, aiutatevi con l'acqua di cottura per creare una cremina saporita.
 
 Aggiungete i gamberi alla pasta e rimescolate il tutto; a cottura ultimata aggiungete la bottarga grattugiata. Servite con una grattugiata di buccia di limone, della menta fresca a piccoli pezzetti, olio a crudo e pepe macinato al momento.
+

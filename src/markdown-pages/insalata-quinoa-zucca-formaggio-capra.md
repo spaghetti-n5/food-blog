@@ -1,5 +1,6 @@
 ---
 title: "Insalata di quinoa, zucca e formaggio di capra"
+slug: "insalata-quinoa-zucca-formaggio-capra"
 date: "2017-09-09"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -53,3 +54,4 @@ Preparate un pesto veloce in un mortaio: pestate le foglie di basilico con un pi
 Tagliate le pere a fette sottili e gli acini di uva a metà.
 
 Componete il piatto disponendo la quinoa alla base e sopra le verdure, la frutta il formaggio, i pinoli interi (possibilmente tostati) e condite il tutto con il pesto di basilico; finite il tutto con una macinata di pepe nero.
+

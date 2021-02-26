@@ -1,5 +1,6 @@
 ---
 title: "Torta soffice agli agrumi"
+slug: "torta-soffice-agli-agrumi"
 date: "2017-11-27"
 categories: 
   - "dolci"
@@ -37,3 +38,4 @@ Aggiungete ora il latte, l'olio di semi ed il succo degli agrumi; aprite il bace
 Aggiungete poco alla volta la farina setacciata fino ad ottenere un composto omogeneo e cremoso. Infine aggiungete il lievito setacciato e mescolate il tutto.
 
 Versate il composto nella tortiera e cospargete la superficie con lo zucchero di canna. Infornate la vostra torta a 180°C per 45 - 50 minuti, abbassate leggermente la temperatura del forno nel caso in cui la superficie risultasse troppo caramellata e scura.
+

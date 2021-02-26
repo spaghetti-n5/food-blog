@@ -1,5 +1,6 @@
 ---
 title: "Curry rosso thailandese vegetariano"
+slug: "curry-rosso-thailandese-vegetariano"
 date: "2017-09-24"
 categories: 
   - "cucina-thailandese"
@@ -56,3 +57,4 @@ Non appena il latte di cocco prende il bollore, procedete alla cottura delle ver
 Le verdure dovranno risultare cotte ma ancora al dente e la pasta di curry dovrà essere lucida e dovrete poter notare che l’olio naturale intrinseco della pasta di curry si sia separato creando delle goccioline rosse.
 
 Ultimata la cottura aggiungete un cucchiaio di zucchero, 2 cucchiai di salsa di pesce e abbondante lime. Servite ben caldo con foglie di coriandolo fresco e riso.
+

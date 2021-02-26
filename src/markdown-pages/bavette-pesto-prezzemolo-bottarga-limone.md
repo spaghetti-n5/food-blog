@@ -1,5 +1,6 @@
 ---
 title: "Bavette con pesto di prezzemolo, bottarga e limone"
+slug: "bavette-con-pesto-di-prezzemolo,-bottarga-e-limone"
 date: "2017-11-27"
 categories: 
   - "primi-piatti"
@@ -34,3 +35,4 @@ In un mortaio iniziate pestando un pezzettino di aglio privato del germe interno
 Cuocete la pasta in abbondante acqua salata, scolatela al dente e rimettetela nella pentola. Aggiungete il pesto, mescolate il tutto ed aggiungete all'ultimo la scorza di limone grattugiata.
 
 Servite le vostre bavette con abbondante bottarga gratuggiata.
+

@@ -1,5 +1,6 @@
 ---
 title: "Empanadas argentine di carne"
+slug: "empanadas-argentine-di-carne"
 date: "2017-10-22"
 categories: 
   - "antipasti-ed-aperitivi"
@@ -69,3 +70,4 @@ Spennellate la superficie delle empanadas con il restante uovo sbattuto. Inforna
 Servite le empanadas ancora tiepide accompagnate dalla salsa chimichurri, buon appetito!!!
 
 ![](https://cucinadalnord.it/wp-content/uploads/2017/10/Empanadas1.jpg)
+

@@ -1,5 +1,6 @@
 ---
 title: "Crostata con marmellata di lamponi"
+slug: "crostata-con-marmellata-di-lamponi"
 date: "2018-02-22"
 categories: 
   - "dolci"
@@ -34,3 +35,4 @@ Rivestite uno stampo per crostate di 24 cm con la carta da forno. Con l'aiuto de
 Stendete sulla crostata uno strato di marmellata, aggiungete le strisce di decorazione e cuocete in forno preriscaldato a 180° per 30-35 minuti.
 
 ![](https://cucinadalnord.it/wp-content/uploads/2018/02/crostata1-1.jpg)
+

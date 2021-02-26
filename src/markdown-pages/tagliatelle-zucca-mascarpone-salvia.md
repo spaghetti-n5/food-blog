@@ -1,5 +1,6 @@
 ---
 title: "Tagliatelle di zucca con mascarpone e salvia"
+slug: "tagliatelle-zucca-mascarpone-salvia"
 date: "2017-11-12"
 categories: 
   - "primi-piatti"
@@ -44,3 +45,4 @@ Preparate ora le tagliatelle: tirate la pasta con la nonnapapera  fino al penul
 Frullate le noci con qualche grano di sale grosso e lasciate da parte. In una ciotola diluite il mascarpone con un cucchiao di acqua di cottura, il formaggio grana, un pizzico di sale, le foglie di salvia ed una generosa macinata di pepe fresco.
 
 Cuocete le tagliatelle in abbondante acqua salata e scolatele in una ciotola, versate la crema di mascarpone ed amalgamate il tutto. Impiattate con una spolverata di noci frullate, qualche foglia di salvia e qualche scaglia di formaggio grana.
+

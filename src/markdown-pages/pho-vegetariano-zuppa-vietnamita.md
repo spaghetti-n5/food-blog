@@ -1,5 +1,6 @@
 ---
 title: "Pho Chay - Zuppa vietnamita vegetariana"
+slug: "pho-chay---zuppa-vietnamita-vegetariana"
 date: "2017-04-21"
 categories: 
   - "cucina-vietnamita"
@@ -42,3 +43,4 @@ Tagliate il tofu a fette sottili, asciugatelo bene e cuocetelo in padella con de
 Regolate il brodo con la salsa di pesce o il sale ed arrotondate il sapore con 1 cucchiaino di zucchero. Una volta raggiunto il sapore ottimale, rimuovete tutte le spezie.
 
 Per l'impiattamento: mettete i noodles alla base di una piatto fondo, disponete le fettine di tofu, la parte verde dei cipollotti che avrete precedentemente tagliato finemente a rondelle, e le foglie di coriandolo, quindi aggiungetevi sopra il brodo bollente con i funghi.
+

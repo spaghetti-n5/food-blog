@@ -1,5 +1,6 @@
 ---
 title: "Fusilli con melanzane striate e pepe di Timut"
+slug: "fusilli-melanzane-striate-pepe-timut"
 date: "2018-05-22"
 categories: 
   - "primi-piatti"
@@ -39,3 +40,4 @@ In una padella insaporite abbondante olio extravergine di oliva con uno spicchio
 Nel frattempo tostate i pinoli in una padella senza olio e cuocete la pasta ben al dente.
 
 Amalgamate i fusilli e la salsa di melanzane aiutandovi con l'acqua di cottura della pasta. Servite i fusilli ben caldi, con i pinoli tostati, il pepe di Timut ed un goccio di olio extravergine di oliva.
+

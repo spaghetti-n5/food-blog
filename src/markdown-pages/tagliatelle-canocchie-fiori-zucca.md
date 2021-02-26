@@ -1,5 +1,6 @@
 ---
 title: "Pasta con le canocchie e fiori di zucca"
+slug: "pasta-con-le-canocchie-e-fiori-di-zucca"
 date: "2017-06-28"
 categories: 
   - "primi-piatti"
@@ -34,3 +35,4 @@ Scottate le canocchie in una larga padella con un po' di olio, quando saranno be
 Cuocete la pasta in acqua salata per due minuti, scolatela e aggiungetela al sugo; mescolate bene il tutto aiutandovi con l'acqua di cottura ed infine un goccio di olio. Aggiungete i fiori di zucca tagliati a listarelle sottili, avranno bisogno solo di qualche secondo in modo da prendere il calore e servite.
 
 Potete realizzare questo piatto semplicemente con uno spaghetto o una bavetta secca.
+
