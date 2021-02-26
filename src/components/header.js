@@ -28,12 +28,12 @@ const Header = ({ siteTitle }) => (
         <Link to="/chi-sono">Chi sono</Link>
       </div>
       <div className={styles.header}>
-        <h1 className={styles.headerTitle}>
-          <Link to="/">
-            {siteTitle}
-          </Link>
-        </h1>
-        <h2 className={styles.headerSubTitle}> - in cerca di felicitá - </h2>
+        <Link to="/">
+          <h1 className={styles.headerTitle}>
+              {siteTitle}
+          </h1>
+          <h2 className={styles.headerSubTitle}> - in cerca di felicitá - </h2>
+        </Link>
         <Menu />
       </div>
     </header>
