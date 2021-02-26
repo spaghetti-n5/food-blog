@@ -21,5 +21,13 @@
 @media only screen and (max-width: 480px) {
     .menu {
         max-width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin: 10px 0;
+        padding: 5px 0;
+    }
+    .menuLink {
+        padding: 10px;
     }
   }
