@@ -6,12 +6,13 @@ import Img from "gatsby-image";
 import { graphql, Link } from "gatsby";
 import styles from "./blogList-css-modules.module.css";
 
-export default function FilterPage({ data }) {
+export default function FilterPage({ data, pageContext }) {
   console.log(data)
+  console.log(pageContext)
   return (
     <Layout>
       <SEO title="Filtered page" />
-        <h1 className={styles.postTitle}>Ricette vegetariane</h1>
+        <h1 className={styles.postTitle}>{pageContext?.categoryTitle}</h1>
         <div className={styles.thumbPostContainer}>
           {data.allMarkdownRemark.edges.map(({ node }) => {
             const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
