@@ -3,6 +3,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   
     const blogPostTemplate = require.resolve(`./src/components/blogPost.js`)
     const blogListTemplate = require.resolve(`./src/components/blogList.js`)
+    const filterPageTemplate = require.resolve(`./src/components/filterPage.js`)
 
     const result = await graphql(`
       {
@@ -57,6 +58,17 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           title: node.frontmatter.title,
           previous,
           next,
+        },
+      })
+    })
+
+    // create filter page ricette-vegetariane
+    result.data.allMarkdownRemark.edges.forEach(() => {
+      createPage({
+        path: '/ricette-vegetariane',
+        component: filterPageTemplate,
+        context: {
+          categories: 'ricette-vegetariane',
         },
       })
     })

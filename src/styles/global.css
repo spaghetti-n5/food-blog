@@ -465,7 +465,7 @@ html {
     padding-left: 0;
   }
   ul li {
-    padding-left: 0;
+    padding: 3px 0;
   }
   li > ol {
     margin-left: 1.45rem;
