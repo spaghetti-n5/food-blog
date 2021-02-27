@@ -1,7 +1,7 @@
 {
     "ricette": [
         {
-            "slug": "lasagna-al-ragú", 
+            "slug": "lasagna-al-ragu", 
             "title": "Lasagna al ragú"
         }, 
         {
@@ -37,7 +37,7 @@
             "title": "Cubotti al cioccolato bianco e mandorle"
         }, 
         {
-            "slug": "pho-chay---zuppa-vietnamita-vegetariana", 
+            "slug": "pho-chay", 
             "title": "Pho Chay - Zuppa vietnamita vegetariana"
         }, 
         {
@@ -57,7 +57,7 @@
             "title": "Muffin ai mirtilli"
         }, 
         {
-            "slug": "insalata-tiepida-con-cous-cous-e-haloumi", 
+            "slug": "insalata-tiepida-con-cous-cous-haloumi", 
             "title": "Insalata tiepida con cous cous e haloumi"
         }, 
         {
@@ -65,7 +65,7 @@
             "title": "Polpettine di carne con olive"
         }, 
         {
-            "slug": "pasta-brisè-con-melanzane,-pomodori-e-mozzarella", 
+            "slug": "pasta-brise-con-melanzane-pomodori-mozzarella", 
             "title": "Pasta brisè con melanzane, pomodori e mozzarella"
         }, 
         {
@@ -145,11 +145,11 @@
             "title": "Fusilli con melanzane striate e pepe di Timut"
         }, 
         {
-            "slug": "polpettone-ripieno-di-salsiccia,-prosciutto-e-formaggio", 
+            "slug": "polpettone-ripieno-di-salsiccia-prosciutto-formaggio", 
             "title": "Polpettone ripieno di salsiccia, prosciutto e formaggio"
         }, 
         {
-            "slug": "bavette-con-pesto-di-prezzemolo,-bottarga-e-limone", 
+            "slug": "bavette-con-pesto-di-prezzemolo-bottarga-limone", 
             "title": "Bavette con pesto di prezzemolo, bottarga e limone"
         }, 
         {
@@ -173,7 +173,7 @@
             "title": "Rose di pasta sfoglia con ricotta e funghi"
         }, 
         {
-            "slug": "aloo-dahl,-lenticchie-e-patate-all'indiana", 
+            "slug": "aloo-dahl-lenticchie-e-patate-all-indiana", 
             "title": "Aloo Dahl, lenticchie e patate all'indiana"
         }, 
         {
@@ -189,7 +189,7 @@
             "title": "Crocchette di risotto"
         }, 
         {
-            "slug": "crema-di-zucca,-porri-e-patate", 
+            "slug": "crema-di-zucca-porri-patate", 
             "title": "Crema di zucca, porri e patate"
         }, 
         {
@@ -197,7 +197,7 @@
             "title": "Spezzatino di manzo con polenta"
         }, 
         {
-            "slug": "spaghetti-con-ragú-di-seppie", 
+            "slug": "spaghetti-con-ragu-di-seppie", 
             "title": "Spaghetti con ragú di seppie"
         }, 
         {
@@ -213,7 +213,7 @@
             "title": "Involtini di melanzane e carne macinata"
         }, 
         {
-            "slug": "baccalá-alla-vicentina", 
+            "slug": "baccala-alla-vicentina", 
             "title": "Baccalá alla Vicentina"
         }, 
         {
@@ -237,7 +237,7 @@
             "title": "Timballo di salmone e avocado"
         }, 
         {
-            "slug": "crespelle-con-asparagi-e-ricotta", 
+            "slug": "crespelle-con-asparagi-ricotta", 
             "title": "Crespelle con asparagi e ricotta"
         }, 
         {
@@ -301,7 +301,7 @@
             "title": "Risotto con finferli freschi"
         }, 
         {
-            "slug": "baccalá-alla-napoletana", 
+            "slug": "baccala-alla-napoletana", 
             "title": "Baccalá alla napoletana"
         }, 
         {
@@ -317,7 +317,7 @@
             "title": "Spiedini di gamberi agli agrumi"
         }, 
         {
-            "slug": "crocchette-spagnole-di-jamón", 
+            "slug": "crocchette-spagnole-di-jamon", 
             "title": "Crocchette spagnole di jamón"
         }, 
         {
@@ -333,15 +333,15 @@
             "title": "Fiori di zucca ripieni"
         }, 
         {
-            "slug": "petto-d'anatra-con-patate-croccanti", 
+            "slug": "petto-anatra-con-patate-croccanti", 
             "title": "Petto d'anatra con patate croccanti"
         }, 
         {
-            "slug": "ffusilli-integrali-con-feta-e-peperoni-rossi", 
+            "slug": "fusilli-integrali-con-feta-peperoni-rossi", 
             "title": "Fusilli integrali con feta e peperoni rossi"
         }, 
         {
-            "slug": "pasta-choux-(bignè)", 
+            "slug": "pasta-choux", 
             "title": "Pasta choux (bignè)"
         }, 
         {
@@ -349,7 +349,7 @@
             "title": "Mozzarelle fritte"
         }, 
         {
-            "slug": "gnocchi-con-ragú-di-anatra", 
+            "slug": "gnocchi-con-ragu-di-anatra", 
             "title": "Gnocchi con ragú di anatra"
         }, 
         {
@@ -357,7 +357,7 @@
             "title": "Muffin due sapori"
         }, 
         {
-            "slug": "cheesecake-fredda-alle-albicocche-e-lime", 
+            "slug": "cheesecake-fredda-alle-albicocche-lime", 
             "title": "Cheesecake fredda alle albicocche e lime"
         }, 
         {
@@ -381,7 +381,7 @@
             "title": "Gnocchi con erba Selene e cozze"
         }, 
         {
-            "slug": "focaccia-all'olio-extravergine-di-oliva", 
+            "slug": "focaccia-all-olio-extravergine-di-oliva", 
             "title": "Focaccia all'olio extravergine di oliva"
         }, 
         {
@@ -433,7 +433,7 @@
             "title": "Tacos messicani con carne macinata"
         }, 
         {
-            "slug": "mille-foglie-di-patate,-zucchine-e-sogliola", 
+            "slug": "mille-foglie-di-patate-zucchine-sogliola", 
             "title": "Mille foglie di patate, zucchine e sogliola"
         }, 
         {
@@ -509,7 +509,7 @@
             "title": "Crostata con prugne fresche e confettura di prugne"
         }, 
         {
-            "slug": "tiramisú", 
+            "slug": "tiramisu", 
             "title": "Tiramisú"
         }, 
         {
@@ -537,7 +537,7 @@
             "title": "Focaccia ripiena in padella"
         }, 
         {
-            "slug": "zucchine-ripiene-di-tonno,-capperi-ed-olive-taggiasche", 
+            "slug": "zucchine-ripiene-di-tonno-capperi-olive-taggiasche", 
             "title": "Zucchine ripiene di tonno, capperi ed olive taggiasche"
         }, 
         {
@@ -561,7 +561,7 @@
             "title": "Cheesecake cotta al limone"
         }, 
         {
-            "slug": "involtini-di-pollo-con-purè", 
+            "slug": "involtini-di-pollo-con-pure", 
             "title": "Involtini di pollo con purè"
         }, 
         {
@@ -601,7 +601,7 @@
             "title": "Impasto per le crespelle"
         }, 
         {
-            "slug": "zuppa-con-fagioli-gialet,-zucca-e-speck-croccante", 
+            "slug": "zuppa-con-fagioli-gialet-zucca-speck-croccante", 
             "title": "Zuppa con fagioli gialet, zucca e speck croccante"
         }, 
         {
@@ -609,7 +609,7 @@
             "title": "Zuppa di fagioli cannellini"
         }, 
         {
-            "slug": "tagliolini-all'uovo-con-asparagi,-zucchine-e-guanciale", 
+            "slug": "tagliolini-uovo-con-asparagi-zucchine-guanciale", 
             "title": "Tagliolini all'uovo con asparagi, zucchine e guanciale"
         }, 
         {
@@ -633,7 +633,7 @@
             "title": "Miso Ramen vegetariana"
         }, 
         {
-            "slug": "ragú-della-mamma", 
+            "slug": "ragu-della-mamma", 
             "title": "Ragú della mamma"
         }, 
         {
@@ -641,7 +641,7 @@
             "title": "Gnocchi di melanzane con pomodorini"
         }, 
         {
-            "slug": "calamarata-con-ragú-di-pesce", 
+            "slug": "calamarata-con-ragu-di-pesce", 
             "title": "Calamarata con ragú di pesce"
         }, 
         {
@@ -653,11 +653,11 @@
             "title": "Pizza"
         }, 
         {
-            "slug": "porridge-vegan-con-mele-caramellate,-cannella-e-buccia-di-limone", 
+            "slug": "porridge-vegan-con-mele-caramellate-cannella-buccia-di-limone", 
             "title": "Porridge vegan con mele caramellate, cannella e buccia di limone"
         }, 
         {
-            "slug": "insalata-di-quinoa,-zucca-e-formaggio-di-capra", 
+            "slug": "insalata-di-quinoa-zucca-formaggio-di-capra", 
             "title": "Insalata di quinoa, zucca e formaggio di capra"
         }, 
         {
@@ -673,7 +673,7 @@
             "title": "Torta alla zucca e frutta secca"
         }, 
         {
-            "slug": "insalata-vegana-di-quinoa,-piselli,-spinaci-e-mirtilli", 
+            "slug": "insalata-vegana-di-quinoa-piselli-spinaci-mirtilli", 
             "title": "Insalata vegana di quinoa, piselli, spinaci e mirtilli"
         }
     ]
