@@ -7,18 +7,15 @@ import { graphql, Link } from "gatsby";
 import styles from "./blogList-css-modules.module.css";
 
 export default function FilterPage({ data, pageContext }) {
-  console.log(data)
-  console.log(pageContext)
   return (
     <Layout>
       <SEO title="Filtered page" />
         <h1 className={styles.postTitle}>{pageContext?.categoryTitle}</h1>
         <div className={styles.thumbPostContainer}>
           {data.allMarkdownRemark.edges.map(({ node }) => {
-            const postSlug = node.frontmatter.title.toLowerCase().replace(/\s/g, '-');
             return (
                 <div key={node.id} className={styles.thumbPostWrap}>
-                    <Link to={`/${postSlug}`}>
+                    <Link to={`/${node.frontmatter.slug}`}>
                       <Img fluid={node.frontmatter.coverImage.childImageSharp.fluid} style={{ height: "184.617px" }} />
                         <p className={styles.thumbPostDate}>{node.frontmatter.date}</p>
                         <h2 className={styles.thumbPostTitle}>{node.frontmatter.title}</h2>
@@ -43,6 +40,7 @@ query ($categories: String!) {
           id
           frontmatter {
             title
+            slug
             date(formatString: "DD MMMM YYYY" locale: "it")
             categories
             coverImage {
