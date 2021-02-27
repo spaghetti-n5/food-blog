@@ -5,6 +5,7 @@ import styles from "./header-css-modules.module.css";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithubSquare, faLinkedin, faInstagramSquare } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
+import Search from './SearchContainer';
 
 import Menu from './menu';
 
@@ -36,6 +37,7 @@ const Header = ({ siteTitle }) => (
         </Link>
         <Menu />
       </div>
+      <Search />
     </header>
 )
 
