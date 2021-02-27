@@ -1,6 +1,6 @@
 ---
 title: "Zuppa con fagioli gialet, zucca e speck croccante"
-slug: "zuppa-con-fagioli-gialet,-zucca-e-speck-croccante"
+slug: "zuppa-con-fagioli-gialet-zucca-speck-croccante"
 date: "2017-11-13"
 categories: 
   - "primi-piatti"

@@ -1,6 +1,6 @@
 ---
 title: "Involtini di pollo con puré"
-slug: "involtini-di-pollo-con-puré"
+slug: "involtini-di-pollo-con-pure"
 date: "2017-04-30"
 categories: 
   - "secondi-piatti"

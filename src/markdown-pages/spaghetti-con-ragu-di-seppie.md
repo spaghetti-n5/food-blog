@@ -1,6 +1,6 @@
 ---
 title: "Spaghetti con ragú di seppie"
-slug: "spaghetti-con-ragú-di-seppie"
+slug: "spaghetti-con-ragu-di-seppie"
 date: "2017-06-23"
 categories: 
   - "primi-piatti"

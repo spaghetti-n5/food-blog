@@ -1,6 +1,6 @@
 ---
 title: "Porridge vegan con mele caramellate, cannella e buccia di limone"
-slug: "porridge-vegan-con-mele-caramellate,-cannella-e-buccia-di-limone"
+slug: "porridge-vegan-con-mele-caramellate-cannella-buccia-di-limone"
 date: "2019-11-01"
 categories: 
   - "colazione"

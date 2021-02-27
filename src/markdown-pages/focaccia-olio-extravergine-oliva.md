@@ -1,6 +1,6 @@
 ---
 title: "Focaccia all'olio extravergine di oliva"
-slug: "focaccia-all'olio-extravergine-di-oliva"
+slug: "focaccia-all-olio-extravergine-di-oliva"
 date: "2017-07-13"
 categories: 
   - "impasti"

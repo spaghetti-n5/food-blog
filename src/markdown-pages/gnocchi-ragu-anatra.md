@@ -1,6 +1,6 @@
 ---
 title: "Gnocchi con ragù di anatra"
-slug: "gnocchi-con-ragù-di-anatra"
+slug: "gnocchi-con-ragu-di-anatra"
 date: "2017-09-23"
 categories: 
   - "primi-piatti"

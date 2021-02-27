@@ -1,6 +1,6 @@
 ---
 title: "Crema di zucca, porri e patate"
-slug: "crema-di-zucca,-porri-e-patate"
+slug: "crema-di-zucca-porri-patate"
 date: "2017-11-19"
 categories: 
   - "primi-piatti"

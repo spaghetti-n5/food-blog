@@ -1,6 +1,6 @@
 ---
 title: "Polpettone ripieno di salsiccia, prosciutto e formaggio"
-slug: "polpettone-ripieno-di-salsiccia,-prosciutto-e-formaggio"
+slug: "polpettone-ripieno-di-salsiccia-prosciutto-formaggio"
 date: "2017-05-10"
 categories: 
   - "ricette-autunnali"

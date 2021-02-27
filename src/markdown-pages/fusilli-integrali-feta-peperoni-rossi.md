@@ -1,6 +1,6 @@
 ---
 title: "Fusilli integrali con feta e peperoni rossi"
-slug: "ffusilli-integrali-con-feta-e-peperoni-rossi"
+slug: "fusilli-integrali-con-feta-peperoni-rossi"
 date: "2017-08-11"
 categories: 
   - "primi-piatti"

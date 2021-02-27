@@ -1,6 +1,6 @@
 ---
 title: "Baccalà alla napoletana"
-slug: "baccalà-alla-napoletana"
+slug: "baccala-alla-napoletana"
 date: "2017-03-19"
 categories: 
   - "secondi-piatti"

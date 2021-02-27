@@ -1,6 +1,6 @@
 ---
 title: "Lasagna al ragù"
-slug: "lasagna-al-ragù"
+slug: "lasagna-al-ragu"
 date: "2017-06-06"
 categories: 
   - "primi-piatti"

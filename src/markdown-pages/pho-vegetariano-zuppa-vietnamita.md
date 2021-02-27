@@ -1,6 +1,6 @@
 ---
 title: "Pho Chay - Zuppa vietnamita vegetariana"
-slug: "pho-chay---zuppa-vietnamita-vegetariana"
+slug: "pho-chay"
 date: "2017-04-21"
 categories: 
   - "cucina-vietnamita"

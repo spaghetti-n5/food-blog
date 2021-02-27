@@ -1,6 +1,6 @@
 ---
 title: "Ragù della mamma"
-slug: "ragù-della-mamma"
+slug: "ragu-della-mamma"
 date: "2017-04-29"
 categories: 
   - "preparazioni-di-base"

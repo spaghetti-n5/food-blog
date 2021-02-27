@@ -1,6 +1,6 @@
 ---
 title: "Pasta brisè con melanzane, pomodori e mozzarella"
-slug: "pasta-brisè-con-melanzane,-pomodori-e-mozzarella"
+slug: "pasta-brise-con-melanzane-pomodori-mozzarella"
 date: "2017-07-17"
 categories: 
   - "antipasti-ed-aperitivi"

@@ -1,6 +1,6 @@
 ---
 title: "Petto d'anatra con patate croccanti"
-slug: "petto-d'anatra-con-patate-croccanti"
+slug: "petto-anatra-con-patate-croccanti"
 date: "2017-05-02"
 categories: 
   - "secondi-piatti"

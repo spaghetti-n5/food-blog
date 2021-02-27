@@ -1,6 +1,6 @@
 ---
 title: "Tiramisù"
-slug: "tiramisù"
+slug: "tiramisu"
 date: "2017-04-05"
 categories: 
   - "dolci"

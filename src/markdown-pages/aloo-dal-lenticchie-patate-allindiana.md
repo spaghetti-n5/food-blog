@@ -1,6 +1,6 @@
 ---
 title: "Aloo Dahl, lenticchie e patate all'indiana"
-slug: "aloo-dahl,-lenticchie-e-patate-all'indiana"
+slug: "aloo-dahl-lenticchie-e-patate-all-indiana"
 date: "2018-02-05"
 categories: 
   - "cucine-del-mondo"

@@ -1,6 +1,6 @@
 ---
 title: "Crespelle con asparagi e ricotta"
-slug: "crespelle-con-asparagi-e-ricotta"
+slug: "crespelle-con-asparagi-ricotta"
 date: "2017-06-17"
 categories: 
   - "primi-piatti"

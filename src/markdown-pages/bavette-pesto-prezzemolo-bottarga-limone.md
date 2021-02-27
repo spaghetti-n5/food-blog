@@ -1,6 +1,6 @@
 ---
 title: "Bavette con pesto di prezzemolo, bottarga e limone"
-slug: "bavette-con-pesto-di-prezzemolo,-bottarga-e-limone"
+slug: "bavette-con-pesto-di-prezzemolo-bottarga-limone"
 date: "2017-11-27"
 categories: 
   - "primi-piatti"

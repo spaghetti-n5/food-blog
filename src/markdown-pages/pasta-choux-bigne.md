@@ -1,6 +1,6 @@
 ---
 title: "Pasta choux (bignè)"
-slug: "pasta-choux-(bignè)"
+slug: "pasta-choux"
 date: "2017-04-19"
 categories: 
   - "dolci"

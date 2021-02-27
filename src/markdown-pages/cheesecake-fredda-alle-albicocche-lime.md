@@ -1,6 +1,6 @@
 ---
 title: "Cheesecake fredda alle albicocche e lime"
-slug: "cheesecake-fredda-alle-albicocche-e-lime"
+slug: "cheesecake-fredda-alle-albicocche-lime"
 date: "2017-06-29"
 categories: 
   - "dolci"

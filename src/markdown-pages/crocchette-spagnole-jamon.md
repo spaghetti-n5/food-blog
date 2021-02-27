@@ -1,6 +1,6 @@
 ---
 title: "Crocchette spagnole di jamón"
-slug: "crocchette-spagnole-di-jamón"
+slug: "crocchette-spagnole-di-jamon"
 date: "2017-06-05"
 categories: 
   - "antipasti-ed-aperitivi"

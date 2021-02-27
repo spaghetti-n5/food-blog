@@ -1,6 +1,6 @@
 ---
 title: "Calamarata con ragú di pesce"
-slug: "calamarata-con-ragú-di-pesce"
+slug: "calamarata-con-ragu-di-pesce"
 date: "2017-06-28"
 categories: 
   - "primi-piatti"

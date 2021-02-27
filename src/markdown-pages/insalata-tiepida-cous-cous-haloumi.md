@@ -1,6 +1,6 @@
 ---
 title: "Insalata tiepida con cous cous e haloumi"
-slug: "insalata-tiepida-con-cous-cous-e-haloumi"
+slug: "insalata-tiepida-con-cous-cous-haloumi"
 date: "2017-09-02"
 categories: 
   - "ricette-estive"

@@ -1,6 +1,6 @@
 ---
 title: "Zucchine ripiene di tonno, capperi ed olive taggiasche"
-slug: "zucchine-ripiene-di-tonno,-capperi-ed-olive-taggiasche"
+slug: "zucchine-ripiene-di-tonno-capperi-olive-taggiasche"
 date: "2018-01-15"
 categories: 
   - "antipasti-ed-aperitivi"

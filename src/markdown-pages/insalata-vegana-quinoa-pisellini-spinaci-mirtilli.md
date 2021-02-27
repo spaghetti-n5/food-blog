@@ -1,6 +1,6 @@
 ---
 title: "Insalata vegana di quinoa, piselli, spinaci e mirtilli"
-slug: "insalata-vegana-di-quinoa,-piselli,-spinaci-e-mirtilli"
+slug: "insalata-vegana-di-quinoa-piselli-spinaci-mirtilli"
 date: "2017-09-23"
 categories: 
   - "antipasti-ed-aperitivi"
