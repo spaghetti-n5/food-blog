@@ -10,7 +10,7 @@ tags:
   - "gnocchi"
   - "ragu"
   - "tagliatelle"
-coverImage: "../images/Gnocchi-con-ragù-di-anatra.jpg"
+coverImage: "../images/Gnocchi-con-ragu-di-anatra.jpg"
 ---
 
 Il ragù d'anatra può essere fatto in mille modi, ma io lo preferisco bianco cosi manterrà intatti il gusto ed il profumo.

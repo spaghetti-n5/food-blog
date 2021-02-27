@@ -61,10 +61,6 @@
             "title": "Insalata tiepida con cous cous e haloumi"
         }, 
         {
-            "slug": "polpettine-di-carne-con-olive", 
-            "title": "Polpettine di carne con olive"
-        }, 
-        {
             "slug": "pasta-brise-con-melanzane-pomodori-mozzarella", 
             "title": "Pasta brisè con melanzane, pomodori e mozzarella"
         }, 
@@ -195,10 +191,6 @@
         {
             "slug": "spezzatino-di-manzo-con-polenta", 
             "title": "Spezzatino di manzo con polenta"
-        }, 
-        {
-            "slug": "spaghetti-con-ragu-di-seppie", 
-            "title": "Spaghetti con ragú di seppie"
         }, 
         {
             "slug": "zuppa-di-pesce-e-fagioli-cannellini", 
@@ -459,10 +451,6 @@
         {
             "slug": "piadine-light", 
             "title": "Piadine light"
-        }, 
-        {
-            "slug": "focaccia", 
-            "title": "Focaccia"
         }, 
         {
             "slug": "fantasia-di-verdure-al-forno", 

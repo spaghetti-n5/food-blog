@@ -8,7 +8,7 @@ categories:
 tags: 
   - "calamarata"
   - "ragu-di-pesce"
-coverImage: "../images/Calamarata-con-ragù-di-pesce.jpg"
+coverImage: "../images/calamarata-con-ragu-di-pesce.jpg"
 ---
 
 **Ingredienti per 2 persone:**
