@@ -1,0 +1,680 @@
+{
+    "ricette": [
+        {
+            "slug": "lasagna-al-ragú", 
+            "title": "Lasagna al ragú"
+        }, 
+        {
+            "slug": "tagliatelle-di-zucca-con-mascarpone-e-salvia", 
+            "title": "Tagliatelle di zucca con mascarpone e salvia"
+        }, 
+        {
+            "slug": "rotolini-di-pane-con-prosciutto-e-formaggio", 
+            "title": "Rotolini di pane con prosciutto e formaggio"
+        }, 
+        {
+            "slug": "muffin-agli-amaretti-ed-arancia", 
+            "title": "Muffin agli amaretti ed arancia"
+        }, 
+        {
+            "slug": "quesadillas-con-funghi-champignon", 
+            "title": "Quesadillas con funghi champignon"
+        }, 
+        {
+            "slug": "polpette-vegetariane-con-funghi-e-patate", 
+            "title": "Polpette vegetariane con funghi e patate"
+        }, 
+        {
+            "slug": "pasticcio-con-fiori-di-zucca-e-zucchine", 
+            "title": "Pasticcio con fiori di zucca e zucchine"
+        }, 
+        {
+            "slug": "crespelle-primavera", 
+            "title": "Crespelle primavera"
+        }, 
+        {
+            "slug": "cubotti-al-cioccolato-bianco-e-mandorle", 
+            "title": "Cubotti al cioccolato bianco e mandorle"
+        }, 
+        {
+            "slug": "pho-chay---zuppa-vietnamita-vegetariana", 
+            "title": "Pho Chay - Zuppa vietnamita vegetariana"
+        }, 
+        {
+            "slug": "porridge-con-banane-caramellate", 
+            "title": "Porridge con banane caramellate"
+        }, 
+        {
+            "slug": "babaganoush-di-melanzane", 
+            "title": "Babaganoush di melanzane"
+        }, 
+        {
+            "slug": "torta-salata-di-zucchine-e-formaggio-di-capra", 
+            "title": "Torta salata di zucchine e formaggio di capra"
+        }, 
+        {
+            "slug": "muffin-ai-mirtilli", 
+            "title": "Muffin ai mirtilli"
+        }, 
+        {
+            "slug": "insalata-tiepida-con-cous-cous-e-haloumi", 
+            "title": "Insalata tiepida con cous cous e haloumi"
+        }, 
+        {
+            "slug": "polpettine-di-carne-con-olive", 
+            "title": "Polpettine di carne con olive"
+        }, 
+        {
+            "slug": "pasta-brisè-con-melanzane,-pomodori-e-mozzarella", 
+            "title": "Pasta brisè con melanzane, pomodori e mozzarella"
+        }, 
+        {
+            "slug": "rotolo-di-polenta-ripieno-di-funghi-e-formaggio", 
+            "title": "Rotolo di polenta ripieno di funghi e formaggio"
+        }, 
+        {
+            "slug": "paella-valenciana", 
+            "title": "Paella valenciana"
+        }, 
+        {
+            "slug": "salmone-alla-piastra-con-quinoa", 
+            "title": "Salmone alla piastra con quinoa"
+        }, 
+        {
+            "slug": "vellutata-di-asparagi", 
+            "title": "Vellutata di asparagi"
+        }, 
+        {
+            "slug": "udon-noodles-con-verdure-saltate", 
+            "title": "Udon noodles con verdure saltate"
+        }, 
+        {
+            "slug": "gnocchi-di-patate", 
+            "title": "Gnocchi di patate"
+        }, 
+        {
+            "slug": "crostata-con-marmellata-di-lamponi", 
+            "title": "Crostata con marmellata di lamponi"
+        }, 
+        {
+            "slug": "gnocchi-ai-fiori-zucca-mazzancolle", 
+            "title": "Gnocchi ai fiori di zucca con mazzancolle"
+        }, 
+        {
+            "slug": "tagliatelle-al-nero-di-seppia-con-sugo-di-triglie", 
+            "title": "Tagliatelle al nero di seppia con sugo di triglie"
+        }, 
+        {
+            "slug": "pisto-spagnolo", 
+            "title": "Pisto spagnolo"
+        }, 
+        {
+            "slug": "profiteroles-al-cioccolato", 
+            "title": "Profiteroles al cioccolato"
+        }, 
+        {
+            "slug": "gnocchi-fantasia", 
+            "title": "Gnocchi fantasia"
+        }, 
+        {
+            "slug": "pane-per-hamburger-fatto-in-casa", 
+            "title": "Pane per hamburger fatto in casa"
+        }, 
+        {
+            "slug": "banana-muffin", 
+            "title": "Banana muffin"
+        }, 
+        {
+            "slug": "torta-salata-veloce-con-verdure", 
+            "title": "Torta salata veloce con verdure"
+        }, 
+        {
+            "slug": "gamberi-thailandesi-al-tamarindo", 
+            "title": "Gamberi Thailandesi al tamarindo"
+        }, 
+        {
+            "slug": "torta-al-cacao-senza-uova", 
+            "title": "Torta al cacao senza uova"
+        }, 
+        {
+            "slug": "insalata-tiepida-di-scorfano", 
+            "title": "Insalata tiepida di scorfano"
+        }, 
+        {
+            "slug": "fusilli-con-melanzane-striate-e-pepe-di-timut", 
+            "title": "Fusilli con melanzane striate e pepe di Timut"
+        }, 
+        {
+            "slug": "polpettone-ripieno-di-salsiccia,-prosciutto-e-formaggio", 
+            "title": "Polpettone ripieno di salsiccia, prosciutto e formaggio"
+        }, 
+        {
+            "slug": "bavette-con-pesto-di-prezzemolo,-bottarga-e-limone", 
+            "title": "Bavette con pesto di prezzemolo, bottarga e limone"
+        }, 
+        {
+            "slug": "come-cucinare-i-funghi-chiodini", 
+            "title": "Come cucinare i funghi chiodini"
+        }, 
+        {
+            "slug": "gnocchi-di-patate-viola-con-sugo-di-verdure", 
+            "title": "Gnocchi di patate viola con sugo di verdure"
+        }, 
+        {
+            "slug": "pho-ga", 
+            "title": "Pho Ga - Zuppa di pollo vietnamita"
+        }, 
+        {
+            "slug": "insalatina-raffinata", 
+            "title": "Insalatina raffinata"
+        }, 
+        {
+            "slug": "rose-di-pasta-sfoglia-con-ricotta-e-funghi", 
+            "title": "Rose di pasta sfoglia con ricotta e funghi"
+        }, 
+        {
+            "slug": "aloo-dahl,-lenticchie-e-patate-all'indiana", 
+            "title": "Aloo Dahl, lenticchie e patate all'indiana"
+        }, 
+        {
+            "slug": "cheeseburger-fatto-in-casa", 
+            "title": "Cheeseburger fatto in casa"
+        }, 
+        {
+            "slug": "torta-soffice-agli-agrumi", 
+            "title": "Torta soffice agli agrumi"
+        }, 
+        {
+            "slug": "crocchette-di-risotto", 
+            "title": "Crocchette di risotto"
+        }, 
+        {
+            "slug": "crema-di-zucca,-porri-e-patate", 
+            "title": "Crema di zucca, porri e patate"
+        }, 
+        {
+            "slug": "spezzatino-di-manzo-con-polenta", 
+            "title": "Spezzatino di manzo con polenta"
+        }, 
+        {
+            "slug": "spaghetti-con-ragú-di-seppie", 
+            "title": "Spaghetti con ragú di seppie"
+        }, 
+        {
+            "slug": "zuppa-di-pesce-e-fagioli-cannellini", 
+            "title": "Zuppa di pesce e fagioli cannellini"
+        }, 
+        {
+            "slug": "torta-di-mele-soffice-e-profumata", 
+            "title": "Torta di mele soffice e profumata"
+        }, 
+        {
+            "slug": "involtini-di-melanzane-e-carne-macinata", 
+            "title": "Involtini di melanzane e carne macinata"
+        }, 
+        {
+            "slug": "baccalá-alla-vicentina", 
+            "title": "Baccalá alla Vicentina"
+        }, 
+        {
+            "slug": "strudel-con-carne-macinata", 
+            "title": "Strudel di macinato e verdure"
+        }, 
+        {
+            "slug": "spiedini-veloci-di-salsiccia-e-polenta", 
+            "title": "Spiedini veloci di salsiccia e polenta"
+        }, 
+        {
+            "slug": "curry-rosso-thailandese-vegetariano", 
+            "title": "Curry rosso thailandese vegetariano"
+        }, 
+        {
+            "slug": "gnocchi-di-zucca-e-patate-al-burro-e-salvia", 
+            "title": "Gnocchi di zucca e patate al burro e salvia"
+        }, 
+        {
+            "slug": "timballo-di-salmone-e-avocado", 
+            "title": "Timballo di salmone e avocado"
+        }, 
+        {
+            "slug": "crespelle-con-asparagi-e-ricotta", 
+            "title": "Crespelle con asparagi e ricotta"
+        }, 
+        {
+            "slug": "khachapuri", 
+            "title": "Khachapuri"
+        }, 
+        {
+            "slug": "panzerotti-fritti-ripieni", 
+            "title": "Panzerotti fritti ripieni"
+        }, 
+        {
+            "slug": "lunch-box-cous-cous-con-zucca-e-mozzarella", 
+            "title": "Lunch box cous cous con zucca e mozzarella"
+        }, 
+        {
+            "slug": "rosette-di-zucchine-con-purea-di-piselli", 
+            "title": "Rosette di zucchine con purea di piselli"
+        }, 
+        {
+            "slug": "pad-gaprao-thailandese", 
+            "title": "Pad Gaprao thailandese"
+        }, 
+        {
+            "slug": "pollo-ai-peperoni", 
+            "title": "Pollo ai peperoni"
+        }, 
+        {
+            "slug": "rotolini-fritti-di-pollo-e-mozzarella", 
+            "title": "Rotolini fritti di pollo e mozzarella"
+        }, 
+        {
+            "slug": "patatas-bravas", 
+            "title": "Patatas bravas"
+        }, 
+        {
+            "slug": "salmone-in-crosta-di-pane", 
+            "title": "Salmone in crosta di pane"
+        }, 
+        {
+            "slug": "polpette-di-carne-e-ricotta", 
+            "title": "Polpette di macinato e ricotta"
+        }, 
+        {
+            "slug": "crostata-di-pere-e-cioccolato", 
+            "title": "Crostata di pere e cioccolato"
+        }, 
+        {
+            "slug": "gnocchi-di-ricotta-con-zucchine-e-guanciale", 
+            "title": "Gnocchi di ricotta con zucchine e guanciale"
+        }, 
+        {
+            "slug": "frittelle-di-fiori-di-acacia", 
+            "title": "Frittelle di fiori di acacia"
+        }, 
+        {
+            "slug": "mezze-maniche-profumate-con-le-sarde", 
+            "title": "Mezze maniche profumate con le sarde"
+        }, 
+        {
+            "slug": "risotto-con-finferli-freschi", 
+            "title": "Risotto con finferli freschi"
+        }, 
+        {
+            "slug": "baccalá-alla-napoletana", 
+            "title": "Baccalá alla napoletana"
+        }, 
+        {
+            "slug": "arroz-a-banda-spagnolo", 
+            "title": "Arroz a banda spagnolo"
+        }, 
+        {
+            "slug": "summer-rolls-vietnamiti", 
+            "title": "Summer rolls vietnamiti"
+        }, 
+        {
+            "slug": "spiedini-gamberi-agli-agrumi", 
+            "title": "Spiedini di gamberi agli agrumi"
+        }, 
+        {
+            "slug": "crocchette-spagnole-di-jamón", 
+            "title": "Crocchette spagnole di jamón"
+        }, 
+        {
+            "slug": "tagliata-tonno-al-sesamo", 
+            "title": "Tagliata di tonno al sesamo"
+        }, 
+        {
+            "slug": "paninetti-fritti-con-pollo", 
+            "title": "Paninetti fritti con pollo"
+        }, 
+        {
+            "slug": "fiori-di-zucca-ripieni", 
+            "title": "Fiori di zucca ripieni"
+        }, 
+        {
+            "slug": "petto-d'anatra-con-patate-croccanti", 
+            "title": "Petto d'anatra con patate croccanti"
+        }, 
+        {
+            "slug": "ffusilli-integrali-con-feta-e-peperoni-rossi", 
+            "title": "Fusilli integrali con feta e peperoni rossi"
+        }, 
+        {
+            "slug": "pasta-choux-(bignè)", 
+            "title": "Pasta choux (bignè)"
+        }, 
+        {
+            "slug": "mozzarelle-fritte", 
+            "title": "Mozzarelle fritte"
+        }, 
+        {
+            "slug": "gnocchi-con-ragú-di-anatra", 
+            "title": "Gnocchi con ragú di anatra"
+        }, 
+        {
+            "slug": "muffin-due-sapori", 
+            "title": "Muffin due sapori"
+        }, 
+        {
+            "slug": "cheesecake-fredda-alle-albicocche-e-lime", 
+            "title": "Cheesecake fredda alle albicocche e lime"
+        }, 
+        {
+            "slug": "porridge-al-cacao-con-banane-e-anacardi", 
+            "title": "Porridge al cacao con banane e anacardi"
+        }, 
+        {
+            "slug": "empanadas-argentine-di-carne", 
+            "title": "Empanadas argentine di carne"
+        }, 
+        {
+            "slug": "spaghetti-con-crostacei-e-cozze", 
+            "title": "Spaghetti con crostacei e cozze"
+        }, 
+        {
+            "slug": "cubotti-cioccolato-e-nocciole", 
+            "title": "Cubotti cioccolato e nocciole"
+        }, 
+        {
+            "slug": "gnocchi-con-erba-selene-e-cozze", 
+            "title": "Gnocchi con erba Selene e cozze"
+        }, 
+        {
+            "slug": "focaccia-all'olio-extravergine-di-oliva", 
+            "title": "Focaccia all'olio extravergine di oliva"
+        }, 
+        {
+            "slug": "lasagnetta-croccante", 
+            "title": "Lasagnetta croccante"
+        }, 
+        {
+            "slug": "gnocchi-di-polenta-con-gorgonzola-e-finferli", 
+            "title": "Gnocchi di polenta con gorgonzola e finferli"
+        }, 
+        {
+            "slug": "torta-rovesciata-con-mele-caramellate", 
+            "title": "Torta rovesciata con mele caramellate"
+        }, 
+        {
+            "slug": "bavette-con-sugo-di-triglie", 
+            "title": "Bavette con sugo di triglie"
+        }, 
+        {
+            "slug": "involtini-di-carne", 
+            "title": "Involtini di carne"
+        }, 
+        {
+            "slug": "pizza-napoletana-fatta-in-casa", 
+            "title": "Pizza Napoletana fatta in casa"
+        }, 
+        {
+            "slug": "gnocchi-di-rape-rosse-con-gorgonzola", 
+            "title": "Gnocchi di rape rosse con gorgonzola"
+        }, 
+        {
+            "slug": "gnudi-di-ricotta-e-melanzane", 
+            "title": "Gnudi di ricotta e melanzane"
+        }, 
+        {
+            "slug": "torta-salata-con-tonno-e-cipolla", 
+            "title": "Torta salata con tonno e cipolla"
+        }, 
+        {
+            "slug": "verdure-e-tofu-in-salsa-agrodolce-thai", 
+            "title": "Verdure e tofu in salsa agrodolce thai"
+        }, 
+        {
+            "slug": "empanadilla-spagnola", 
+            "title": "Empanadilla spagnola"
+        }, 
+        {
+            "slug": "tacos-messicani-con-carne-macinata", 
+            "title": "Tacos messicani con carne macinata"
+        }, 
+        {
+            "slug": "mille-foglie-di-patate,-zucchine-e-sogliola", 
+            "title": "Mille foglie di patate, zucchine e sogliola"
+        }, 
+        {
+            "slug": "torta-di-ricotta-al-limone", 
+            "title": "Torta di ricotta al limone"
+        }, 
+        {
+            "slug": "farfalle-con-melanzane-e-ricotta", 
+            "title": "Farfalle con melanzane e ricotta"
+        }, 
+        {
+            "slug": "torta-margherita-con-uvette", 
+            "title": "Torta margherita con uvette"
+        }, 
+        {
+            "slug": "quiche-di-zucchine-e-tegoline", 
+            "title": "Quiche di zucchine e tegoline"
+        }, 
+        {
+            "slug": "bigoli-in-salsa", 
+            "title": "Bigoli in salsa"
+        }, 
+        {
+            "slug": "piadine-light", 
+            "title": "Piadine light"
+        }, 
+        {
+            "slug": "focaccia", 
+            "title": "Focaccia"
+        }, 
+        {
+            "slug": "fantasia-di-verdure-al-forno", 
+            "title": "Fantasia di verdure al forno"
+        }, 
+        {
+            "slug": "pasta-con-le-canocchie-e-fiori-di-zucca", 
+            "title": "Pasta con le canocchie e fiori di zucca"
+        }, 
+        {
+            "slug": "verdure-ripiene-al-forno", 
+            "title": "Verdure ripiene al forno"
+        }, 
+        {
+            "slug": "spaghetti-con-le-polpette", 
+            "title": "Spaghetti con le polpette"
+        }, 
+        {
+            "slug": "zuppa-di-lenticchie-rosse", 
+            "title": "Zuppa di lenticchie rosse"
+        }, 
+        {
+            "slug": "pasta-fresca-uovo", 
+            "title": "Pasta fresca all'uovo"
+        }, 
+        {
+            "slug": "hummus", 
+            "title": "Hummus"
+        }, 
+        {
+            "slug": "pad-thai-thailandese", 
+            "title": "Pad thai Thailandese"
+        }, 
+        {
+            "slug": "ravioli-con-gamberi-e-mozzarella-di-bufala", 
+            "title": "Ravioli con gamberi e mozzarella di bufala"
+        }, 
+        {
+            "slug": "arringa-affumicata-con-polenta", 
+            "title": "Arringa affumicata con polenta"
+        }, 
+        {
+            "slug": "crostata-con-prugne-fresche-e-confettura-di-prugne", 
+            "title": "Crostata con prugne fresche e confettura di prugne"
+        }, 
+        {
+            "slug": "tiramisú", 
+            "title": "Tiramisú"
+        }, 
+        {
+            "slug": "fusilli-zucchine-e-gamberi-profumati-agli-agrumi", 
+            "title": "Fusilli zucchine e gamberi profumati agli agrumi"
+        }, 
+        {
+            "slug": "confettura-di-pomodori-verdi", 
+            "title": "Confettura di pomodori verdi"
+        }, 
+        {
+            "slug": "wonton-con-maiale-e-gamberi", 
+            "title": "Wonton con maiale e gamberi"
+        }, 
+        {
+            "slug": "focaccia-sottile-allo-stracchino", 
+            "title": "Focaccia sottile allo stracchino"
+        }, 
+        {
+            "slug": "pane-fatto-in-casa-con-farina-di-mais", 
+            "title": "Pane fatto in casa con farina di mais"
+        }, 
+        {
+            "slug": "focaccia-ripiena-in-padella", 
+            "title": "Focaccia ripiena in padella"
+        }, 
+        {
+            "slug": "zucchine-ripiene-di-tonno,-capperi-ed-olive-taggiasche", 
+            "title": "Zucchine ripiene di tonno, capperi ed olive taggiasche"
+        }, 
+        {
+            "slug": "vellutata-di-piselli-e-patate", 
+            "title": "Vellutata di piselli e patate"
+        }, 
+        {
+            "slug": "striscioline-di-pollo-speziate", 
+            "title": "Striscioline di pollo speziate"
+        }, 
+        {
+            "slug": "focaccia-ripiena-alla-norma", 
+            "title": "Focaccia ripiena alla norma"
+        }, 
+        {
+            "slug": "torta-salata-con-fiori-di-zucca-e-zucchine", 
+            "title": "Torta salata con fiori di zucca e zucchine"
+        }, 
+        {
+            "slug": "cheesecake-cotta-al-limone", 
+            "title": "Cheesecake cotta al limone"
+        }, 
+        {
+            "slug": "involtini-di-pollo-con-purè", 
+            "title": "Involtini di pollo con purè"
+        }, 
+        {
+            "slug": "ravioli-gorgonzola-e-pere", 
+            "title": "Ravioli gorgonzola e pere"
+        }, 
+        {
+            "slug": "spiedini-di-manzo-agli-aromi", 
+            "title": "Spiedini di manzo agli aromi"
+        }, 
+        {
+            "slug": "polpette-di-carne-macinata-e-funghi", 
+            "title": "Polpette di carne macinata e funghi"
+        }, 
+        {
+            "slug": "torta-di-spinaci-con-base-di-patate-dolci", 
+            "title": "Torta di spinaci con base di patate dolci"
+        }, 
+        {
+            "slug": "cheesecake-fredda-con-frutto-della-passione", 
+            "title": "Cheesecake fredda con frutto della passione"
+        }, 
+        {
+            "slug": "curry-thailandese-panang-vegano", 
+            "title": "Curry Thailandese Panang vegano"
+        }, 
+        {
+            "slug": "bavette-al-pesto", 
+            "title": "Bavette al pesto"
+        }, 
+        {
+            "slug": "cheesecake-al-mango", 
+            "title": "Cheesecake al mango"
+        }, 
+        {
+            "slug": "impasto-per-le-crespelle", 
+            "title": "Impasto per le crespelle"
+        }, 
+        {
+            "slug": "zuppa-con-fagioli-gialet,-zucca-e-speck-croccante", 
+            "title": "Zuppa con fagioli gialet, zucca e speck croccante"
+        }, 
+        {
+            "slug": "zuppa-di-fagioli-cannellini", 
+            "title": "Zuppa di fagioli cannellini"
+        }, 
+        {
+            "slug": "tagliolini-all'uovo-con-asparagi,-zucchine-e-guanciale", 
+            "title": "Tagliolini all'uovo con asparagi, zucchine e guanciale"
+        }, 
+        {
+            "slug": "pulpo-a-la-gallega", 
+            "title": "Pulpo a la gallega"
+        }, 
+        {
+            "slug": "muffin-al-limone", 
+            "title": "Muffin al limone"
+        }, 
+        {
+            "slug": "patatine-chips-croccantissime", 
+            "title": "Patatine chips croccantissime"
+        }, 
+        {
+            "slug": "massaman-curry-con-zucca-e-ceci", 
+            "title": "Massaman curry con zucca e ceci"
+        }, 
+        {
+            "slug": "miso-ramen-vegetariana", 
+            "title": "Miso Ramen vegetariana"
+        }, 
+        {
+            "slug": "ragú-della-mamma", 
+            "title": "Ragú della mamma"
+        }, 
+        {
+            "slug": "gnocchi-di-melanzane-pomodorini", 
+            "title": "Gnocchi di melanzane con pomodorini"
+        }, 
+        {
+            "slug": "calamarata-con-ragú-di-pesce", 
+            "title": "Calamarata con ragú di pesce"
+        }, 
+        {
+            "slug": "curry-verde-thailandese-vegetariano", 
+            "title": "Curry verde thailandese vegetariano"
+        }, 
+        {
+            "slug": "pizza", 
+            "title": "Pizza"
+        }, 
+        {
+            "slug": "porridge-vegan-con-mele-caramellate,-cannella-e-buccia-di-limone", 
+            "title": "Porridge vegan con mele caramellate, cannella e buccia di limone"
+        }, 
+        {
+            "slug": "insalata-di-quinoa,-zucca-e-formaggio-di-capra", 
+            "title": "Insalata di quinoa, zucca e formaggio di capra"
+        }, 
+        {
+            "slug": "torta-di-carote", 
+            "title": "Torta di carote"
+        }, 
+        {
+            "slug": "crema-di-cavolfiore", 
+            "title": "Crema di cavolfiore"
+        }, 
+        {
+            "slug": "torta-alla-zucca-e-frutta-secca", 
+            "title": "Torta alla zucca e frutta secca"
+        }, 
+        {
+            "slug": "insalata-vegana-di-quinoa,-piselli,-spinaci-e-mirtilli", 
+            "title": "Insalata vegana di quinoa, piselli, spinaci e mirtilli"
+        }
+    ]
+}
