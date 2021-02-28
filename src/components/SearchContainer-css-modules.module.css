@@ -1,0 +1,59 @@
+
+.inputWrap {
+    margin: 0 auto;
+    width: 300px;
+    border-bottom: 1px solid #545454;;
+    position: relative;
+}
+
+.input {
+  border: none;
+  width: 300px;
+  padding: 8px;
+  font-style: italic;
+  font-size: 13px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.icon {
+    position: absolute;
+    right: 8px;
+    bottom: 8px;
+    color: #545454;
+}
+
+.tableResults {
+    width: 100%;
+    border-radius: 4px;
+    border: 1px solid #545454;
+}
+
+.tableData {
+    font-size: 14px;
+    border: 1px solid #545454;
+    padding: 10px;
+    color: #545454;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+}
+
+.tableData:hover {
+    background-color: #f1f1f1;;
+}
+
+.tableLink {
+    width: 100%;
+    display: inline-block;
+}
+
+@media only screen and (max-width: 480px) {
+    .inputWrap {
+        width: 200px;
+    }
+    .input {
+        width: 200px;
+    }
+  }

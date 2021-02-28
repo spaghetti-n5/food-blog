@@ -2,6 +2,9 @@ import React, { Component } from "react"
 import Axios from "axios"
 import * as JsSearch from "js-search"
 import { Link } from "gatsby"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import styles from "./SearchContainer-css-modules.module.css";
 class Search extends Component {
   state = {
     bookList: [],
@@ -11,9 +14,7 @@ class Search extends Component {
     isError: false,
     searchQuery: "",
   }
-  /**
-   * React lifecycle method to fetch the data
-   */
+
   async componentDidMount() {
     Axios.get("https://raw.githubusercontent.com/spaghetti-n5/food-blog/main/scripts/index.json")
       .then(result => {
@@ -23,9 +24,7 @@ class Search extends Component {
       })
       .catch(err => {
         this.setState({ isError: true })
-        console.log("====================================")
         console.log(`Something bad happened while fetching the data\n${err}`)
-        console.log("====================================")
       })
   }
 
@@ -72,46 +71,28 @@ class Search extends Component {
   }
 
   render() {
-    const { bookList, searchResults, searchQuery } = this.state
-    // const queryResults = searchQuery === "" ? bookList : searchResults
-    // const queryResults = searchQuery === "" ? [] : searchResults
+    const { searchResults, searchQuery } = this.state
     return (
       <div>
-        <div style={{ margin: "0 auto" }}>
           <form onSubmit={this.handleSubmit}>
-            <div style={{ margin: "0 auto", textAlign: "center"}}>
+            <div className={styles.inputWrap}>
               <input
                 id="Search"
+                className={styles.input}
                 value={searchQuery}
                 onChange={this.searchData}
                 placeholder="Cerca una ricetta"
-                style={{ margin: "0 auto", width: "400px", border: "none", borderBottom: "1px solid black" }}
               />
+              <FontAwesomeIcon icon={faSearch} size="1x" className={styles.icon} />
             </div>
           </form>
-          <div>
-            {/* Number of items:
-            {searchResults.length} */}
-            <table
-              style={{
-                width: "100%",
-                borderCollapse: "collapse",
-                borderRadius: "4px",
-                border: "1px solid #d3d3d3",
-              }}
-            >
+            <table className={styles.tableResults}>
               <tbody>
                 {searchResults.map(item => {
-                    console.log(item)
                   return (
                     <tr key={`row_${item.slug}`}>
-                      <td
-                        style={{
-                          fontSize: "14px",
-                          border: "1px solid #d3d3d3",
-                        }}
-                      >
-                        <Link to={`/${item.slug}`}>
+                      <td className={styles.tableData}>
+                        <Link to={`/${item.slug}`} className={styles.tableLink}>
                             {item.title}
                         </Link>
                       </td>
@@ -120,9 +101,7 @@ class Search extends Component {
                 })}
               </tbody>
             </table>
-          </div>
         </div>
-      </div>
     )
   }
 }

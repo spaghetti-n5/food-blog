@@ -522,12 +522,10 @@ html {
     padding-top: 0.725rem;
     padding-bottom: calc(0.725rem - 1px);
   }
-  th:first-child,
-  td:first-child {
+  th:first-child {
     padding-left: 0;
   }
-  th:last-child,
-  td:last-child {
+  th:last-child {
     padding-right: 0;
   }
   tt,
