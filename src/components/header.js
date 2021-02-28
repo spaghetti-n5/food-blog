@@ -6,8 +6,11 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithubSquare, faLinkedin, faInstagramSquare } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import Search from './SearchContainer';
-
 import Menu from './menu';
+
+import "@fortawesome/fontawesome-svg-core/styles.css"
+import { config } from '@fortawesome/fontawesome-svg-core'
+config.autoAddCss = false
 
 const Header = ({ siteTitle }) => (
     <header>
@@ -23,7 +26,7 @@ const Header = ({ siteTitle }) => (
             <FontAwesomeIcon icon={faInstagramSquare} />
           </a>
           <a className={styles.icons} href='mailto: cucinadalnord@gmail.com'>
-            <FontAwesomeIcon icon={faEnvelope} />
+            <FontAwesomeIcon icon={faEnvelope} size="1x" />
           </a>
         </div>
         <Link className={styles.link} to="/chi-sono">Chi sono</Link>

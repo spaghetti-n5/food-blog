@@ -23,6 +23,7 @@ input:focus{
     right: 8px;
     bottom: 8px;
     color: #545454;
+    font-size: 18px;
 }
 
 .tableResults {

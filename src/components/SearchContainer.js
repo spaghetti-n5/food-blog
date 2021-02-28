@@ -5,6 +5,11 @@ import { Link } from "gatsby"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch } from '@fortawesome/free-solid-svg-icons';
 import styles from "./SearchContainer-css-modules.module.css";
+
+import "@fortawesome/fontawesome-svg-core/styles.css"
+import { config } from '@fortawesome/fontawesome-svg-core'
+config.autoAddCss = false
+
 class Search extends Component {
   state = {
     bookList: [],
@@ -83,7 +88,7 @@ class Search extends Component {
                 onChange={this.searchData}
                 placeholder="Cerca una ricetta"
               />
-              <FontAwesomeIcon icon={faSearch} size="1x" className={styles.icon} />
+              <FontAwesomeIcon icon={faSearch} className={styles.icon} fixedWidth />
             </div>
           </form>
             <table className={styles.tableResults}>
