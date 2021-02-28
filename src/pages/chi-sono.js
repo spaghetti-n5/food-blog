@@ -2,7 +2,7 @@ import React from "react";
 import SEO from "../components/seo";
 import Layout from "../components/layout";
 import Image from "../components/image";
-import styles from "./chiSono-css-modules.module.css";
+import styles from "./pages-css-modules.module.css";
 
 export default function About() {
   return (

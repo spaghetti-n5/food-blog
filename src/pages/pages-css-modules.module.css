@@ -8,4 +8,16 @@
 
 .textWrap {
     text-align: justify;
+    padding-bottom: 20px;
+}
+
+.pageWrap > div {
+    margin: auto;
+    text-align: center;
+}
+
+@media only screen and (max-width: 480px) {
+    .postTitle {
+        font-size: 18px;
+    }
 }
