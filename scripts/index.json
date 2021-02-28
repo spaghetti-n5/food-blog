@@ -663,6 +663,10 @@
         {
             "slug": "insalata-vegana-di-quinoa-piselli-spinaci-mirtilli", 
             "title": "Insalata vegana di quinoa, piselli, spinaci e mirtilli"
+        },
+        {
+            "title": "Vellutata di patate, porri, zucchine e curcuma",
+            "slug": "vellutata-di-patate-porri-zucchine-curcuma"
         }
     ]
 }

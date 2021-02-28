@@ -51,9 +51,6 @@ Per il riso:
 - 1 foglia di alloro
 
  
-
- 
-
 **Procedimento:**
 
 Per prima cosa cucinate il riso seguendo le indicazioni sulla confezione, lasciando in infusione le spezie per conferire un profumo ed un sapore aromatici (2 stelle di anice, il chiodo di garofano e la foglia di alloro).

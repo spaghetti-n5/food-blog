@@ -18,8 +18,6 @@ coverImage: "../images/cheesecakeMango.jpg"
 
 Una cheesecake fredda, facile e veloce, che potete servire con una gelatina di mango frullato o con fette di mango fresche. Questa cheesecake è caratterizzata da un sapore fresco ed agrumato, grazie all'utilizzo del limone non trattato, e da una consistenza morbida, perfetta per un dessert estivo.
 
-Qui trovate tutte le ricette di cheesecake che ho provato [https://cucinadalnord.it/tag/cheesecake/](https://cucinadalnord.it/tag/cheesecake/)
-
 **Ingredienti per una tortiera di 22 cm di diametro:**
 
 - 150 g di yogurt alla vaniglia

@@ -15,8 +15,6 @@ coverImage: "../images/porridgeAlCacao.jpg"
 
 Una nuova idea per la vostra colazione, porridge di avena con cacao. Vi propongo la versione vegana ma se preferite potete sostituire il latte di avena con il latte di mucca.
 
-Qui trovate le altre ricette di porridge che ho preparato: [https://cucinadalnord.it/tag/porridge/](https://cucinadalnord.it/tag/porridge/)
-
 **Ingredienti per 2 persone:**
 
 - 100 g di fiocchi di avena biologici
