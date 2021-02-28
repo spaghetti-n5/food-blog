@@ -334,6 +334,7 @@ html {
     margin: 0;
     list-style-position: outside;
     list-style-image: none;
+    padding-bottom: 12px;
   }
   ol {
     margin-left: 1.45rem;
@@ -371,6 +372,8 @@ html {
     margin: 0;
     padding: 10px 0;
     line-height: 1.4;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
   }
   pre {
     margin-left: 0;
@@ -570,6 +573,10 @@ html {
   @media only screen and (max-width: 480px) {
     html {
       font-size: 100%;
+    }
+
+    p, ul {
+      font-size: 14px;
     }
   }
   

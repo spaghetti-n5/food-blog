@@ -45,8 +45,8 @@ header {
         margin: 20px 0;
     }
     .headerTitle {
-        line-height: 30px;
-        font-size: 30px;
+        line-height: 28px;
+        font-size: 28px;
     }
 
     .headerSubTitle {
@@ -54,7 +54,6 @@ header {
     }
 
     .social {
-        margin: 0 15px;
         padding-bottom: 10px;
     }
   }

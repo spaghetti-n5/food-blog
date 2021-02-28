@@ -36,6 +36,14 @@
         margin: 20px auto;
     }
 
+    .postTitle {
+        font-size: 18px;
+    }
+
+    .postDate {
+        padding-bottom: 5px;
+    }
+
     .navigationWrap{
         text-align: center;
         flex-wrap: nowrap;
