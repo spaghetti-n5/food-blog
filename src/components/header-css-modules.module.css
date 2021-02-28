@@ -34,6 +34,14 @@ header {
 
 .icons {
     margin: 0 5px;
+    font-size: 18px;
+}
+
+.link {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 12px;
 }
 
 @media only screen and (max-width: 480px) {
@@ -55,5 +63,9 @@ header {
 
     .social {
         padding-bottom: 10px;
+    }
+
+    .icons {
+        font-size: 15px;
     }
   }

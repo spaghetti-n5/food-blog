@@ -14,19 +14,19 @@ const Header = ({ siteTitle }) => (
       <div className={styles.social}>
         <div>
           <a className={styles.icons} href='https://github.com/spaghetti-n5'>
-            <FontAwesomeIcon icon={faGithubSquare} size="lg" />
+            <FontAwesomeIcon icon={faGithubSquare} />
           </a>
           <a className={styles.icons} href='https://www.linkedin.com/in/eleonora-baret-4551a632'>
-            <FontAwesomeIcon icon={faLinkedin} size="lg" />
+            <FontAwesomeIcon icon={faLinkedin} />
           </a>
           <a className={styles.icons} href='https://www.instagram.com/cucinadalnord.it/'>
-            <FontAwesomeIcon icon={faInstagramSquare} size="lg" />
+            <FontAwesomeIcon icon={faInstagramSquare} />
           </a>
           <a className={styles.icons} href='mailto: cucinadalnord@gmail.com'>
-            <FontAwesomeIcon icon={faEnvelope} size="lg" />
+            <FontAwesomeIcon icon={faEnvelope} />
           </a>
         </div>
-        <Link to="/chi-sono">Chi sono</Link>
+        <Link className={styles.link} to="/chi-sono">Chi sono</Link>
       </div>
       <div className={styles.header}>
         <Link to="/">

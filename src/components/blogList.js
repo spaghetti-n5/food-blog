@@ -8,9 +8,6 @@ import Img from "gatsby-image";
 import styles from "./blogList-css-modules.module.css";
 
 export default function BlogList({ data, pageContext }) {
-  console.log(data.allMarkdownRemark.edges)
-  console.log(pageContext)
-
   const { currentPage, numPages } = pageContext
   const isFirst = currentPage === 1
   const isLast = currentPage === numPages
@@ -19,7 +16,6 @@ export default function BlogList({ data, pageContext }) {
   return (
     <Layout>
       <SEO title="Posts" />
-        <h4>{data.allMarkdownRemark.totalCount} Ricette</h4>
         <div className={styles.thumbPostContainer}>
           {data.allMarkdownRemark.edges.map(({ node }) => {
             return (
