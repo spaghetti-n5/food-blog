@@ -3,7 +3,6 @@
     border-bottom: 1px solid black;
     border-top: 1px solid black;
     margin: 15px 0;
-    padding: 20px 0;
 }
 
 .menuLink {
@@ -11,7 +10,8 @@
     font-weight: 400;
     text-transform: uppercase;
     font-size: 12px;
-    padding: 15px;
+    padding: 20px;
+    display: inline-flex;
 }
 
 .menuLink:hover {
@@ -25,7 +25,6 @@
         flex-wrap: wrap;
         justify-content: space-between;
         margin: 10px 0;
-        padding: 5px 0;
     }
     .menuLink {
         padding: 5px 10px;
