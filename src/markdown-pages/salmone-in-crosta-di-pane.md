@@ -51,5 +51,5 @@ Quando l'impasto sarà ben lievitato, dividetelo in due e tiratelo ben sottile c
 
 Potete servire il salmone in crosta di pane con dello yogurt bianco o qualche goccia di limone.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/05/salmone-in-crosta1.jpg)
+![salmone in crosta](../images/salmone-in-crosta1.jpg)
 

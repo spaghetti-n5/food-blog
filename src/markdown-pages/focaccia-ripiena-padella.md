@@ -15,8 +15,6 @@ coverImage: "../images/focaccia-ripiena.jpg"
 
 La focaccia in padella è un'alternativa alla classica pizza e focaccia cotte in forno. Ricca di sapore e divertente da preparare e servire, potete realizzarla con gli ingredienti che più vi piacciono, io ho scelto in questo caso zucchine grigliate, caciotta e speck.
 
- 
-
 **Ingredienti:**
 
 - 290 g di farina 00 setacciata
@@ -45,7 +43,9 @@ Realizzate ora il ripieno: tagliate le zucchine sottili e grigliatele con un goc
 
 Prendete ora le 2 palline di pasta e la padella che andrete ad utilizzare per la sua cottura, possibilmente con fondo alto ed antiaderente. Stendete il primo disco di pasta con un mattarello ottenendo una forma circolate delle dimensioni della padella, dovrà ricoprirne anche i bordi. Quindi oliate la padella con un goccino di olio di semi e disponete all'interno il disco di pasta. Aggiungete il pomodoro e distribuitelo sulla superficie. Stendete quindi uno strato di zucchine, poi aggiungete la mozzarella e la caciotta ed infine le fettine di speck tagliate a pezzetti.
 
-![](http://176.9.41.35:8000/wp-content/uploads/2017/05/focaccia-ripiena3-1024x682.jpg)                      ![](http://176.9.41.35:8000/wp-content/uploads/2017/05/focaccia-ripiena4-1024x682.jpg)
+![focaccia-ripiena](../images/focaccia-ripiena3.jpg)
+
+![focaccia-ripiena](../images/focaccia-ripiena4.jpg)
 
 Stendete ora il secondo disco, dovrà essere più sottile affinché risulti la parte superiore croccante mentre la base morbida e panosa. Disponete il disco di pasta sopra la vostra padella e richiudete i bordi accuratamente richiudendo i due dischi inferiore e superiore e ripiegandoli formando una cornice. Bucherellate leggermente la superficie con una forchetta, spennellatela con un filo di olio extra vergine di oliva e salatela appena (creerà un effetto gradevole al palato). Ora la vostra focaccia è pronta per essere cotta.
 
@@ -53,5 +53,5 @@ Disponete la padella sul fuoco con coperchio, sarà necessario un fuoco abbastan
 
 Una volta cotta rigirate la focaccia in un piatto ed aspettate qualche minuto prima di tagliarla. Buon appetito!!!!!
 
-![](http://176.9.41.35:8000/wp-content/uploads/2017/05/focaccia-ripiena2.jpg)
+![focaccia-ripiena](../images/focaccia-ripiena2.jpg)
 

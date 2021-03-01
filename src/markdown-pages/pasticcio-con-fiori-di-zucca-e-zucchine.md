@@ -46,7 +46,7 @@ Lavate i fiori di zucca, privateli delle foglioline verdi spinose e del pistillo
 
 Imburrate una pirofila e componete la lasagna (3 strati): disponete uno strato di pasta, poi le fette di zucchine, i fiori di zucca, la crema di ricotta, il formaggio a fette e una spolverata di parmigiano.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/Pasticcio-fiori-di-zucca-e-zucchine1.jpg)
+![pasticcio con fiori di zucca](../images/Pasticcio-fiori-di-zucca-e-zucchine1.jpg)
 
 Completate l'ultimo strato con la crema di ricotta, la buccia verde delle zucchine tagliata a cubetti, un paio di striscioline di fiori di zucca, una spolverata di parmigiano e qualche noce di burro. Ricordatevi di bucare la lasagna così evaporerà e non so gonfierà come una palla.
 

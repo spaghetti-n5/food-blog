@@ -18,7 +18,6 @@ coverImage: "../images/gnocchi-patate.jpg"
 - 300 gr di farina 0
 - un pizzico di sale
 
- 
 
 **Procedimento:**
 

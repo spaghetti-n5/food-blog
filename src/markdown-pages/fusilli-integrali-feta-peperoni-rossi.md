@@ -18,8 +18,6 @@ coverImage: "../images/Fusilli-integrali-con-feta.jpg"
 
 Un primo piatto veloce ed economico per un semplice pranzo estivo.
 
- 
-
 **Ingredienti per 3 persone:**
 
 - 2 peperoni rossi allungati
@@ -31,8 +29,6 @@ Un primo piatto veloce ed economico per un semplice pranzo estivo.
 - Qualche foglia di menta e basilico
 - Sale e Pepe nero
 - Olio extravergine di oliva
-
- 
 
 **Procedimento:**
 

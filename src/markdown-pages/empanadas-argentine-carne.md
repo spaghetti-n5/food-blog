@@ -17,8 +17,6 @@ Le empanadas sono dei fagottini cotti al forno tipici del sud America, soprattut
 
 Le empanadas hanno solitamente un ripieno di carne macinata molto speziata o di  formaggio. Vengono servite accompagnate dalla classica salsa argentina, il chimichurri: un pesto di  prezzemolo, peperoncino, olio e aceto di vino ed abbondante aglio schiacciato. Vi riporto qui una versione più delicata e digeribile usando l'aglio schiacciato solo in infusione.
 
- 
-
 **Ingredienti per 13 - 14 empanadas (con dischi di 14 cm di diametro):**
 
 Per l'impasto:
@@ -63,11 +61,11 @@ Nel frattempo preparate la salsa di accompagnamento, e una sorta di chimichurri 
 
 Prendete la pasta ed iniziate a stirarla molto finemente con il mattarello aiutandovi con ulteriore farina perché la pasta tenderà ad attaccarsi. Una volta stesa la pasta, ricavatene dei dischi di 14 cm di diametro. Disponete 2 cucchiai colmi di carne, ormai raffreddata, su una metà del disco, richiudete a mezzaluna sigillando ben bene i bordi. Create ora un motivo carino per la chiusura delle vostre empanadas: potete pizzicare il bordo della pasta, oppure ripiegare su se stessa la pasta poco a poco diagonalmente o semplicemente schiacciate i bordi con i rebbi della forchetta.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/10/empanadas.jpg)
+![empanadas](../images/empanadas.jpg)
 
 Spennellate la superficie delle empanadas con il restante uovo sbattuto. Infornate con forno già preriscaldato a 180 - 200° C per 20 minuti.
 
 Servite le empanadas ancora tiepide accompagnate dalla salsa chimichurri, buon appetito!!!
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/10/Empanadas1.jpg)
+![empanadas](../images/Empanadas1.jpg)
 

@@ -23,7 +23,7 @@ coverImage: "../images/farfalle-ricotta-melanzane.jpg"
 - Basilico
 - Olio extra vergine di oliva
 - 2 scalogni
-- 1\\2 bicchiere di olio di semi
+- 1\2 bicchiere di olio di semi
 
  
 

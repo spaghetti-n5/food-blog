@@ -55,7 +55,7 @@ Ora unite il composto liquidi su quello secco ed amalgamate con una frusta fino 
 
 Versate subito il caramello ancora bollente nella tortiera, disponete le mele a raggiera sopra il caramello. Versate quindi l'impasto ed infornare 180°C per 40 minuti.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/03/tartatain1.jpg)
+![tartatain](../images/tartatain1.jpg)
 
 Sfornate la torta e lasciate che si raffreddi leggermente per una decina di minuti; passate un coltello da burro lungo il bordo, togliete la cerniera della torta e con attenzione capovolgetela con l'aiuto di un piatto.
 

@@ -34,5 +34,5 @@ Scaldate in una friggitrice l'olio di semi di arachidi, quando sara ben caldo ag
 
 Queste chips sono buone tiepide ed ottime anche fredde.
 
-![Chips croccanti di patate](https://cucinadalnord.it/wp-content/uploads/2017/11/chips1.jpg)
+![Chips croccanti di patate](../images/chips1.jpg)
 

@@ -45,7 +45,7 @@ Per il sugo ed il fumetto di pesce:
 
 Iniziate con la preparazione della pasta: procedete disponendo la farina setacciata a fontana, nel centro aggiungete le 2 uova, il nero di seppia ed il sale. Iniziate a sbattere le uova con una forchetta molto energicamente ed iniziate ad incorporare la farina poco a poco. Successivamente iniziate ad impastare con le mani fino ad ottenere un composto liscio ed omogeneo. Infarinate la pallina di pasta ottenuta, avvolgetela nella pellicola trasparente e lasciatela riposare per 30 minuti. Stirate la pasta a mano o con la nonna papera fino al numero 6 e preparate le tagliatelle.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/02/tagliatelle-nero-seppia1.jpg)
+![tagliatelle-nero-seppia](../images/tagliatelle-nero-seppia1.jpg)
 
 Prepariamo le triglie: per prima cosa squamate le triglie, con una forbice tagliate le pinne. Fate un'incisione longitudinalmente sullo stomaco per eliminarne gli organi interni e lavatele bene sotto acqua corrente. Prelevate i due filetti con un coltello da pesce e lasciateli da parte. Ho pensato di servire un filetto per persona ed utilizzare i due filetti rimanenti per il sugo. Tagliate quindi a pezzetti 2 filetti di triglia per il sugo.
 

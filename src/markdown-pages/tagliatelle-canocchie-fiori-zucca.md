@@ -24,7 +24,7 @@ coverImage: "../images/Pasta-con-le-canocchie.jpg"
 
 **Procedimento:**
 
-Preparate la pasta fresca seguendo la ricetta [Pasta all'uovo fatta in casa](https://cucinadalnord.it/pasta-uovo-fatta-in-casa/) e ricavatene delle tagliatelle, lasciate a parte ad asciugare leggermente.
+Preparate la pasta fresca seguendo la ricetta [Pasta all'uovo fatta in casa](https://cucinadalnord.it/pasta-fresca-uovo/) e ricavatene delle tagliatelle, lasciate a parte ad asciugare leggermente.
 
 Pulite le canocchie tagliando la parte degli occhi, le zampe e tutte le squamette della pancia, con una forbice eliminate tutti i bordi laterali del crostaceo che pungono e tagliatelo a pezzetti di due centimetri, quindi lavatelo.
 

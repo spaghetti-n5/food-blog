@@ -29,5 +29,5 @@ coverImage: "../images/Timballo-di-salmone.jpg"
 
 Rivestite due copettine con un foglio di pellicola trasparente e ricopritele con le fette di salmone affumicato sulle quali avrete spalmato uno strato di formaggio fresco spalmabile. In una ciotolina a parte schiacciate l'avocado con una forchetta, aggiungete il pomodoro tagliato a cubetti qualche foglia spezzettata di basilico, sale, pepe un goccio di limone e olio di oliva. Mescolate bene il tutto ed inserite il composto nelle due coppette con il salmone. Tostate due fette di pane, spalmateci uno strato di formaggio fresco e utilizzatele per richiudere la vostra coppetta formando così una base per il timballo. Rovesciate le coppette in un piatto, servite con un goccio di olio, una macinata di pepe ed una fogliolina di menta fresca.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/timballo-di-salmone1.jpg)
+![timballo-di-salmone](../images/timballo-di-salmone1.jpg)
 

@@ -12,7 +12,7 @@ tags:
 coverImage: "../images/panemais.jpg"
 ---
 
-Il pane con farina di mais è una ricetta ottima da realizzare come accompagnamento di salumi e formaggi misti, splendido con il gorgonzola e la [confettura di pomodori verdi e zenzero](https://cucinadalnord.it/confettura-pomodori-verdi/).
+Il pane con farina di mais è una ricetta ottima da realizzare come accompagnamento di salumi e formaggi misti, splendido con il gorgonzola e la [confettura di pomodori verdi e zenzero](https://cucinadalnord.it/confettura-di-pomodori-verdi/).
 
 Per questa ricetta è indispensabile utilizzare farine di ottima di qualità per ottenere un sapore pieno ed intenso. Inoltre è importante tener presente che solo la farina d frumento lieviterà, quindi sarà necessario poco lievito e mantenere la proporzione tra le farine indicata.
 
@@ -38,5 +38,5 @@ Quando l’impasto sarà raddoppiato di volume, appiattitelo delicatamente con l
 
 Lasciate lievitare nuovamente l’impasto coperto per un'ora o per un minimo di 30 minuti. Cuocete in forno caldo a 200° per 45 minuti inserendo alla base del forno una pirofila con poca acqua, così il pane risulterà ben soffice. Una volta pronto sfornate il vostro pane al mais e lasciatelo raffreddare.
 
-![pane con farina di mais](https://cucinadalnord.it/wp-content/uploads/2017/11/panemais1.jpg)
+![pane con farina di mais](../images/panemais1.jpg)
 

@@ -31,11 +31,11 @@ Mescolate il tutto prima con la forchetta e successivamente con le mani impastan
 
 Nel pomeriggio riprendete l’impasto, dividetelo in due parti e impastate nuovamente le due palline separatamente. Disponete i due impasti sopra un tagliere di plastica e lasciate riposare 2 ore in un luogo caldo (ad esempio nel forno spento) coperte da un foglio di carta da forno così non si appiccicherà alla superficie dell'impasto.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/12/pizzaNapoletana03.jpg)
+![pizza Napoletana](../images/pizzaNapoletana03.jpg)
 
 Rimuovete con attenzione l’impasto, infarinate bene e procedete a stendere la pasta con le mani, creando una forma rotonda con i classici bordi grossi della pizza napoletana. Aggiungete ora la passata di pomodoro che avrete precedentemente condito con sale, olio extravergine di oliva e zucchero per correggerne l’acidita, infine spolverate la superficie con origano secco.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/12/pizzaNapoletana02.jpg)
+![pizza Napoletana](../images/pizzaNapoletana02.jpg)
 
 Mettete una padella ampia sul fuoco in modo che risulti bella calda. Quando sarà caldissima trasferiteci la pizza con l’aiuto della carta da forno, aggiungete velocemente la mozzarella e gli ingredienti che preferite e coprite subito con un coperchio. Dopo qualche minuto inizieranno a formarsi delle belle bolle su tutto il cornicione.
 
@@ -43,5 +43,5 @@ Dopo 5 minuti trasferite la pizza su una teglia da forno, possibilmente già cal
 
 Lasciate cuocere per circa 3-5 minuti o finchè la mozzarella inizi a formare delle bollicine e la superficie risulti non acquosa.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/12/pizzaNapoletana.jpg)
+![pizza Napoletana](../images/pizzaNapoletana.jpg)
 

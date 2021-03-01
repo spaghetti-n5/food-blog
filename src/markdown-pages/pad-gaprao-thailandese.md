@@ -23,7 +23,7 @@ Il basilico tailandese chiamato "Holy basil" è una varietà piccante del basili
 
 Potete vedere qui il Thai Basil, caratterizzato dal gambo violaceo, con cui realizzeremo la ricetta.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/07/Thai-Basil.jpg)
+![thai basil](../images/Thai-Basil.jpg)
 
 **Ingredienti per 2 persone:**
 
@@ -56,11 +56,11 @@ In un mortaio aggiungete i peperoncini e riduceteli in poltiglia, aggiungete suc
 
 Scaldate il wok con un goccio di olio di semi di sesamo ed aggiungete subito la pasta d'aglio e peperoncino. Fate soffriggere stando attenti a che non si bruci e aggiungete la carne. Tostatela un po' e aggiungete la cipolla e le tegoline, portatele a cottura quasi ultimata. Aggiungete ora la salsa e mescolate bene il tutto, aggiungete il basilico thailandese e mescolate per qualche minuto finché le foglie si appassiscono leggermente.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/07/Pad-gaprao4.jpg)
+![Pad-gaprao](../images/Pad-gaprao4.jpg)
 
 Servite la carne con il riso accanto.
 
 Si può realizzare questo piatto anche con carne di pollo, tagliando a piccoli cubetti un petto, e seguendo lo stesso procedimento.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/Padkaprao1.jpg)
+![Pad-gaprao](../images/Padkaprao1.jpg)
 

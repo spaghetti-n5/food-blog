@@ -30,8 +30,6 @@ coverImage: "../images/fusilli.jpg"
 - Olio di oliva
 - Sale e pepe
 
- 
-
 **Procedimento:**
 
 Mettere in una padella con un goccio di olio lo scalogno tritato e l'aglio schiacciato. Quando lo scalogno risulta trasparente, aggiungete i gamberi, scottateli per qualche minuto, salateli, quindi sfumate il fondo con il vino bianco. Quando è ben evaporato aggiungete anche il succo di arancia. Lasciate insaporire per qualche minuto il tutto e togliete i gamberi, altrimenti risulterebbero troppo cotti (lasciateli coperti da un coperchio con un po' del loro sughetto per mantenerli morbidi).

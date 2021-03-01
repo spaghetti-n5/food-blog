@@ -14,7 +14,7 @@ coverImage: "../images/crostata_prugne.jpg"
 
 La crostata con prugne fresche e confettura di prugne è un'idea originale e diversa per presentare la classica crostata con la marmellata. I pochi ingredienti che utilizzate dovranno essere di ottima qualità: dal burro, alla farina, alla confettura che non dovrà avere zuccheri aggiunti.
 
-Date un'occhiata anche a questa crostata: [Crostata con marmellata di lamponi](https://cucinadalnord.it/crostata-marmellata-lamponi/)
+Date un'occhiata anche a questa crostata: [Crostata con marmellata di lamponi](https://cucinadalnord.it/crostata-con-marmellata-di-lamponi/)
 
 **Ingredienti per una tortiera di diametro 24 cm:**
 
@@ -23,7 +23,7 @@ Date un'occhiata anche a questa crostata: [Crostata con marmellata di lamponi](h
 - 150 g di burro
 - 1 uovo biologico
 - 1 pizzico di sale
-- Succo di ½ limone
+- Succo di mezzo limone
 - 1 cucchiaio di zucchero di canna
 - 1 vasetto di confettura di prugne
 - 5 prugne grosse mature
@@ -43,5 +43,5 @@ Prendete ora il panetto di pasta dal congelatore ed aiutandovi con una grattugia
 
 Spolverizzate la superficie della crostata di prugne fresche con un cucchiaio di zucchero di canna ed una manciata di pinoli. Cuocete in forno caldo a 180° per 45 minuti circa.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/05/crostata_prugne1.jpg)
+![crostata di prugne](../images/crostata_prugne1.jpg)
 

@@ -35,7 +35,7 @@ Per la salsa:
 
 **Procedimento:**
 
-Preparate l'impasto della pasta all'uovo seguendo la ricetta: [Pasta all'uovo fatta in casa](https://cucinadalnord.it/pasta-uovo-fatta-in-casa/)
+Preparate l'impasto della pasta all'uovo seguendo la ricetta: [Pasta all'uovo fatta in casa](https://cucinadalnord.it/pasta-fresca-uovo/)
 
 Pulite gli asparagi, pelando con un pela patate la parte inferiore del gambo e rompendo l'asparago semplicemente con le mani per eliminare la parte più dura. Tagliateli ora a rondelle sottili, lasciando le punte intere a parte.
 

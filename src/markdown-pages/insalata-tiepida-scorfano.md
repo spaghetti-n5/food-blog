@@ -26,7 +26,7 @@ Vi propongo una ricetta estiva, fresca e veloce da servire come secondo piatto o
 - 1 spicchio di aglio
 - 3 rametti di prezzemolo
 - 3 cucchiai di olio extravergine delicato
-- Succo di 1\\2 limone biologico
+- Succo di 1\2 limone biologico
 - Sale e pepe
 
  

@@ -22,8 +22,8 @@ coverImage: "../images/torta-salata-veloce.jpg"
 - 1 mozzarella
 - 2 pomodori piccadilly
 - 1 zucchina
-- 1\\2 peperone rosso
-- 1\\2 peperone giallo
+- 1\2 peperone rosso
+- 1\2 peperone giallo
 - Sale pepe
 
  

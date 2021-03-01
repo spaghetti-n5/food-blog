@@ -60,7 +60,5 @@ L'idea base di questa cheesecake alle albicocche e lime è quella di ottenere un
 
 Lasciare riposare in frigo per almeno 8 ore e servite!
 
-Qui trovate tutte le ricette di cheesecake che ho provato fin'ora [https://cucinadalnord.it/tag/cheesecake/](https://cucinadalnord.it/tag/cheesecake/)
-
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/cheesecakefredda3a.jpg)
+![cheesecake fredda alle albicocche](../images/cheesecakefredda3a.jpg)
 

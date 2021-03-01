@@ -43,9 +43,7 @@ Nel frattempo montate la panna ben fredda con delle fruste elettriche finché ri
 
 Quando la gelatina si sarà raffreddata, aggiungetela delicatamente al composto e mescolate per incorporare il tutto in modo omogeneo. Non versate la gelatina calda altrimenti, a causa dello sbalzo termico, la gelatina si solidificherà all’istante creando fastidiosi grumi. Versate il composto nella tortiera con la base di biscotti e riponetela in frigorifero per 2 - 3 ore.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/10/cheesecake-frutto-passione1.jpg)
+![cheesecake-frutto-passione1](../images/cheesecake-frutto-passione1.jpg)
 
 Servite la vostra cheesecake accompagnata dal succo del frutto della passione che le conferirà una nota fresca ed esotica.
-
-Qui trovate tutte le ricette di cheesecake che ho provato fino ad ora [https://cucinadalnord.it/tag/cheesecake/](https://cucinadalnord.it/tag/cheesecake/)
 

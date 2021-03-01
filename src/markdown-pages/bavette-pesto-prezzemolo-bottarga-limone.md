@@ -26,7 +26,7 @@ Una ricetta molto semplice ed economica con unico ingrediente pregiato la bottar
 - Olio extravergine di oliva
 - Sale
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/11/Pesto-di-prezzemolo.jpg)
+![pesto-di-prezzemolo](../images/Pesto-di-prezzemolo.jpg)
 
 **Procedimento:**
 

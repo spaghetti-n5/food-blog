@@ -48,7 +48,7 @@ Passati i 30 minuti, porre l'impasto sopra una superficie infarinata e stenderlo
 
  
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/04/KHACHAPURI1-1.jpg)
+![Khachapuri](../images/KHACHAPURI1-1.jpg)
 
 Infornate in forno preriscaldato a 230° per 15 minuti. A questo punto rimuovete il Khachapuri dal forno, con l'aiuto di un cucchiaio fate un foro al centro del formaggio, quindi aggiungete l'uovo. Salate, pepate e rimettetelo nel forno per altri 5 - 6 minuti o finché l'uovo risulti cotto al centro.
 

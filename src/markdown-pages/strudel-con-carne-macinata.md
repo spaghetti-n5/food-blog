@@ -42,11 +42,11 @@ Sbucciate i peperoni con il pelapatate e riduceteli a piccoli cubetti, tagliate 
 
 Preriscaldate il forno a 200°C. Stendete la sfoglia, adagiatevi le sei fette di speck secondo il lato più corto e la fetta di pane da tramezzino al centro secondo il lato più lungo (il pane servirà ad assorbire tutto il liquido in eccesso lasciando la sfoglia asciutta e croccante). Disponeteci sopra tutto il composto di carne e verdure, ripiegateci sopra le estremità delle fette di speck.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/05/strudel4.jpg)
+![strudel](../images/strudel4.jpg)
 
 Per realizzare una chiusura della pasta sfoglia differente ed originale, tagliate le estremità laterali della pasta sfoglia orizzontalmente in varie strisce, poi richiudetele partendo dall'estremità inferiore incrociando le varie strisce sulla parte superiore del rotolo.
 
 Spennellate con l'uovo sbattuto e spargeteci sopra i semi di sesamo. Infornate a 200°C per i primi 20 minuti e poi a 150°C per circa 30 minuti. Lasciate leggermente intiepidire e preparate le fette aiutandovi con un coltello a seghetto.
 
-![Strudel di pasta sfoglia ripieno di macinato, speck e verdure](https://cucinadalnord.it/wp-content/uploads/2017/05/strudel1.jpg)
+![Strudel di pasta sfoglia ripieno di macinato, speck e verdure](../images/strudel1.jpg)
 

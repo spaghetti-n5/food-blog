@@ -48,11 +48,11 @@ Versate quindi gli ingredienti umidi su quelli secchi ed amalgamate bene con un 
 
 Infornate in forno preriscaldato a 160 C per 45 - 50 minuti, provate la cottura con uno stuzzicadenti. Toglietela dal forno e lasciatela raffreddare, la torta rimarrà morbidissima per 3 - 4 giorni.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/09/Torta-al-cacao-senza-uova1.jpg)
+![torta al cacao](../images/Torta-al-cacao-senza-uova1.jpg)
 
 Potete servire la torta semplicemente così cosparsa di zucchero a velo o potete farcirla seguendo le indicazioni sotto.
 
 Con un seghetto dividete la torta in due parti. Preparate in una ciotolina una crema veloce mescolando mezza confezione di formaggio spalmabile, circa un cucchiaio di zucchero a velo (regolate a piacere la dolcezza) ed un goccio di latte per ammorbidirne la consistenza ed ottenere un composto cremoso. Spalmate uno strato di crema sulla base della torta e successivamente uno strato di marmellata di fragole, quindi richiudete la torta con l'altra meta e servite!
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/09/Torta-al-cacao-senza-uova2-1.jpg)
+![torta al cacao](../images/Torta-al-cacao-senza-uova2-1.jpg)
 

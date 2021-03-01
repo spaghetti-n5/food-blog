@@ -33,7 +33,7 @@ Lessate le patate intere in abbondante acqua salata per circa 30 – 40 minuti. 
 
 Iniziate ad aggiungere la farina incorporandola alle patate e alle rape fino a che il composto sarà lavorabile con le mani, non aggiungete eccessiva farina altrimenti gli gnocchi risulteranno troppo duri. Realizzate dei rotolini e tagliate gli gnocchi a piccoli tocchetti.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/gnocchi-con-rape1.jpg)
+![gnocchi-con-rape](../images/gnocchi-con-rape1.jpg)
 
 Sciogliete il gorgonzola a pezzetti con un goccio di latte, salate leggermente e pepate. Tuffate gli gnocchi in abbondante acqua salata, appena verranno a galla scolateli e aggiungeteli alla salsa di gorgonzola, mescolate il tutto bene finché la salsa si addensa e lacca gli gnocchi. Servite con abbondante pepe nero macinato al momento e qualche noce tritata.
 

@@ -54,7 +54,5 @@ Cuocete infine gli gnocchi in abbondante acqua salata, non appena verranno a gal
 
 Aggiungete infine i pomodorini, le cozze e servite!
 
- 
-
-![gnocchi con erba selene o sciopeti o carletti e cozze](https://cucinadalnord.it/wp-content/uploads/2018/05/gnocchiSciope.jpg)
+![gnocchi con erba selene o sciopeti o carletti e cozze](../images/gnocchiSciope.jpg)
 

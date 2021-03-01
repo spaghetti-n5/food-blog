@@ -15,7 +15,7 @@ tags:
 coverImage: "../images/vellutataPatatePorriZucchineCurcuma.jpg"
 ---
 
-Vi propongo questa vellutata di patate, porri e zucchine come una semplice e gustosa ricetta vegetariana, un perfetto comfort food per le fredde giornate invernali, ma con un tocco di originalità.Qui trovate un'altra vellutata di verdure buonissima: [Vellutata di piselli e patate](https://cucinadalnord.it/vellutata-di-piselli-e-patate/)
+Vi propongo questa vellutata di patate, porri e zucchine come una semplice e gustosa ricetta vegetariana, un perfetto comfort food per le fredde giornate invernali, ma con un tocco di originalità. Qui trovate un'altra vellutata di verdure buonissima: [Vellutata di piselli e patate](https://cucinadalnord.it/vellutata-di-piselli-e-patate/)
 
 **Ingredienti per 3 persone:**
 

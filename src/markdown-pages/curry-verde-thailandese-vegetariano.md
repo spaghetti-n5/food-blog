@@ -33,20 +33,11 @@ coverImage: "../images/curry1.jpg"
 - 2 cucchiai di salsa di pesce (sostituitela con del semplice sale per la versione vegetariana)
 - 1 cucchiaio di zucchero
 
- 
-
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/green-curry-paste-254x300.jpg)
-
- 
+![green-curry-paste](../images/green-curry-paste.jpg)
 
 La pasta di curry verde è un preparato tipico della cucina thailandese costituito da: peperoncini verdi freschi, lemongrass, aglio, scalogno, sale, galangal, cumino e semi di coriandolo.
 
 La potete trovare in qualsiasi supermercato asiatico ben fornito, io utilizzo generalmente questa pasta di curry.
-
- 
-
- 
-
  
 
 **Procedimento:**
@@ -61,9 +52,9 @@ Non appena il latte di cocco prende il bollore, procedete alla cottura delle ver
 
 Le verdure dovranno risultare cotte ma ancora al dente e la pasta di curry dovrà essere lucida e dovrete poter notare che l'olio naturale intrinseco della pasta di curry si sia separato creando delle goccioline verdastre.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/curry3.jpg)
+![curry](../images/curry3.jpg)
 
 Ultimata la cottura aggiungete un cucchiaio di zucchero, 2 cucchiai di salsa di pesce e abbondante lime. Servite ben caldo con foglie di coriandolo fresco e riso.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/curry2.jpg)
+![curry](../images/curry2.jpg)
 

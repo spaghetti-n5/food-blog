@@ -23,5 +23,5 @@ coverImage: "../images/crespelle.jpg"
 
 **Procedimento:**
 
-In una ciotola sbattete un uovo con un pizzico di sale, aggiungete tre cucchiai di farina, il latte a filo e la noce di burro sciolta e sbattete il tutto con una frusta stando attenti a non formare grumi. Lasciate riposare il composto in frigorifero per 1\\2 ora. Scaldate un padellino, aggiungete una noce di burro e versate un mestolo di composto, fuori dal fuoco girate il padellino in modo che si formi uno strato sottile di composto che ricopra il fondo. Rimettete sul fuoco e quando i bordi della crespella si staccano, giratela e lasciatela cucinare anche sull’altro lato, in pochi secondi sarà pronta.
+In una ciotola sbattete un uovo con un pizzico di sale, aggiungete tre cucchiai di farina, il latte a filo e la noce di burro sciolta e sbattete il tutto con una frusta stando attenti a non formare grumi. Lasciate riposare il composto in frigorifero per 1\2 ora. Scaldate un padellino, aggiungete una noce di burro e versate un mestolo di composto, fuori dal fuoco girate il padellino in modo che si formi uno strato sottile di composto che ricopra il fondo. Rimettete sul fuoco e quando i bordi della crespella si staccano, giratela e lasciatela cucinare anche sull’altro lato, in pochi secondi sarà pronta.
 

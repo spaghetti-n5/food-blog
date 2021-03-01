@@ -31,5 +31,3 @@ Dopo una cottura di 20 minuti a fuoco lento, con coperto chiuso, aggiungete mezz
 
 Frullate il tutto con il frullatore ad immersione fino ad ottenere un consistenza spumosa, regolate di sale e lasciate raffreddare la crema di cavolfiore.
 
-Vi lascio una ricettina golosa di tacos, a breve ne aggiungeró altre golosissime! [https://cucinadalnord.it/tacos-messicani-carne-macinata/](https://cucinadalnord.it/tacos-messicani-carne-macinata/)
-

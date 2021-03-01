@@ -20,14 +20,13 @@ L'hummus è una salsa tipica della cucina mediorientale a base di pasta di ceci 
 **Ingredienti:**
 
 - 200 g di ceci precedentemente lessati
-- 1 ½ cucchiaio di thaina
-- 1 ½ cucchiaio di succo di limone
+- 1 1/2 cucchiaio di thaina
+- 1 1/2 cucchiaio di succo di limone
 - 1 aglio
 - Olio extravergine di oliva
 - Sale
 - 1 cucchiaino di paprica dolce in polvere
 
- 
 
 **Procedimento:**
 

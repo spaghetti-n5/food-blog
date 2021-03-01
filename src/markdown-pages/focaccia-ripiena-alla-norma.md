@@ -16,7 +16,7 @@ coverImage: "../images/focaccia_norma1.jpg"
 
 Questa focaccia alla norma è caratterizzata da un ripieno di melanzane fritte, pomodoro e mozzarella di bufala ed un impasto realizzato in parte con farina integrale. Una ricetta perfetta per l'estate da servire calda a cubotti ma molto buona anche fredda per un pic-nic.
 
-Qui vi lascio un'altra ricetta per una focaccia deliziosa: [Focaccia sottile allo stracchino](https://cucinadalnord.it/focaccia-sottile-stracchino/)
+Qui vi lascio un'altra ricetta per una focaccia deliziosa: [Focaccia sottile allo stracchino](https://cucinadalnord.it/focaccia-sottile-allo-stracchino/)
 
 **Ingredienti per 4 persone:**
 
@@ -50,9 +50,9 @@ Nel frattempo tagliate la melanzana a fette sottili e friggetele in olio di semi
 
 Riprendete l'impasto e dividetelo: i 2/3 li utilizzerete per la base ed 1/3 per la copertura. Stendete i 2/3 dell'impasto e trasferitelo su una teglia ricoperta di carta da forno. Disponeteci sopra le fette di melanzane, successivamente le fette di mozzarella precedentemente sgocciolate, il sugo di pomodoro, il formaggio grana e le foglie di basilico.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/05/focaccia_norma.jpg)
+![focaccia alla norma](../images/focaccia_norma.jpg)
 
 Stendete ora l'impasto rimanente in uno strato più sottile ed adagiatelo sopra al ripieno, sigillatene bene i bordi e bucherellate la superficie con una forchetta. Infine spennellate la superficie con olio extravergine di oliva ed infornate in forno caldo a 200°C per 30 minuti. Una volta cotta, il fondo della vostra focaccia sarà ben dorato e la superficie croccante.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/05/focaccia_norma2.jpg)
+![forcaccia alla norma](../images/focaccia_norma2.jpg)
 

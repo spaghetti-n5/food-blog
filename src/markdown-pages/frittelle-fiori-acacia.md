@@ -18,8 +18,6 @@ L'acacia, chiamata più precisamente Robinia pseudoacacia, è una pianta della f
 
 Nelle campagne del Veneto (dove è anche nota con diversi nomi dialettali: cassia, gazìa, gadhìa, robina), della Toscana e di altre regioni, vengono consumati fritti in pastella dolce e conferiscono alla frittella un profumo soave e un sapore particolarmente squisito.
 
- 
-
 **Ingredienti per 2 persone:**
 
 - 1 uovo biologico
@@ -33,8 +31,6 @@ Nelle campagne del Veneto (dove è anche nota con diversi nomi dialettali: cassi
 - Fiori di acacia (circa 3 grappoli)
 - Olio di semi per friggere
 - Zucchero a velo a piacere
-
- 
 
 **Procedimento:**
 

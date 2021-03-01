@@ -42,7 +42,7 @@ Il giorno successivo riprendete il vostro impasto e lavoratelo con le mani e l'a
 
 Nel frattempo tagliate le mozzarelle a piccoli cubetti e lasciatele da parte, così perderanno il siero in eccesso. Ora potete iniziare a stirare la vostra pizza con le mani lentamente e mantenendo i bordi esterni più alti oppure più facilmente con il mattarello.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/Pizza.jpg)
+![Pizza](../images/Pizza.jpg)
 
 Preriscaldate il forno a 220°C, non utilizzo una temperatura molto elevata per fare in modo che i bordi della pizza non risultino troppo secchi e bruciacchiati.
 

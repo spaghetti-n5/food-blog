@@ -34,7 +34,6 @@ Potete realizzare questa ricetta con il tipo di zucca che più vi piace, io pref
 - Sale
 - 1/2 cucchiaino di noce moscata
 
- 
 
 **Procedimento:**
 

@@ -40,7 +40,7 @@ Fate una fontana con la farina, aggiungete al centro della fontana un uovo, la p
 
 Preparate ora le tagliatelle: tirate la pasta con la nonnapapera  fino al penultimo spessore oppure a mano. L'impasto è abbastanza umido quindi bisognerà infarinarlo bene con l'aiuto della semola.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/11/tagliatelle-di-zucca1.jpg)
+![tagliatelle-di-zucca](../images/tagliatelle-di-zucca1.jpg)
 
 Frullate le noci con qualche grano di sale grosso e lasciate da parte. In una ciotola diluite il mascarpone con un cucchiao di acqua di cottura, il formaggio grana, un pizzico di sale, le foglie di salvia ed una generosa macinata di pepe fresco.
 

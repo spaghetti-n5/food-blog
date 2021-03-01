@@ -16,8 +16,6 @@ coverImage: "../images/risotto-con-i-finferli.jpg"
 
 Un risottino veloce, saporito e cremoso che potete realizzare utilizzando i fughi finferli freschi oppure congelati o secchi.
 
- 
-
 **Ingredienti per 2 persone:**
 
 - 130 g di riso carnaroli

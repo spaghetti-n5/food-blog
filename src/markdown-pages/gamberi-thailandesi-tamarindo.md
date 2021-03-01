@@ -18,7 +18,7 @@ I gamberi thailandesi al tamarindo sono un piatto veloce da realizzare, molto pa
 
 La salsa a base di tamarindo avrà un sapore pieno e complesso, aumentato dalla piccantezza dei peperoncini, che verrà controbilanciato dalla freschezza dell'insalata iceberg.
 
-Provate anche voi questa ricetta, sarà un successo per voi amanti della cucina thai come me! Qui trovate tutte le ricette [https://cucinadalnord.it/category/cucina-thailandese/](https://cucinadalnord.it/category/cucina-thailandese/)
+Provate anche voi questa ricetta, sarà un successo per voi amanti della cucina thai come me!
 
 **Ingredienti per 2 persone:**
 

@@ -14,7 +14,7 @@ coverImage: "../images/crespelle-asparagi.jpg"
 
 **Ingredienti per 4 persone (12 crespelle):**
 
-Per le crespelle: seguite la ricetta [Crespelle](https://cucinadalnord.it/crespelle/)
+Per le crespelle: seguite la ricetta [Crespelle](https://cucinadalnord.it/impasto-per-le-crespelle/)
 
 Per il ripieno:
 

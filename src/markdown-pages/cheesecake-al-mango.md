@@ -42,5 +42,5 @@ Versate il composto all'interno della vostra tortiera, coprite con la pellicola 
 
 Servite la cheesecake con fette di mango fresco o con una salsa di mango frullato e zucchero.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/05/cheesecakeMango2.jpg)
+![cheesecakeMango](../images/cheesecakeMango2.jpg)
 

@@ -46,7 +46,7 @@ Disponete quindi il primo strato di savoiardi sulla pirofila, quindi uno strato 
 
 Spolverizzate quindi la superficie con del cacao amaro in polvere setacciato.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/04/tiramisu.jpg)
+![tiramisu](../images/tiramisu.jpg)
 
 Buon appetito!
 

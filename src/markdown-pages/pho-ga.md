@@ -47,7 +47,7 @@ Cucinare i noodles: Immergete i noodles in acqua bollente (non salata) finché n
 
 Impiattare: Aggiungete i noodles alla base del piatto, i pezzetti di pollo, i cipollotti tagliati a rondelle, le foglie di coriandolo.
 
-![](http://176.9.41.35:8000/wp-content/uploads/2017/04/pho-ga1.jpeg)
+![pho ga](../images/pho-ga1.jpeg)
 
 Quando tutto è disposto bene, aggiungete sopra il brodo caldissimo! :)
 

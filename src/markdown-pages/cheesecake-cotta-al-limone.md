@@ -53,7 +53,7 @@ Disponete la teglia avvolta lateralmente con la carta di alluminio all'interno d
 
  
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/cheesecake1.jpg)
+![cheesecake al limone](../images/cheesecake1.jpg)
 
 Preparate nel frattempo la crema al limone: scaldate il succo di due limoni in un pentolino piccolo senza arrivare ad ebollizione. In una ciotolina sbattete le 2 uova ed il tuorlo, aggiungete gradualmente lo zucchero e continuate a sbattere. Versate il succo di limone caldo a filo nella ciotolina e riversate il tutto nel pentolino. Riportate sul fuoco e cucinate la crema finché risulta densa tanto da ricoprire il dorso di un cucchiaio. Rimuovete dal fuoco, aggiungete il burro freddo e mescolate affinché risulti completamente sciolto, aggiungete alla fine il sale. Trasferite la crema in una ciotolina e ricopritela con carta trasparente. Una volta fredda, riponete in frigorifero a refrigerare.
 
@@ -61,5 +61,5 @@ Quando la cheesecake si sarà raffreddata, ricoprite la superficie con un sottil
 
  
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/cheesecake2.jpg)
+![cheesecake al limone](../images/cheesecake2.jpg)
 

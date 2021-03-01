@@ -18,8 +18,6 @@ coverImage: "../images/quiche_zucchine.jpg"
 
 Questa quiche di zucchine e tegoline è una ricetta molto semplice da realizzare che vi permetterà di preparare una cena estiva in pochi istanti. Una ricetta vegetariana delicata ma arricchita da formaggi vari: mozzarella, formaggio grana e scamorza affumicata.
 
- 
-
 **Ingredienti per una tortiera di 22 - 24 cm di diametro:**
 
 - 1 rotolo di pasta sfoglia rotonda
@@ -34,11 +32,7 @@ Questa quiche di zucchine e tegoline è una ricetta molto semplice da realizzare
 - Sale e pepe nero
 - Olio extravergine di oliva
 
- 
-
 **Procedimento:**
-
- 
 
 Tagliate le zucchine a cubetti e cuocetele in padella con un aglio schiacciato ed un goccio di olio di oliva per 5-10 minuti, lasciatele croccanti perché finiranno la loro cottura in forno. Salate leggermente e lasciate da parte.
 

@@ -55,11 +55,7 @@ Per le pere:
 
 Setacciate la farina in una ciotola, aggiungete il burro freddo ed iniziate a sabbiare la farina con le dita, creando una specie di "sabbia", lavorando l'impasto rapidamente e con le mani fredde. Aggiungete successivamente lo zucchero, il sale e un uovo, incorporate bene il tutto fino a formare un composto uniforme, formate una palla, infarinate leggermente la superficie, avvolgetela nella pellicola trasparente e riponetela in frigo affinché si ricompatti e raffreddi.
 
- 
-
 Occupatevi ora della crema: scaldate il latte in un pentolino e nel frattempo riducete il cacao in piccole scaglie. In una ciotola sbattete le uova con lo zucchero ed il sale, successivamente aggiungete la maizena setacciata e continuate sbattendo. Non appena il latte sarà caldo versatelo lentamente sopra le uova e mescolate bene con una frusta in modo che non si creino grumi. Riversate il composto nel pentolino e rimettetelo sul fuoco, lasciate cuocere a fuoco dolce finché la crema abbia ottenuto una bella consistenza cremosa che lacca il cucchiaio. Togliete la crema dal fuori ed aggiungete il cioccolato fondete continuando a mescolare bene finché risulti sciolto ed incorporato uniformemente. Versate la crema in una ciotola pulita fredda così non rischierete di stracciare la crema, ora la vostra crema è pronta.
-
- 
 
 Tagliate le pere a metà, rimuovete il torso e affettatele in lunghezza finemente. In una padella sciogliete una noce di burro, aggiungete metà delle pere, un pizzico di zucchero e una spruzzata di cannella in polvere. Scaldate bene il tutto fino a caramellare leggermente le pere, aggiungete un goccio di limone e quando la padella sarà ben calda sfumate con un goccio di rum. Fate evaporare bene l’alcol e lasciatele da parte.
 

@@ -19,7 +19,6 @@ La empanadilla è una classica ricetta spagnola, un fagottino cotto al forno che
 
 Qui vi propongo la ricetta più famosa con il ripieno di pisto, tonno e uova sode.
 
- 
 
 **Ingredienti per 8 empanadillas:**
 
@@ -28,8 +27,8 @@ Per l'impasto:
 - 125 g di olio di oliva
 - 125 g di birra bionda
 - 350 g di farina 00
-- 9 g di sale fino
-- 1 cucchiaino di paprica dolce
+- 5 g di sale fino
+- 1 cucchiaino di paprica affumicata
 
 Per il ripieno:
 
@@ -44,7 +43,6 @@ Per spennellare:
 
 - 1 uovo
 
- 
 
 **Procedimento:**
 
@@ -56,7 +54,7 @@ Preriscaldate il forno a 200°C. Stirate ora la pasta in uno strato sottile, cir
 
 Al centro disponetevi una bella cucchiaiata di pisto, richiudete a mezzaluna e sigillate i bordi con i denti della forchetta.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/05/empanadilla1.jpg)
+![empanadillas](../images/empanadilla1.jpg)
 
 Spennellate la superficie con l'uovo sbattuto ed infornate per 25 - 30 minuti a 200°C finché risultino belle dorate.
 

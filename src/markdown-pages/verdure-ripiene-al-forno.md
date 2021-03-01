@@ -41,7 +41,7 @@ Tagliate le zucchine a cilindretti e svuotatele con uno scavino senza bucare il 
 
 Riempite ora le zucchine, i peperoni ed i pomodori con il ripieno e disponeteli su una teglia coperta di carta da forno; negli spazi vuoti che si formeranno inserite le palline di zucchina che avevate lasciato da parte ed alcuni petali di cipolla.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/07/Verdure-ripiene-al-forno1.jpg)
+![verdure ripiene al forno](../images/Verdure-ripiene-al-forno1.jpg)
 
 Spolverizzate la superficie delle verdure con del pangrattato, un po' di parmigiano ed un giro d' olio; cuocere in forno a 180°C per una ventina di minuti.
 

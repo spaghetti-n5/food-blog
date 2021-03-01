@@ -35,5 +35,5 @@ Unitevi la farina, la fecola ed il lievito setacciati ed amalgamate con cura al 
 
 Imburrate una tortiera con cerchio apribile del diametro di 22 cm ed infarinatela con 2 cucchiai di farina, eliminate la farina in eccesso quindi versate l’impasto e sbattete leggermente la tortiera per uniformarne il livello. Cuocete nel forno già caldo a 180° per 40 minuti, quindi spegnete il forno e lasciate la torta al limone all’interno per 5 minuti. Sfornatela e lasciatela raffreddare completamente.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/08/Torta-di-ricotta-al-llimone1.jpg)
+![torta di ricotta al limone](../images/Torta-di-ricotta-al-llimone1.jpg)
 

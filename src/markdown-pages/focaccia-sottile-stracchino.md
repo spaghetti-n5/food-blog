@@ -25,8 +25,6 @@ coverImage: "../images/Focaccia-ripiena-con-stracchino.jpg"
 - Pepe nero
 - Rosmarino (a piacere)
 
- 
-
 **Procedimento:**
 
 Sciogliete nell'acqua il lievito e lo zucchero, aggiungete la farina setacciata ed infine il sale. Impastate il tutto fino ad ottenere un panetto morbido ed elastico, mettete l'impasto in una ciotola unta di olio e coprite con la pellicola trasparente e lasciate lievitare per un paio d'ore.

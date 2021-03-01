@@ -15,10 +15,10 @@ coverImage: "../images/crespelle-primavera.jpg"
 
 **Ingredienti per 4 persone (12 crespelle):**
 
-Per le crespelle: seguite la ricetta [Crespelle](https://cucinadalnord.it/crespelle/)
+Per le crespelle: seguite la ricetta [Crespelle](https://cucinadalnord.it/impasto-per-le-crespelle/)
 
-- 1\\2 peperone rosso
-- 1\\2 peperone giallo
+- 1\2 peperone rosso
+- 1\2 peperone giallo
 - 3 zucchine verdi e tenere
 - 1 scalogno
 - 1 mozzarella
@@ -26,7 +26,7 @@ Per le crespelle: seguite la ricetta [Crespelle](https://cucinadalnord.it/crespe
 - Basilico
 - Sale pepe
 - Olio extravergine di di oliva
-- 1\\2 litro di besciamella
+- 1\2 litro di besciamella
 
  
 

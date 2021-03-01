@@ -33,7 +33,7 @@ Tagliate i gamberi in piccoli pezzetti, aggiungeteli in una ciotola con la carne
 
 Prendete un foglio di pasta per wonton nella mano ed aggiungete un cucchiaino di ripieno al centro del foglio. Bagnate leggermente con il dito le estremità e piegate il foglio a metà a formare un rettangolo; richiudete bene i bordi. Bagnate leggermente l'angolo sinistro del rettangolo e sovrapponetelo sopra all'altro e premete per sigillare.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/wonton.jpg)
+![wonton](../images/wonton.jpg)
 
 Potete utilizzare questi wonton in una zuppa, al vapore o fritti in olio di semi.
 

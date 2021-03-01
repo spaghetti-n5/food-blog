@@ -37,7 +37,7 @@ Per il ripieno e la salsa:
 
 **Procedimento:**
 
-Preparate la pasta all'uovo con 90 g di farina, 1 uovo e 1/4 cucchiaino di sale seguendo il procedimento che trovate [qui](https://cucinadalnord.it/pasta-uovo-fatta-in-casa/).
+Preparate la pasta all'uovo con 90 g di farina, 1 uovo e 1/4 cucchiaino di sale seguendo il procedimento che trovate [qui](https://cucinadalnord.it/pasta-fresca-uovo/).
 
 Tagliate la mozzarella di bufala a cubetti piccoli e lasciatela da parte in modo che perda il suo siero.
 

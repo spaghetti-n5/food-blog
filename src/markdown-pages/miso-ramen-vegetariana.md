@@ -49,7 +49,7 @@ Per i noodles:
 
 Iniziate con la preparazione dell'impasto per i Ramen: settacciate la farina su una spianatoia, aggiungete un uovo ed un pizzico di sale, sbattete energicamente l'uovo con una forchetta ed iniziate ad incorporare poco a poco la farina. Continuate impastando a mano fino a formare un impasto omogeneo, formate una pallina, infarinatela e lasciatela riposare per mezz'ora avvolta dalla pellicola trasparente. Una volta trascorso il tempo tirate la pasta con la nonna papera fino ad arrivare al numero 6. Passate ora la sfoglia nel rullo per i tagliolini, infarinateli e lasciateli da parte.
 
-![](https://cucinadalnord.it/wp-content/uploads/2018/02/ramen.jpg)
+![ramen](../images/ramen.jpg)
 
 Prepariamo ora l'uovo barzotto: in un pentolino fate arrivate ad ebollizione l'acqua, quando bolle aggiungete l'uovo e lasciate cuocere per 7 minuti. Scolatelo, raffreddatelo in acqua fredda e pulitelo.
 

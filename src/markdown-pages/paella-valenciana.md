@@ -46,11 +46,11 @@ Alzate il fuoco e lasciate bollire il tutto fino a che il livello del liquido ar
 
 Aggiungete il riso a pioggia, disegnando prima un diametro e poi metà; il riso dovrà formare una montagnola che fuoriesce leggermente dal liquido, così misurerete perfettamente il rapporto acqua riso della vostra paella e risulterà alla fine bella asciutta. Rimuovete il riso e cercate di disporre ordinatamente tutti gli ingredienti e livellate la quantità di riso, d'ora in poi non potrete più mescolare!
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/paella.jpg)
+![paella](../images/paella.jpg)
 
 Cucinate a fuoco alto per 10 minuti, poi abbassate il fuoco per altri 5 minuti; i rimanenti 3 minuti a fuoco nuovamente alto in modo che si formi una crosticina alla base della paella.
 
 Disponete sopra al riso dei rametti di rosmarino, coprite con carta di giornale e lasciate riposare per 5 minuti.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/paella3.jpg)
+![paella](../images/paella3.jpg)
 

@@ -59,11 +59,11 @@ Per le patatine al forno:
 
 Innanzitutto preparate i panini con gli ingredienti qui indicati e seguendo la [ricetta](https://cucinadalnord.it/pane-per-hamburger-fatto-casa/). Questo sarà il risultato!
 
-![Pane per hamburger fatto in casa stile moderno](https://cucinadalnord.it/wp-content/uploads/2017/09/Pane-per-hamburger-1.jpg)
+![Pane per hamburger fatto in casa stile moderno](../images/Pane-per-hamburger-1.jpg)
 
 Iniziamo preparando le patatine al forno: sbucciate e tagliate le patate a bastoncini cercando di riprodurre la forma delle classiche patatine fritte. Mettete ora le patatine in una ciotola con acqua fredda così perderanno l'amido in eccesso e risulteranno più croccanti. Dopo 5 - 10 minuti scolate bene le patatine e disponete su una teglia da forno, salatele e aggiungete un filo sia di olio di semi sia di olio extravergine di oliva. Cuocete in forno caldo a 190°C per circa 15 - 20 minuti azionando il grill per gli ultimi 3 minuti in modo che le patatine risultino più croccanti.
 
-![Patate fritte cotte al forno, leggere e veloci](https://cucinadalnord.it/wp-content/uploads/2017/09/Patate-fritte-al-forno.jpg)
+![Patate fritte cotte al forno, leggere e veloci](../images/Patate-fritte-al-forno.jpg)
 
 Togliete la carne dal frigo almeno un'ora prima della preparazione e trasferitela in una ciotola. Aggiungete un pizzico di sale e iniziate ad impastare la carne con le mani in modo da rilassare le fibre e creare una consistenza più uniforme. Dividete l'impasto in 2 e formate con le mani la tipica forma circolare dell'hamburger della stessa dimensione del vostro pane. Quindi realizzate un hamburger sottile e grande per un panino stile "americano" e un hamburger più alto e piccolo per uno stile "moderno". Salate e pepate abbondantemente i due lati degli hamburger, anche i lati; esagerate leggermente con il sale perchè gran parte rimarrà attaccato alla bistecchiera e non renderà così la carne troppo salata.
 
@@ -73,5 +73,5 @@ Potete cucinare la carne su una bistecchiera, una padella o ancora meglio sul ba
 
 Quando il vostro pane sarà pronto e raffreddato, tagliatelo a metà lasciando la base leggermente più alta, e mettetelo sulla bistecchiera in cui avete cotto la carne sul lato interno e lasciatelo scaldare e grigliare per 2 minuti circa. Potete utilizzare le salse che più vi piacciono, io consiglio di spalmare la base con uno strato di senape e la parte sopra con ketchup. Componete ora il vostro cheeseburger, l'alternanza degli strati è molto importante! Disponete sulla base del pane la foglia di lattuga, qualche fetta di pomodoro, l'hamburger con il formaggio, i cetriolini e il bacon, quindi chiudete il tutto. Servite il vostro cheeseburger con le patatine fritte cotte al forno.
 
-![Cheeseburger di carne di manzo e pane fatto in casa](https://cucinadalnord.it/wp-content/uploads/2017/09/Cheeseburger1.jpg)
+![Cheeseburger di carne di manzo e pane fatto in casa](../images/Cheeseburger1.jpg)
 

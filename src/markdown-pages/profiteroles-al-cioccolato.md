@@ -31,7 +31,7 @@ coverImage: "../images/Profiteroles.jpg"
 
 **Procedimento:**
 
-Realizzate 30 bignè seguendo la ricetta della [Pasta choux (bignè)](https://cucinadalnord.it/pasta-choux-bigne/)
+Realizzate 30 bignè seguendo la ricetta della [Pasta choux (bignè)](https://cucinadalnord.it/pasta-choux/)
 
 Mettete in un pentolino 200 ml di panna e il cioccolato, fate sciogliere lentamente e zuccherate a piacere. Montate a neve soda i restanti 200 ml di panna con dello zucchero a velo.
 

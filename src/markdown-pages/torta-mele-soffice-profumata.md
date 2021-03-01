@@ -40,7 +40,7 @@ Versate l'impasto in una tortiera di 24 cm di diametro, nella superficie infilat
 
 Cuocete a 180° in forno cado per circa 50 minuti, fate sempre la prova stecchino.
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/11/torta-di-mele1.jpg)
+![torta di mele](../images/torta-di-mele1.jpg)
 
-![Torta di mele soffice e profumata](https://cucinadalnord.it/wp-content/uploads/2017/11/Torta-di-mele.jpg)
+![Torta di mele soffice e profumata](../images/Torta-di-mele.jpg)
 

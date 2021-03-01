@@ -38,7 +38,7 @@ Tagliate la cipolla e l'aglio a piccoli cubetti ed aggiungeteli alla paella con 
 
  
 
-![](https://cucinadalnord.it/wp-content/uploads/2017/06/arroz-a-banda1.jpg)
+![arroz-a-banda](../images/arroz-a-banda1.jpg)
 
 Ora abbassate il fuoco al minimo e lasciate cucinare per 6 minuti. Per gli ultimi 2 minuti, alzate nuovamente il fuoco e lasciate che si formi sul fondo una bella crosticina caramellata e saporita. Il tempo totale di cottura del riso è 18 minuti.
 
