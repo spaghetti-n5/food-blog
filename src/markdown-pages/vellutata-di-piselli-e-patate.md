@@ -33,11 +33,11 @@ Una ricettina veloce con ingredienti comuni e facili da reperire e che molto pro
 **Procedimento:**
 
 Per prima cosa pulite ed affettate le cipolle, sbucciate le patate e tagliatele a cubetti.  
-Versate un filo di olio in una pentola, aggiungete le cipolle ed un pizzico di sale e stufate dolcemente fino a che le cipolle non risultino morbide. Quindi continuate con le patate ed i piselli, mescolate il tutto affinchè si insaporisca bene.
+Versate un filo di olio in una pentola, aggiungete le cipolle ed un pizzico di sale e stufate dolcemente fino a che le cipolle risultino morbide. Quindi continuate con le patate ed i piselli, mescolate il tutto affinchè si insaporisca bene.
 
 Ora aggiungete i cubetti di formaggio grana (li uso come sostituti del brodo vegetale quando ho finito le riserve di brodo fatto in casa), la curcuma, sale e l’acqua bollente fino a comprire leggermente le verdure.
 
-Lasciate cuocere a fuoco lento per 40 minuti. Le verdure saranno ora cotte, eliminate la curcuma ed il parmigiano e regolatelo di sale. Frullate il tutto con un minipimer e servite la vellutata di piselli e patate ben calda.
+Lasciate cuocere a fuoco lento per 40 minuti con coperchio. Le verdure saranno ora cotte, eliminate la curcuma ed il parmigiano e regolatelo di sale. Frullate il tutto con un minipimer e servite la vellutata di piselli e patate ben calda.
 
 Qui trovate un'altra vellutata perfetta per le giornate invernali [Vellutata di patate, porri, zucchine e curcuma](https://cucinadalnord.it/vellutata-di-patate-porri-zucchine-curcuma/)
 
