@@ -26,7 +26,7 @@ const Header = ({ siteTitle }) => (
             <FontAwesomeIcon icon={faInstagramSquare} />
           </a>
           <a className={styles.icons} href='mailto: cucinadalnord@gmail.com'>
-            <FontAwesomeIcon icon={faEnvelope} size="1x" />
+            <FontAwesomeIcon icon={faEnvelope} />
           </a>
         </div>
         <Link className={styles.link} to="/chi-sono">Chi sono</Link>
@@ -36,7 +36,6 @@ const Header = ({ siteTitle }) => (
           <h1 className={styles.headerTitle}>
               {siteTitle}
           </h1>
-          <h2 className={styles.headerSubTitle}> - in cerca di felicitá - </h2>
         </Link>
         <Menu />
       </div>

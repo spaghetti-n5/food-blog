@@ -35,7 +35,7 @@ input:focus{
 .tableData {
     font-size: 14px;
     border: 1px solid #545454;
-    padding: 10px;
+    padding: 0px;
     color: #545454;
     font-family: 'Roboto', sans-serif;
     cursor: pointer;
@@ -48,6 +48,7 @@ input:focus{
 .tableLink {
     width: 100%;
     display: inline-block;
+    padding: 10px;
 }
 
 @media only screen and (max-width: 480px) {
