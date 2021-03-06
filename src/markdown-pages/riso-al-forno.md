@@ -1,7 +1,7 @@
 ---
 title: "Riso al forno Valenciano"
 slug: "riso-al-forno-valenciano"
-date: "221-03-06"
+date: "2021-03-06"
 categories: 
   - "cucina-spagnola"
   - "primi-piatti"
@@ -12,7 +12,7 @@ tags:
 coverImage: "../images/paella2-1.jpg"
 ---
 
-Il Riso al Forno, arroz al horno o Arros al forn (come se dice in la lingua originale) e un piatto tradizionale de la cucina Valenciana.
+Il Riso al Forno, arroz al horno o Arròs al forn (come se dice in la lingua originale) e un piatto tradizionale de la cucina Valenciana.
 Questo piato viene solitamente cuoto in una teglia di terracota e mangiato il weekend in famiglia.
 Ancora ricordo la prima volta che l'ho assagiato a Valencia. Ha stato durante le feste di Natale, la ciotola di terracota era in il mezzo dil tavolo e quella persona che serviva, chiedeva a ogni persona che ingredienti volevano. In ogni famiglia e diverso, ma solitamente il pomodoro e la patata vengono tanto appreziati.
 
