@@ -1,6 +1,7 @@
 name: Publish page to GitHub pages
-on: push
-
+on:
+  release:
+    types: [published]
 jobs:
   build_app:
     name: Build frontend app
