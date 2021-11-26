@@ -18,7 +18,7 @@ jobs:
       - name: Install gatsby-cli
         run: npm install -g gatsby-cli
       - name: Build app
-        run: gatsby build
+        run: gatsby build --prefix-paths
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.0.0
         with:
